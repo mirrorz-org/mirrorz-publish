@@ -8,12 +8,12 @@ import sys
 import os
 import argparse
 
-VERSION = '20210409'
+VERSION = '20210503'
 CURL_VERSION = ''
 
 big = {
     'centos': '/8/isos/x86_64/CentOS-8.3.2011-x86_64-dvd1.iso',
-    'archlinux': '/iso/latest/archlinux-2021.03.01-x86_64.iso',
+    'archlinux': '/iso/latest/archlinux-2021.05.01-x86_64.iso',
     'ubuntu': '/indices/md5sums.gz',
     'debian': '/ls-lR.gz',
 }
