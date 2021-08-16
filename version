@@ -1,4 +1,4 @@
-frontend: e0fead6 Add generation of version of dependencies in build output
+frontend: 846ab00 Use cd instead of -C for old git compatibility
 config: 07b24ee Add hit for cngi 302-go
 parser: fdcbcf7 Add help for nju
 i18n: 25bf668 Add i18n for 302-go in about
