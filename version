@@ -1,6 +1,6 @@
 frontend: 846ab00 Use cd instead of -C for old git compatibility
 config: 07b24ee Add hit for cngi 302-go
-parser: fdcbcf7 Add help for nju
+parser: 1b507fa Add bjtu
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 4b77aa5 Add trigger to MirrorZ deploy
 json_legacy: 2021-08-16T15:25:51.904Z
