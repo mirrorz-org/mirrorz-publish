@@ -1,8 +1,8 @@
-frontend: 846ab00 Use cd instead of -C for old git compatibility
+frontend: 922d3f2 gen_ver to stdout instead of dist/version
 config: d17dea5 Add bjtu
 parser: 1b507fa Add bjtu
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 4b77aa5 Add trigger to MirrorZ deploy
-json_legacy: 2021-08-16T15:25:51.904Z
+json_legacy: 2021-08-17T05:14:04.458Z
 legacy: b5c6469 Fix config format change
 ohmymirrorz: 0f6cb1f Add trigger to MirrorZ deploy
