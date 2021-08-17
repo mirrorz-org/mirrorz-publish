@@ -1,6 +1,6 @@
 frontend: 922d3f2 gen_ver to stdout instead of dist/version
 config: d17dea5 Add bjtu
-parser: 1b507fa Add bjtu
+parser: 5b41bb8 Use desc_help as mirrors for bjtu
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 4b77aa5 Add trigger to MirrorZ deploy
 json_legacy: 2021-08-17T05:14:04.458Z
