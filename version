@@ -1,4 +1,4 @@
-frontend: f7c362b Fix React error #310 and #300
+frontend: c2187c5 Fix React error #310 and #300
 config: a67bd43 Use json-legacy version of wsyu
 parser: 9dd4df5 Update nju api
 i18n: 25bf668 Add i18n for 302-go in about
