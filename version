@@ -1,6 +1,6 @@
 frontend: 0b832b7 Use case-insensitive regex for filter
 config: a67bd43 Use json-legacy version of wsyu
-parser: bca6259 Upgrade nju to new addition.json api
+parser: d145e36 Fix nju addition.json api
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 4b77aa5 Add trigger to MirrorZ deploy
 json_legacy: 2021-08-19T13:26:27.385Z
