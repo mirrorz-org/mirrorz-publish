@@ -8,7 +8,7 @@ import sys
 import os
 import argparse
 
-VERSION = '20210823'
+VERSION = '20210824'
 CURL_VERSION = ''
 
 big = {
