@@ -3,6 +3,6 @@ config: 69b1f19 Add bupt
 parser: 7f7537d Add bupt
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 265f951 Add bupt
-json_legacy: 2021-09-14T13:27:24.198Z
+json_legacy: 2021-09-15T13:25:59.751Z
 legacy: b5c6469 Fix config format change
 ohmymirrorz: 0f6cb1f Add trigger to MirrorZ deploy
