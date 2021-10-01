@@ -1,6 +1,6 @@
 frontend: 6c2e4d6 Merge pull request #69 from mirrorz-org/dependabot/npm_and_yarn/nth-check-2.0.1
 config: 69b1f19 Add bupt
-parser: 7f7537d Add bupt
+parser: bed024e Merge pull request #2 from AirWSW/patch-1
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 631203d Add xtom logo
 json_legacy: 2021-09-30T13:26:45.869Z
