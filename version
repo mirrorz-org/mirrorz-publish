@@ -3,6 +3,6 @@ config: 69b1f19 Add bupt
 parser: bed024e Merge pull request #2 from AirWSW/patch-1
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 631203d Add xtom logo
-json_legacy: 2021-10-07T13:29:39.419Z
+json_legacy: 2021-10-08T13:25:50.012Z
 legacy: b5c6469 Fix config format change
 ohmymirrorz: 0f6cb1f Add trigger to MirrorZ deploy
