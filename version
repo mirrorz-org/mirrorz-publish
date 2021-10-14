@@ -3,6 +3,6 @@ config: 729ef3e Merge pull request #1 from yinjiayi/master
 parser: 6795e95 Merge pull request #3 from AirWSW/patch-2
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 631203d Add xtom logo
-json_legacy: 2021-10-13T13:26:08.776Z
+json_legacy: 2021-10-14T13:26:07.899Z
 legacy: b5c6469 Fix config format change
 ohmymirrorz: 0f6cb1f Add trigger to MirrorZ deploy
