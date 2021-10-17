@@ -3,6 +3,6 @@ config: aaaa7df Add sdu
 parser: 2012ec6 Add sdu
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 07c2129 Add sdu
-json_legacy: 2021-10-17T10:39:32.075Z
+json_legacy: 2021-10-17T13:24:15.210Z
 legacy: b5c6469 Fix config format change
 ohmymirrorz: abb8c9e Update big list in oh-my-mirrorz
