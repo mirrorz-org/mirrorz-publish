@@ -1,5 +1,5 @@
 frontend: 060a16d Update cname.json
-config: 8076207 Merge pull request #2 from xdlinux/xidian
+config: d12fdf8 Add xidian for cngi 302-go
 parser: 787549a cqupt: change url to edu.cn
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: cefdc04 cqupt: change url to edu.cn
