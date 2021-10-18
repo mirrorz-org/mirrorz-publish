@@ -2,7 +2,7 @@ frontend: 060a16d Update cname.json
 config: eaa849c Add xtom-jp
 parser: 6c2b367 Add xtom-jp
 i18n: 25bf668 Add i18n for 302-go in about
-json_site: cefdc04 cqupt: change url to edu.cn
+json_site: 9063ad9 Add xtom-jp
 json_legacy: 2021-10-18T13:25:34.610Z
 legacy: b5c6469 Fix config format change
 ohmymirrorz: abb8c9e Update big list in oh-my-mirrorz
