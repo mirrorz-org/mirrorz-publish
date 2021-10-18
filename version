@@ -3,6 +3,6 @@ config: 8076207 Merge pull request #2 from xdlinux/xidian
 parser: 787549a cqupt: change url to edu.cn
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: cefdc04 cqupt: change url to edu.cn
-json_legacy: 2021-10-18T12:21:21.904Z
+json_legacy: 2021-10-18T13:25:34.610Z
 legacy: b5c6469 Fix config format change
 ohmymirrorz: abb8c9e Update big list in oh-my-mirrorz
