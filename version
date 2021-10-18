@@ -1,6 +1,6 @@
 frontend: 060a16d Update cname.json
 config: aaaa7df Add sdu
-parser: 2012ec6 Add sdu
+parser: 620d7bb Add xidian (#4)
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: b64f923 Add xidian.json (#2)
 json_legacy: 2021-10-17T13:24:15.210Z
