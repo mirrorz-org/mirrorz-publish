@@ -1,5 +1,5 @@
 frontend: 060a16d Update cname.json
-config: aaaa7df Add sdu
+config: 8076207 Merge pull request #2 from xdlinux/xidian
 parser: 620d7bb Add xidian (#4)
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: b64f923 Add xidian.json (#2)
