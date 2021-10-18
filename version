@@ -1,6 +1,6 @@
 frontend: 060a16d Update cname.json
-config: d12fdf8 Add xidian for cngi 302-go
-parser: 787549a cqupt: change url to edu.cn
+config: eaa849c Add xtom-jp
+parser: 6c2b367 Add xtom-jp
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: cefdc04 cqupt: change url to edu.cn
 json_legacy: 2021-10-18T13:25:34.610Z
