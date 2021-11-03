@@ -4,5 +4,5 @@ parser: 8a732af Add UA for node
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 9063ad9 Add xtom-jp
 json_legacy: 2021-11-03T08:14:27.044Z
-legacy: b5c6469 Fix config format change
+legacy: 0642644 Add UA
 ohmymirrorz: abb8c9e Update big list in oh-my-mirrorz
