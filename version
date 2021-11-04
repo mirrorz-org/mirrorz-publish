@@ -1,4 +1,4 @@
-frontend: 060a16d Update cname.json
+frontend: c873df0 oh-my-mirrorz: build ua_url
 config: eaa849c Add xtom-jp
 parser: 8a732af Add UA for node
 i18n: 25bf668 Add i18n for 302-go in about

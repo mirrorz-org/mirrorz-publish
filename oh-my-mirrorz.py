@@ -10,7 +10,7 @@ import argparse
 
 VERSION = '20211104'
 CURL_VERSION = ''
-UA_URL = ''
+UA_URL = 'https://mirrorz.org'
 
 big = {
     'centos': '/8/isos/x86_64/CentOS-8.4.2105-x86_64-dvd1.iso',
