@@ -1,6 +1,6 @@
 frontend: c873df0 oh-my-mirrorz: build ua_url
 config: eaa849c Add xtom-jp
-parser: 8a732af Add UA for node
+parser: f1636df Revert "Add xidian (#4)"
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 9063ad9 Add xtom-jp
 json_legacy: 2021-11-05T13:26:56.872Z
