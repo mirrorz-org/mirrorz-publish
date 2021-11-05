@@ -3,6 +3,6 @@ config: eaa849c Add xtom-jp
 parser: 8a732af Add UA for node
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 9063ad9 Add xtom-jp
-json_legacy: 2021-11-04T13:27:02.581Z
+json_legacy: 2021-11-05T13:26:56.872Z
 legacy: 0642644 Add UA
 ohmymirrorz: 22514d1 Update big list in oh-my-mirrorz
