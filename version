@@ -3,6 +3,6 @@ config: 62ca07f Change xidian from parser to url
 parser: f1636df Revert "Add xidian (#4)"
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: ff61a02 Revert "Add xidian.json (#2)"
-json_legacy: 2021-11-18T13:27:22.078Z
+json_legacy: 2021-11-19T13:27:14.113Z
 legacy: 0642644 Add UA
 ohmymirrorz: 22514d1 Update big list in oh-my-mirrorz
