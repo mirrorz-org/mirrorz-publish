@@ -1,6 +1,6 @@
 frontend: c873df0 oh-my-mirrorz: build ua_url
 config: 62ca07f Change xidian from parser to url
-parser: f1636df Revert "Add xidian (#4)"
+parser: 271cef7 nju: use new help.json format
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: ff61a02 Revert "Add xidian.json (#2)"
 json_legacy: 2021-11-22T13:27:57.944Z
