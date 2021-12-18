@@ -1,4 +1,4 @@
-frontend: c873df0 oh-my-mirrorz: build ua_url
+frontend: 0844732 Generate 404.html as copy, not symlink
 config: 62ca07f Change xidian from parser to url
 parser: 271cef7 nju: use new help.json format
 i18n: 25bf668 Add i18n for 302-go in about
