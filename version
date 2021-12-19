@@ -1,8 +1,8 @@
-frontend: 0844732 Generate 404.html as copy, not symlink
+frontend: 9c1ccf7 Bump dependencies
 config: 62ca07f Change xidian from parser to url
 parser: 271cef7 nju: use new help.json format
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: ff61a02 Revert "Add xidian.json (#2)"
-json_legacy: 2021-12-18T13:27:22.487Z
+json_legacy: 2021-12-19T13:27:38.795Z
 legacy: 0642644 Add UA
 ohmymirrorz: 22514d1 Update big list in oh-my-mirrorz
