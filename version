@@ -1,4 +1,4 @@
-frontend: 9c1ccf7 Bump dependencies
+frontend: 95c96c7 Update mirrorz.json status explanation
 config: 62ca07f Change xidian from parser to url
 parser: 271cef7 nju: use new help.json format
 i18n: 25bf668 Add i18n for 302-go in about
