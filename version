@@ -1,4 +1,4 @@
-frontend: 95c96c7 Update mirrorz.json status explanation
+frontend: 003ce9b Merge pull request #72 from mirrorz-org/dependabot/npm_and_yarn/follow-redirects-1.14.7
 config: 62ca07f Change xidian from parser to url
 parser: 271cef7 nju: use new help.json format
 i18n: 25bf668 Add i18n for 302-go in about
