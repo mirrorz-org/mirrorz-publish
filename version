@@ -1,8 +1,8 @@
 frontend: 00b6e38 Merge pull request #74 from mirrorz-org/dependabot/npm_and_yarn/node-fetch-2.6.7
 config: dcce584 Disable HUST which uses parser
-parser: 271cef7 nju: use new help.json format
+parser: abfba1c Remove hust parser
 i18n: 25bf668 Add i18n for 302-go in about
-json_site: ff61a02 Revert "Add xidian.json (#2)"
+json_site: e21315d Remove hust
 json_legacy: 2022-01-25T13:23:36.373Z
 legacy: 0642644 Add UA
 ohmymirrorz: 22514d1 Update big list in oh-my-mirrorz
