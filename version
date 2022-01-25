@@ -1,5 +1,5 @@
 frontend: 00b6e38 Merge pull request #74 from mirrorz-org/dependabot/npm_and_yarn/node-fetch-2.6.7
-config: 62ca07f Change xidian from parser to url
+config: dcce584 Disable HUST which uses parser
 parser: 271cef7 nju: use new help.json format
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: ff61a02 Revert "Add xidian.json (#2)"
