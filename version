@@ -3,6 +3,6 @@ config: dcce584 Disable HUST which uses parser
 parser: abfba1c Remove hust parser
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: e21315d Remove hust
-json_legacy: 2022-02-01T13:23:39.789Z
+json_legacy: 2022-02-02T13:23:26.562Z
 legacy: 0642644 Add UA
 ohmymirrorz: 22514d1 Update big list in oh-my-mirrorz
