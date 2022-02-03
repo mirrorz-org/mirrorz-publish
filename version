@@ -2,7 +2,7 @@ frontend: 00b6e38 Merge pull request #74 from mirrorz-org/dependabot/npm_and_yar
 config: 4e5e6f8 New zju
 parser: f2a1f79 Remove zju
 i18n: 25bf668 Add i18n for 302-go in about
-json_site: e21315d Remove hust
+json_site: a47a5a0 Remove zju
 json_legacy: 2022-02-02T13:23:26.562Z
 legacy: 0642644 Add UA
 ohmymirrorz: 22514d1 Update big list in oh-my-mirrorz
