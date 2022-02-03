@@ -1,5 +1,5 @@
 frontend: 00b6e38 Merge pull request #74 from mirrorz-org/dependabot/npm_and_yarn/node-fetch-2.6.7
-config: dcce584 Disable HUST which uses parser
+config: 4e5e6f8 New zju
 parser: abfba1c Remove hust parser
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: e21315d Remove hust
