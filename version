@@ -1,4 +1,4 @@
-frontend: 00b6e38 Merge pull request #74 from mirrorz-org/dependabot/npm_and_yarn/node-fetch-2.6.7
+frontend: 82d4fd8 Update cname.json
 config: da5f8fa New sdu
 parser: 7337464 Remove sdu parser
 i18n: 25bf668 Add i18n for 302-go in about
