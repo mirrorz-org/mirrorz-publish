@@ -1,6 +1,6 @@
 frontend: 82d4fd8 Update cname.json
 config: da5f8fa New sdu
-parser: 7337464 Remove sdu parser
+parser: 76c8cf3 Add njtech
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: f45b0d8 Add njtech
 json_legacy: 2022-02-03T13:23:36.801Z
