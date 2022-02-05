@@ -1,4 +1,4 @@
-frontend: 90311cc Update options.json
+frontend: b9386eb Use empty options.json
 config: 83db652 Add njtech
 parser: 3f292f2 bupt: use correct parser
 i18n: 25bf668 Add i18n for 302-go in about
