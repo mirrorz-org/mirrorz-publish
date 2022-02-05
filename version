@@ -1,4 +1,4 @@
-frontend: 82d4fd8 Update cname.json
+frontend: 90311cc Update options.json
 config: 83db652 Add njtech
 parser: 3f292f2 bupt: use correct parser
 i18n: 25bf668 Add i18n for 302-go in about
