@@ -1,6 +1,6 @@
 frontend: b9386eb Use empty options.json
 config: 83db652 Add njtech
-parser: 5035a9f pku: disable site.disk
+parser: 4a1b938 Merge pull request #6 from guliujian/master
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: f45b0d8 Add njtech
 json_legacy: 2022-02-06T13:21:44.104Z
