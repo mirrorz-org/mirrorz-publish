@@ -3,6 +3,6 @@ config: 83db652 Add njtech
 parser: 4064da8 njupt: import tunasync
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: f45b0d8 Add njtech
-json_legacy: 2022-02-11T13:22:49.574Z
+json_legacy: 2022-02-12T13:21:12.720Z
 legacy: 0642644 Add UA
 ohmymirrorz: 90ddee9 Update big list
