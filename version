@@ -3,6 +3,6 @@ config: 35e517b Merge pull request #3 from skyzh/patch-1
 parser: 4064da8 njupt: import tunasync
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: f45b0d8 Add njtech
-json_legacy: 2022-02-15T13:23:37.738Z
+json_legacy: 2022-02-16T13:23:24.488Z
 legacy: 0642644 Add UA
 ohmymirrorz: 90ddee9 Update big list
