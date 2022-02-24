@@ -1,4 +1,4 @@
-frontend: 2cadf7d Merge pull request #75 from mirrorz-org/dependabot/npm_and_yarn/follow-redirects-1.14.8
+frontend: 207563c Add cernet env in package.json
 config: 38e5ab5 Initial config for mirrors.cernet.edu.cn
 parser: 4064da8 njupt: import tunasync
 i18n: 25bf668 Add i18n for 302-go in about
