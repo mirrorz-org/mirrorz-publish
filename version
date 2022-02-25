@@ -1,4 +1,4 @@
-frontend: d857c20 Load mirrorz.json again and Decrease regular update interval
+frontend: 0989e0f More indent on usage
 config: 74783b5 Different intro for different site
 parser: 4064da8 njupt: import tunasync
 i18n: 25bf668 Add i18n for 302-go in about
