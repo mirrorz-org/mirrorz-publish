@@ -1,4 +1,4 @@
-frontend: 95ce8a7 Parking page (mirrorz.org/) not 404 anymore
+frontend: 47876f7 Support different intro for different site
 config: 74783b5 Different intro for different site
 parser: 4064da8 njupt: import tunasync
 i18n: 25bf668 Add i18n for 302-go in about
