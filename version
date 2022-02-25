@@ -1,4 +1,4 @@
-frontend: 0989e0f More indent on usage
+frontend: 7396479 Show only relative time
 config: 74783b5 Different intro for different site
 parser: 4064da8 njupt: import tunasync
 i18n: 25bf668 Add i18n for 302-go in about
