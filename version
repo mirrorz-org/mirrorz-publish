@@ -1,5 +1,5 @@
 frontend: 8fb3043 Self-host Not-SC Sans/Mono fonts
-config: e0fd059 cernet: add more after ack
+config: 2449f7a Add zju for mirrorz.d.json
 parser: 4064da8 njupt: import tunasync
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: f45b0d8 Add njtech
