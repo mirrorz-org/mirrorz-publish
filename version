@@ -3,6 +3,6 @@ config: 3d5b334 Add sdu for mirrorz.d.json
 parser: 7d19660 Not force redir for .git for tuna/bfsu
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: f45b0d8 Add njtech
-json_legacy: 2022-03-02T13:25:57.297Z
+json_legacy: 2022-03-03T13:26:54.077Z
 legacy: 0642644 Add UA
 ohmymirrorz: 90ddee9 Update big list
