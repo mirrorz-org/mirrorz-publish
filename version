@@ -1,5 +1,5 @@
 frontend: 8fb3043 Self-host Not-SC Sans/Mono fonts
-config: 3d5b334 Add sdu for mirrorz.d.json
+config: 758c6cd Add sjtug for mirrorz.d.json
 parser: 7d19660 Not force redir for .git for tuna/bfsu
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: f45b0d8 Add njtech
