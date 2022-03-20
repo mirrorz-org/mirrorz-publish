@@ -3,6 +3,6 @@ config: 18aa4ab New scau
 parser: de7e8a9 Remove scau parser
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 5a03835 Remove scau
-json_legacy: 2022-03-19T13:25:06.701Z
+json_legacy: 2022-03-20T13:24:25.168Z
 legacy: 0642644 Add UA
 ohmymirrorz: 90ddee9 Update big list
