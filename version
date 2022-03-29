@@ -1,4 +1,4 @@
-frontend: 8fb3043 Self-host Not-SC Sans/Mono fonts
+frontend: 3c19ccd Merge pull request #76 from mirrorz-org/dependabot/npm_and_yarn/minimist-1.2.6
 config: 18aa4ab New scau
 parser: de7e8a9 Remove scau parser
 i18n: 25bf668 Add i18n for 302-go in about
