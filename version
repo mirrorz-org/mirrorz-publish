@@ -2,7 +2,7 @@ frontend: 3c19ccd Merge pull request #76 from mirrorz-org/dependabot/npm_and_yar
 config: 7c1f8b6 cernet: update desc
 parser: 94e41a7 neusoft: update API
 i18n: 25bf668 Add i18n for 302-go in about
-json_site: 5a03835 Remove scau
+json_site: aeb3cdf neusoft: update desc
 json_legacy: 2022-04-03T13:27:08.275Z
 legacy: 0642644 Add UA
 ohmymirrorz: 90ddee9 Update big list
