@@ -1,6 +1,6 @@
 frontend: 3c19ccd Merge pull request #76 from mirrorz-org/dependabot/npm_and_yarn/minimist-1.2.6
 config: 18aa4ab New scau
-parser: de7e8a9 Remove scau parser
+parser: 94e41a7 neusoft: update API
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 5a03835 Remove scau
 json_legacy: 2022-04-03T13:27:08.275Z
