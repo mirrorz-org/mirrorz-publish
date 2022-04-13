@@ -2,7 +2,7 @@ frontend: 84242e1 Merge pull request #77 from iulo/patch-1
 config: 7c1f8b6 cernet: update desc
 parser: 1e92b2a Add geekpie
 i18n: 25bf668 Add i18n for 302-go in about
-json_site: aeb3cdf neusoft: update desc
+json_site: b8d4f1a Add geekpie
 json_legacy: 2022-04-13T13:33:05.926Z
 legacy: 0642644 Add UA
 ohmymirrorz: 90ddee9 Update big list
