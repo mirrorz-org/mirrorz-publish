@@ -1,6 +1,6 @@
 frontend: 611c9f5 Fix README
 config: 34c8be3 New nyist
-parser: 1e92b2a Add geekpie
+parser: 49e58f9 remove nyist
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 79d2a08 remove nyist
 json_legacy: 2022-04-14T13:36:20.430Z
