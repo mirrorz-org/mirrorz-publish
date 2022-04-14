@@ -2,7 +2,7 @@ frontend: 611c9f5 Fix README
 config: 34c8be3 New nyist
 parser: 1e92b2a Add geekpie
 i18n: 25bf668 Add i18n for 302-go in about
-json_site: 80a4586 Update geekpie
+json_site: 79d2a08 remove nyist
 json_legacy: 2022-04-14T13:36:20.430Z
 legacy: 0642644 Add UA
 ohmymirrorz: 90ddee9 Update big list
