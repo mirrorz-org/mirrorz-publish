@@ -1,4 +1,4 @@
-frontend: 611c9f5 Fix README
+frontend: 9810a09 Remove options.json API
 config: 34c8be3 New nyist
 parser: 49e58f9 remove nyist
 i18n: 25bf668 Add i18n for 302-go in about
