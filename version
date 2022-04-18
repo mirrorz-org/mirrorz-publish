@@ -1,4 +1,4 @@
-frontend: 9810a09 Remove options.json API
+frontend: 5c53ebe package.json: add pull command
 config: 34c8be3 New nyist
 parser: 1bd5873 pku: enable site.disk
 i18n: 25bf668 Add i18n for 302-go in about
