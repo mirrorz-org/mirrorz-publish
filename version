@@ -1,5 +1,5 @@
 frontend: ae018a0 Fix undefined.map
-config: 34c8be3 New nyist
+config: a63e751 uestc: update
 parser: 1bd5873 pku: enable site.disk
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 665b5bb geekpie: update icon url
