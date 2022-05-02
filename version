@@ -3,6 +3,6 @@ config: a63e751 uestc: update
 parser: 1bd5873 pku: enable site.disk
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 665b5bb geekpie: update icon url
-json_legacy: 2022-05-01T13:31:53.821Z
+json_legacy: 2022-05-02T13:43:36.560Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 90ddee9 Update big list
