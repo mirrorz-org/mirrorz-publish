@@ -1,6 +1,6 @@
 frontend: be7df49 Merge pull request #79 from mirrorz-org/dependabot/npm_and_yarn/ejs-3.1.8
 config: c823497 Add xtom-au
-parser: 74409f3 Add xtom-au
+parser: b3fc0cb xtom-au: add disk
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 2c95c26 Add xtom-au
 json_legacy: 2022-06-16T13:41:20.946Z
