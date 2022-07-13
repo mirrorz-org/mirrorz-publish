@@ -3,6 +3,6 @@ config: 482b694 remove tongji/neu as they are offline
 parser: b3fc0cb xtom-au: add disk
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: cf38b24 hit: update disk
-json_legacy: 2022-07-12T13:50:54.710Z
+json_legacy: 2022-07-13T13:47:58.954Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 90ddee9 Update big list
