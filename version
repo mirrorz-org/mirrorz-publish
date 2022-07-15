@@ -2,7 +2,7 @@ frontend: be7df49 Merge pull request #79 from mirrorz-org/dependabot/npm_and_yar
 config: 298397e Change lzu from parser to url
 parser: 58b3291 Remove lzu
 i18n: 25bf668 Add i18n for 302-go in about
-json_site: cf38b24 hit: update disk
+json_site: 5e17fd0 Remove lzu
 json_legacy: 2022-07-14T13:47:02.474Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 90ddee9 Update big list
