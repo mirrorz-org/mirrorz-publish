@@ -1,5 +1,5 @@
 frontend: be7df49 Merge pull request #79 from mirrorz-org/dependabot/npm_and_yarn/ejs-3.1.8
-config: 482b694 remove tongji/neu as they are offline
+config: 298397e Change lzu from parser to url
 parser: b3fc0cb xtom-au: add disk
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: cf38b24 hit: update disk
