@@ -1,4 +1,4 @@
-frontend: be7df49 Merge pull request #79 from mirrorz-org/dependabot/npm_and_yarn/ejs-3.1.8
+frontend: 475e000 Merge pull request #81 from mirrorz-org/dependabot/npm_and_yarn/terser-5.14.2
 config: 86c8c82 cernet: add wsyu
 parser: 58b3291 Remove lzu
 i18n: 25bf668 Add i18n for 302-go in about
