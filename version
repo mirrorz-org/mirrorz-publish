@@ -3,6 +3,6 @@ config: 86c8c82 cernet: add wsyu
 parser: b812879 njupt: remove npm/maven/pypi/rubygems
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 5e17fd0 Remove lzu
-json_legacy: 2022-08-31T13:48:55.693Z
+json_legacy: 2022-09-01T13:42:15.337Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 90ddee9 Update big list
