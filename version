@@ -1,4 +1,4 @@
-frontend: 475e000 Merge pull request #81 from mirrorz-org/dependabot/npm_and_yarn/terser-5.14.2
+frontend: e2188cc Add filter for empty cname
 config: 86c8c82 cernet: add wsyu
 parser: 3338140 pku: update API on disk status
 i18n: 25bf668 Add i18n for 302-go in about
