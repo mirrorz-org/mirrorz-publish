@@ -3,6 +3,6 @@ config: 86c8c82 cernet: add wsyu
 parser: 3338140 pku: update API on disk status
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 5e17fd0 Remove lzu
-json_legacy: 2022-10-19T14:03:50.493Z
+json_legacy: 2022-10-20T14:06:29.561Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 90ddee9 Update big list
