@@ -1,6 +1,6 @@
 frontend: e2188cc Add filter for empty cname
-config: 86c8c82 cernet: add wsyu
-parser: 3338140 pku: update API on disk status
+config: 8bb860c Merge pull request #4 from AethoceSora/master
+parser: 8358bda Merge pull request #7 from AethoceSora/master
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 979860d Create qlut.json (#3)
 json_legacy: 2022-11-17T13:40:14.445Z
