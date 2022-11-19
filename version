@@ -3,6 +3,6 @@ config: 8bb860c Merge pull request #4 from AethoceSora/master
 parser: 8358bda Merge pull request #7 from AethoceSora/master
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 979860d Create qlut.json (#3)
-json_legacy: 2022-11-17T14:21:26.533Z
+json_legacy: 2022-11-19T13:31:50.052Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 90ddee9 Update big list
