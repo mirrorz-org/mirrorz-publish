@@ -1,5 +1,5 @@
 frontend: e2188cc Add filter for empty cname
-config: 8bb860c Merge pull request #4 from AethoceSora/master
+config: c2c38ce remove cngi
 parser: 8358bda Merge pull request #7 from AethoceSora/master
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 979860d Create qlut.json (#3)
