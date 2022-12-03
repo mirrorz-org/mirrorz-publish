@@ -1,5 +1,5 @@
 frontend: 1f43fe7 Remove cngi related command
-config: c2c38ce remove cngi
+config: 42f63ad Add jlu
 parser: 8358bda Merge pull request #7 from AethoceSora/master
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 3678d5d remove tongji/neu
