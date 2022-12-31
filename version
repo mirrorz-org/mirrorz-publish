@@ -3,6 +3,6 @@ config: 42f63ad Add jlu
 parser: 8358bda Merge pull request #7 from AethoceSora/master
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 3678d5d remove tongji/neu
-json_legacy: 2022-12-30T13:24:25.866Z
+json_legacy: 2022-12-31T13:22:32.899Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 90ddee9 Update big list
