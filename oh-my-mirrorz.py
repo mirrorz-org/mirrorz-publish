@@ -8,7 +8,7 @@ import sys
 import os
 import argparse
 
-VERSION = '20230107'
+VERSION = '20230108'
 CURL_VERSION = ''
 UA_URL = 'https://mirrorz.org'
 
