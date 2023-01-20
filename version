@@ -1,4 +1,4 @@
-frontend: a6e28a7 Lint received mirrorz.json
+frontend: 15045ab mirrorz.json: No trailing slash for mirrors.url
 config: 80e7627 Disable hust in legacy
 parser: 601c37e lint: sanitize all received mirrorz.json
 i18n: 25bf668 Add i18n for 302-go in about
