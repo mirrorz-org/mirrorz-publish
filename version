@@ -1,5 +1,5 @@
 frontend: 368353a Disable visual diff for now
-config: 80e7627 Disable hust in legacy
+config: a8a5f98 opentuna: from mirrors_legacy to mirrors
 parser: c5a2667 lint: sort to stablize legacy-json
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 811a765 njupt: new logo
