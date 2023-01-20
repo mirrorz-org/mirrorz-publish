@@ -1,6 +1,6 @@
 frontend: 368353a Disable visual diff for now
 config: 80e7627 Disable hust in legacy
-parser: 601c37e lint: sanitize all received mirrorz.json
+parser: c5a2667 lint: sort to stablize legacy-json
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 811a765 njupt: new logo
 json_legacy: 2023-01-20T11:57:23.420Z
