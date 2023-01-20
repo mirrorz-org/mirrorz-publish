@@ -1,4 +1,4 @@
-frontend: f2ea115 Deploy config.json
+frontend: a0a5ac4 Deploy packed legacy json
 config: c4318bf byrio: deprecated
 parser: 8358bda Merge pull request #7 from AethoceSora/master
 i18n: 25bf668 Add i18n for 302-go in about
