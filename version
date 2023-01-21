@@ -3,6 +3,6 @@ config: a8a5f98 opentuna: from mirrors_legacy to mirrors
 parser: c5a2667 lint: sort to stablize legacy-json
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 811a765 njupt: new logo
-json_legacy: 2023-01-20T13:27:57.404Z
+json_legacy: 2023-01-21T13:23:19.719Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 1d26271 Update big list
