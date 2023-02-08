@@ -3,6 +3,6 @@ config: a8a5f98 opentuna: from mirrors_legacy to mirrors
 parser: 228a92d cqu: hack for .git
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 811a765 njupt: new logo
-json_legacy: 2023-02-05T13:23:43.549Z
+json_legacy: 2023-02-08T13:28:31.842Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 1d26271 Update big list
