@@ -1,4 +1,4 @@
-frontend: 53233d0 Update cname.json
+frontend: c7b8e9a Update cname.json
 config: a8a5f98 opentuna: from mirrors_legacy to mirrors
 parser: 228a92d cqu: hack for .git
 i18n: 25bf668 Add i18n for 302-go in about
