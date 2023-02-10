@@ -1,6 +1,6 @@
 frontend: c7b8e9a Update cname.json
 config: a8a5f98 opentuna: from mirrors_legacy to mirrors
-parser: 228a92d cqu: hack for .git
+parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: 25bf668 Add i18n for 302-go in about
 json_site: 811a765 njupt: new logo
 json_legacy: 2023-02-10T13:28:50.955Z
