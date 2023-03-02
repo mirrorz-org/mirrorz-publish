@@ -1,7 +1,7 @@
 frontend: 269b39c Bump mirrorz.json to ver 1.6
 config: a8a5f98 opentuna: from mirrors_legacy to mirrors
 parser: 7a6bb57 cqu: no hack for crates.io now
-i18n: 25bf668 Add i18n for 302-go in about
+i18n: 3cd8494 Add i18n for pending status
 json_site: 811a765 njupt: new logo
 json_legacy: 2023-03-01T13:30:44.444Z
 legacy: 5321803 Fix undefined.forEach
