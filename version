@@ -1,4 +1,4 @@
-frontend: c7b8e9a Update cname.json
+frontend: baf8599 Merge pull request #86 from mirrorz-org/dependabot/npm_and_yarn/json5-1.0.2
 config: a8a5f98 opentuna: from mirrors_legacy to mirrors
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: 25bf668 Add i18n for 302-go in about
