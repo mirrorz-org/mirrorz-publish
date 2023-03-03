@@ -1,4 +1,4 @@
-frontend: 6bb4857 Display pending status
+frontend: e246bbc Fix logo too wide in about page
 config: a8a5f98 opentuna: from mirrors_legacy to mirrors
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: 3cd8494 Add i18n for pending status
