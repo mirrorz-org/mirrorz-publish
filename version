@@ -1,4 +1,4 @@
-frontend: e246bbc Fix logo too wide in about page
+frontend: bf57274 Merge pull request #89 from abc1763613206/master
 config: ed4136b chore: add configs for mirrorz-help (#5)
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: 5dba06f Merge pull request #1 from abc1763613206/master
