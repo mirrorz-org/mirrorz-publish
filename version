@@ -1,5 +1,5 @@
 frontend: e246bbc Fix logo too wide in about page
-config: a8a5f98 opentuna: from mirrors_legacy to mirrors
+config: ed4136b chore: add configs for mirrorz-help (#5)
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: 5dba06f Merge pull request #1 from abc1763613206/master
 json_site: 811a765 njupt: new logo
