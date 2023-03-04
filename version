@@ -1,7 +1,7 @@
 frontend: e246bbc Fix logo too wide in about page
 config: a8a5f98 opentuna: from mirrors_legacy to mirrors
 parser: 7a6bb57 cqu: no hack for crates.io now
-i18n: 3cd8494 Add i18n for pending status
+i18n: 5dba06f Merge pull request #1 from abc1763613206/master
 json_site: 811a765 njupt: new logo
 json_legacy: 2023-03-04T13:24:31.890Z
 legacy: 5321803 Fix undefined.forEach
