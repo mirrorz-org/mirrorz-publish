@@ -3,6 +3,6 @@ config: 5815e08 uestc: change url
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: e4a24b8 Update i18n for 302-go
 json_site: 811a765 njupt: new logo
-json_legacy: 2023-03-06T07:49:46.805Z
+json_legacy: 2023-03-06T13:30:59.070Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 1d26271 Update big list
