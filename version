@@ -1,7 +1,7 @@
 frontend: 94f2b35 about: add link to mirrorz-help for mirrorz-302
 config: 5815e08 uestc: change url
 parser: 7a6bb57 cqu: no hack for crates.io now
-i18n: 5dba06f Merge pull request #1 from abc1763613206/master
+i18n: e4a24b8 Update i18n for 302-go
 json_site: 811a765 njupt: new logo
 json_legacy: 2023-03-06T07:49:46.805Z
 legacy: 5321803 Fix undefined.forEach
