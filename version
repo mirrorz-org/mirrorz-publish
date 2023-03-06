@@ -1,5 +1,5 @@
 frontend: 94f2b35 about: add link to mirrorz-help for mirrorz-302
-config: 5815e08 uestc: change url
+config: 5063360 Add d_parser of cqu (#6)
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: e4a24b8 Update i18n for 302-go
 json_site: 811a765 njupt: new logo
