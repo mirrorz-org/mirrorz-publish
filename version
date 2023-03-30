@@ -3,6 +3,6 @@ config: 0cf8d46 Add QLUT. (#7)
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: e4a24b8 Update i18n for 302-go
 json_site: 383a8c3 Update qlut.json (#4)
-json_legacy: 2023-03-28T13:27:34.223Z
+json_legacy: 2023-03-30T13:30:08.273Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 1d26271 Update big list
