@@ -1,7 +1,7 @@
 frontend: 64c0f38 sites: sort by scoring
 config: 43b1040 cernet: add ipip in info
 parser: 7a6bb57 cqu: no hack for crates.io now
-i18n: e4a24b8 Update i18n for 302-go
+i18n: f1fc61e Add scoring tag
 json_site: 383a8c3 Update qlut.json (#4)
 json_legacy: 2023-04-09T07:47:35.962Z
 legacy: 5321803 Fix undefined.forEach
