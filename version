@@ -1,4 +1,4 @@
-frontend: 94f2b35 about: add link to mirrorz-help for mirrorz-302
+frontend: 64c0f38 sites: sort by scoring
 config: 43b1040 cernet: add ipip in info
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: e4a24b8 Update i18n for 302-go
