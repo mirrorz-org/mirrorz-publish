@@ -3,6 +3,6 @@ config: 43b1040 cernet: add ipip in info
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: f1fc61e Add scoring tag
 json_site: 383a8c3 Update qlut.json (#4)
-json_legacy: 2023-04-12T13:23:24.115Z
+json_legacy: 2023-04-13T13:23:43.836Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 1d26271 Update big list
