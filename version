@@ -1,5 +1,5 @@
 frontend: 7bc4b2a Sites: display scoring tag in meta
-config: 43b1040 cernet: add ipip in info
+config: b43d4fa cernet: 302: add iscas
 parser: 7a6bb57 cqu: no hack for crates.io now
 i18n: f1fc61e Add scoring tag
 json_site: 383a8c3 Update qlut.json (#4)
