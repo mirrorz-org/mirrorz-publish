@@ -3,6 +3,6 @@ config: b43d4fa cernet: 302: add iscas
 parser: ce206da Fix node lint exception handling
 i18n: f1fc61e Add scoring tag
 json_site: 383a8c3 Update qlut.json (#4)
-json_legacy: 2023-04-19T13:22:54.158Z
+json_legacy: 2023-04-21T13:22:26.084Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 1d26271 Update big list
