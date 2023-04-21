@@ -1,4 +1,4 @@
-frontend: 7bc4b2a Sites: display scoring tag in meta
+frontend: 04c820d Merge pull request #92 from taoky/maintenance-spec
 config: b43d4fa cernet: 302: add iscas
 parser: ce206da Fix node lint exception handling
 i18n: f1fc61e Add scoring tag
