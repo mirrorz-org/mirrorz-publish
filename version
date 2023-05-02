@@ -1,4 +1,4 @@
-frontend: 0e12d60 docs: update demo url in README.md (#100)
+frontend: 21e13ab Update cname.json on docker-hub
 config: b43d4fa cernet: 302: add iscas
 parser: ce206da Fix node lint exception handling
 i18n: f1fc61e Add scoring tag
