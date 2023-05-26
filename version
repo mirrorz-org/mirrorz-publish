@@ -1,6 +1,6 @@
 frontend: 21e13ab Update cname.json on docker-hub
 config: b43d4fa cernet: 302: add iscas
-parser: ce206da Fix node lint exception handling
+parser: c30cc97 nyist: init
 i18n: f1fc61e Add scoring tag
 json_site: 383a8c3 Update qlut.json (#4)
 json_legacy: 2023-05-25T13:24:25.979Z
