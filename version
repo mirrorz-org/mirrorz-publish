@@ -1,4 +1,4 @@
-frontend: 21e13ab Update cname.json on docker-hub
+frontend: a5d263c Bump word-wrap from 1.2.3 to 1.2.4 (#103)
 config: 7481a2e nyist: switch to parser
 parser: c30cc97 nyist: init
 i18n: f1fc61e Add scoring tag
