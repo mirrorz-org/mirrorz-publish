@@ -3,6 +3,6 @@ config: 7481a2e nyist: switch to parser
 parser: c30cc97 nyist: init
 i18n: f1fc61e Add scoring tag
 json_site: 383a8c3 Update qlut.json (#4)
-json_legacy: 2023-08-21T13:21:52.616Z
+json_legacy: 2023-08-23T13:20:52.797Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 0fbeee8 Update big list (#1)
