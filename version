@@ -1,4 +1,4 @@
-frontend: a5d263c Bump word-wrap from 1.2.3 to 1.2.4 (#103)
+frontend: fcc85e8 feat: upgrade for Nodejs 18 (#106)
 config: 7481a2e nyist: switch to parser
 parser: c30cc97 nyist: init
 i18n: f1fc61e Add scoring tag
