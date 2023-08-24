@@ -1,4 +1,4 @@
-frontend: fcc85e8 feat: upgrade for Nodejs 18 (#106)
+frontend: 3573bbd Bump minimatch from 3.0.4 to 3.1.2 (#107)
 config: 7481a2e nyist: switch to parser
 parser: c30cc97 nyist: init
 i18n: f1fc61e Add scoring tag
