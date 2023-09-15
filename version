@@ -3,6 +3,6 @@ config: 18f5f08 Add config links for 'Help' (#8)
 parser: c30cc97 nyist: init
 i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: 383a8c3 Update qlut.json (#4)
-json_legacy: 2023-09-12T13:22:57.013Z
+json_legacy: 2023-09-15T13:21:42.890Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 0fbeee8 Update big list (#1)
