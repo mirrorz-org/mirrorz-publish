@@ -1,5 +1,5 @@
 frontend: f23c93b Bump actions/checkout from 3 to 4 (#112)
-config: 18f5f08 Add config links for 'Help' (#8)
+config: cd16a3d Add nyist (#9)
 parser: c30cc97 nyist: init
 i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: 383a8c3 Update qlut.json (#4)
