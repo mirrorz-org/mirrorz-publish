@@ -3,6 +3,6 @@ config: cd16a3d Add nyist (#9)
 parser: c30cc97 nyist: init
 i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: 383a8c3 Update qlut.json (#4)
-json_legacy: 2023-09-22T13:22:07.077Z
+json_legacy: 2023-09-24T13:19:00.228Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 0fbeee8 Update big list (#1)
