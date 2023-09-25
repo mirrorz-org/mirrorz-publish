@@ -1,5 +1,5 @@
 frontend: 418dd86 chore: use mirrors_help_url instead of mirrorz_help for sidebar
-config: cd16a3d Add nyist (#9)
+config: 30ecd6d Retire *.help domain and mirrorz_help field
 parser: c30cc97 nyist: init
 i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: 383a8c3 Update qlut.json (#4)
