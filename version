@@ -3,6 +3,6 @@ config: 30ecd6d Retire *.help domain and mirrorz_help field
 parser: c30cc97 nyist: init
 i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: 383a8c3 Update qlut.json (#4)
-json_legacy: 2023-09-30T13:18:58.872Z
+json_legacy: 2023-10-02T13:22:55.493Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 0fbeee8 Update big list (#1)
