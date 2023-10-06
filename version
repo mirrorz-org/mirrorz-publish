@@ -1,8 +1,8 @@
 frontend: 418dd86 chore: use mirrors_help_url instead of mirrorz_help for sidebar
 config: 30ecd6d Retire *.help domain and mirrorz_help field
-parser: c30cc97 nyist: init
+parser: e871dbd Add jcut (#8)
 i18n: 5c7789c Add i18n items for 'Help' (#2)
-json_site: 383a8c3 Update qlut.json (#4)
+json_site: ab1a68a add jcut (#5)
 json_legacy: 2023-10-04T13:24:43.000Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 0fbeee8 Update big list (#1)
