@@ -1,4 +1,4 @@
-frontend: 418dd86 chore: use mirrors_help_url instead of mirrorz_help for sidebar
+frontend: 8083385 Bump @babel/traverse from 7.16.5 to 7.23.2 (#117)
 config: ba6b5e4 Add jcut (#10)
 parser: 9245a02 jcut: init in parsers.js
 i18n: 5c7789c Add i18n items for 'Help' (#2)
