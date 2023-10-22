@@ -3,6 +3,6 @@ config: ba6b5e4 Add jcut (#10)
 parser: 9245a02 jcut: init in parsers.js
 i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: ab1a68a add jcut (#5)
-json_legacy: 2023-10-21T13:19:37.436Z
+json_legacy: 2023-10-22T13:19:36.472Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 0fbeee8 Update big list (#1)
