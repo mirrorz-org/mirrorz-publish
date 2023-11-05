@@ -1,4 +1,4 @@
-frontend: 81b2076 Bump actions/setup-node from 3 to 4 (#118)
+frontend: c949206 Bump some dependencies
 config: ba6b5e4 Add jcut (#10)
 parser: 9245a02 jcut: init in parsers.js
 i18n: 5c7789c Add i18n items for 'Help' (#2)
