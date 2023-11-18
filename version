@@ -1,5 +1,5 @@
 frontend: c949206 Bump some dependencies
-config: ba6b5e4 Add jcut (#10)
+config: 81e9142 add：CQUPT (#11)
 parser: 9245a02 jcut: init in parsers.js
 i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: ab1a68a add jcut (#5)
