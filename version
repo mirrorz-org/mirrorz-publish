@@ -3,6 +3,6 @@ config: 81e9142 add：CQUPT (#11)
 parser: 9245a02 jcut: init in parsers.js
 i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: af66167 Delete cqupt.json (#6)
-json_legacy: 2023-11-26T13:20:47.906Z
+json_legacy: 2023-11-27T13:22:57.276Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 0fbeee8 Update big list (#1)
