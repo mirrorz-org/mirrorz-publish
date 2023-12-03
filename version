@@ -1,4 +1,4 @@
-frontend: c949206 Bump some dependencies
+frontend: fccb5c5 chore: replace OpenTUNA with TUNA in about page
 config: 48a904d Remove OpenTUNA
 parser: 9245a02 jcut: init in parsers.js
 i18n: 5c7789c Add i18n items for 'Help' (#2)
