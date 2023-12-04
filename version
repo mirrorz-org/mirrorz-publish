@@ -1,7 +1,7 @@
 frontend: fccb5c5 chore: replace OpenTUNA with TUNA in about page
 config: 48a904d Remove OpenTUNA
 parser: 9245a02 jcut: init in parsers.js
-i18n: 5c7789c Add i18n items for 'Help' (#2)
+i18n: fc9633e Add dependencies for speedtest scripts
 json_site: af66167 Delete cqupt.json (#6)
 json_legacy: 2023-12-03T13:20:23.783Z
 legacy: 5321803 Fix undefined.forEach
