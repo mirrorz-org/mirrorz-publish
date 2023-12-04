@@ -5,4 +5,4 @@ i18n: 5c7789c Add i18n items for 'Help' (#2)
 json_site: af66167 Delete cqupt.json (#6)
 json_legacy: 2023-12-03T13:20:23.783Z
 legacy: 5321803 Fix undefined.forEach
-ohmymirrorz: 0fbeee8 Update big list (#1)
+ohmymirrorz: 2f1e7dd Remove requests dependency
