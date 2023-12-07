@@ -3,6 +3,6 @@ config: 48a904d Remove OpenTUNA
 parser: 9245a02 jcut: init in parsers.js
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: af66167 Delete cqupt.json (#6)
-json_legacy: 2023-12-06T13:22:57.175Z
+json_legacy: 2023-12-07T13:26:04.800Z
 legacy: 5321803 Fix undefined.forEach
 ohmymirrorz: 2f1e7dd Remove requests dependency
