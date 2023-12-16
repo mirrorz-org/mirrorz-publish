@@ -1,4 +1,4 @@
-frontend: 885099a Remove nix usage in speedtest example
+frontend: 807a035 Bump octokit from 1.8.1 to 3.1.2 (#122)
 config: 48a904d Remove OpenTUNA
 parser: 9245a02 jcut: init in parsers.js
 i18n: fc9633e Add dependencies for speedtest scripts
