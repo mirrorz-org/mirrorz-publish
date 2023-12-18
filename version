@@ -1,4 +1,4 @@
-frontend: 2ecef4e Bump github/codeql-action from 2 to 3 (#124)
+frontend: 00913fa Bump actions/upload-artifact from 3 to 4 (#126)
 config: 48a904d Remove OpenTUNA
 parser: 9245a02 jcut: init in parsers.js
 i18n: fc9633e Add dependencies for speedtest scripts
