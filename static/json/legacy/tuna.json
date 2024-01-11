@@ -2073,6 +2073,22 @@
       "category": "os",
       "urls": [
         {
+          "name": "20240109 (loongarch64, buildkit)",
+          "url": "/anthon/aosc-os/os-loongarch64/buildkit/aosc-os_buildkit_20240109_loongarch64.tar.xz"
+        },
+        {
+          "name": "20240108 (ppc64el, buildkit)",
+          "url": "/anthon/aosc-os/os-ppc64el/buildkit/aosc-os_buildkit_20240108_ppc64el.tar.xz"
+        },
+        {
+          "name": "20240108 (arm64, buildkit)",
+          "url": "/anthon/aosc-os/os-arm64/buildkit/aosc-os_buildkit_20240108_arm64.tar.xz"
+        },
+        {
+          "name": "20240108 (amd64, buildkit)",
+          "url": "/anthon/aosc-os/os-amd64/buildkit/aosc-os_buildkit_20240108_amd64.tar.xz"
+        },
+        {
           "name": "20231209 (mips64r6el, buildkit)",
           "url": "/anthon/aosc-os/os-mips64r6el/buildkit/aosc-os_buildkit_20231209_mips64r6el.tar.xz"
         },
@@ -2091,10 +2107,6 @@
         {
           "name": "20231028 (loongarch64, container)",
           "url": "/anthon/aosc-os/os-loongarch64/container/aosc-os_container_20231028_loongarch64.tar.xz"
-        },
-        {
-          "name": "20231028 (loongarch64, buildkit)",
-          "url": "/anthon/aosc-os/os-loongarch64/buildkit/aosc-os_buildkit_20231028_loongarch64.tar.xz"
         },
         {
           "name": "20231028 (loongarch64, base)",
@@ -2119,10 +2131,6 @@
         {
           "name": "20231018 (ppc64el, container)",
           "url": "/anthon/aosc-os/os-ppc64el/container/aosc-os_container_20231018_ppc64el.tar.xz"
-        },
-        {
-          "name": "20231018 (ppc64el, buildkit)",
-          "url": "/anthon/aosc-os/os-ppc64el/buildkit/aosc-os_buildkit_20231018_ppc64el.tar.xz"
         },
         {
           "name": "20231018 (ppc64el, base)",
@@ -2173,10 +2181,6 @@
           "url": "/anthon/aosc-os/os-arm64/container/aosc-os_container_20231016_arm64.tar.xz"
         },
         {
-          "name": "20231016 (arm64, buildkit)",
-          "url": "/anthon/aosc-os/os-arm64/buildkit/aosc-os_buildkit_20231016_arm64.tar.xz"
-        },
-        {
           "name": "20231016 (arm64, base)",
           "url": "/anthon/aosc-os/os-arm64/base/aosc-os_base_20231016_arm64.tar.xz"
         },
@@ -2195,10 +2199,6 @@
         {
           "name": "20231016 (amd64, container)",
           "url": "/anthon/aosc-os/os-amd64/container/aosc-os_container_20231016_amd64.tar.xz"
-        },
-        {
-          "name": "20231016 (amd64, buildkit)",
-          "url": "/anthon/aosc-os/os-amd64/buildkit/aosc-os_buildkit_20231016_amd64.tar.xz"
         },
         {
           "name": "20231016 (amd64, base)",
@@ -6199,40 +6199,56 @@
       "category": "app",
       "urls": [
         {
-          "name": "FreeCAD 0.21.1 (WIN, x64-installer-1.exe)",
-          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.1/FreeCAD-0.21.1-WIN-x64-installer-1.exe"
+          "name": "FreeCAD 0.21.2 (macOS, intel-x86_64.dmg)",
+          "url": "/github-release/FreeCAD/FreeCAD/LatestRelease/FreeCAD-0.21.2-macOS-intel-x86_64.dmg"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (macOS, intel-x86_64.dmg)",
+          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.2/FreeCAD-0.21.2-macOS-intel-x86_64.dmg"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (macOS, arm64.dmg)",
+          "url": "/github-release/FreeCAD/FreeCAD/LatestRelease/FreeCAD-0.21.2-macOS-arm64.dmg"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (macOS, arm64.dmg)",
+          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.2/FreeCAD-0.21.2-macOS-arm64.dmg"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (WIN, x64-installer-1.exe)",
+          "url": "/github-release/FreeCAD/FreeCAD/LatestRelease/FreeCAD-0.21.2-WIN-x64-installer-1.exe"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (WIN, x64-installer-1.exe)",
+          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.2/FreeCAD-0.21.2-WIN-x64-installer-1.exe"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (Linux, x86_64.AppImage)",
+          "url": "/github-release/FreeCAD/FreeCAD/LatestRelease/FreeCAD-0.21.2-Linux-x86_64.AppImage"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (Linux, x86_64.AppImage)",
+          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.2/FreeCAD-0.21.2-Linux-x86_64.AppImage"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (Linux, aarch64.AppImage)",
+          "url": "/github-release/FreeCAD/FreeCAD/LatestRelease/FreeCAD-0.21.2-Linux-aarch64.AppImage"
+        },
+        {
+          "name": "FreeCAD 0.21.2 (Linux, aarch64.AppImage)",
+          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.2/FreeCAD-0.21.2-Linux-aarch64.AppImage"
         },
         {
           "name": "FreeCAD 0.21.1 (WIN, x64-installer-1.exe)",
-          "url": "/github-release/FreeCAD/FreeCAD/LatestRelease/FreeCAD-0.21.1-WIN-x64-installer-1.exe"
+          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.1/FreeCAD-0.21.1-WIN-x64-installer-1.exe"
         },
         {
           "name": "FreeCAD 0.21.1 (Linux, x86_64.AppImage)",
           "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.1/FreeCAD_0.21.1-Linux-x86_64.AppImage"
         },
         {
-          "name": "FreeCAD 0.21.1 (Linux, x86_64.AppImage)",
-          "url": "/github-release/FreeCAD/FreeCAD/LatestRelease/FreeCAD_0.21.1-Linux-x86_64.AppImage"
-        },
-        {
           "name": "FreeCAD 0.21.1 (Linux, aarch64.AppImage)",
           "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21.1/FreeCAD_0.21.1-Linux-aarch64.AppImage"
-        },
-        {
-          "name": "FreeCAD 0.21.1 (Linux, aarch64.AppImage)",
-          "url": "/github-release/FreeCAD/FreeCAD/LatestRelease/FreeCAD_0.21.1-Linux-aarch64.AppImage"
-        },
-        {
-          "name": "FreeCAD 0.21.0RC1 (WIN, x64-installer-1.exe)",
-          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21 Release Candidate 1/FreeCAD-0.21.0RC1-WIN-x64-installer-1.exe"
-        },
-        {
-          "name": "FreeCAD 0.21.0-RC1 (Linux, x86_64.AppImage)",
-          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21 Release Candidate 1/FreeCAD_0.21.0-RC1-Linux-x86_64.AppImage"
-        },
-        {
-          "name": "FreeCAD 0.21.0-RC1 (Linux, aarch64.AppImage)",
-          "url": "/github-release/FreeCAD/FreeCAD/FreeCAD 0.21 Release Candidate 1/FreeCAD_0.21.0-RC1-Linux-aarch64.AppImage"
         },
         {
           "name": "FreeCAD 0.21.0 (WIN, x64-installer-1.exe)",
@@ -6328,11 +6344,11 @@
         },
         {
           "name": "noto-cjk 16_NotoSerifHK.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/16_NotoSerifHK.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/16_NotoSerifHK.zip"
         },
         {
           "name": "noto-cjk 16_NotoSerifHK.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/16_NotoSerifHK.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/16_NotoSerifHK.zip"
         },
         {
           "name": "noto-cjk 16_NotoSansJP.zip",
@@ -6340,11 +6356,11 @@
         },
         {
           "name": "noto-cjk 15_NotoSerifTC.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/15_NotoSerifTC.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/15_NotoSerifTC.zip"
         },
         {
           "name": "noto-cjk 15_NotoSerifTC.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/15_NotoSerifTC.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/15_NotoSerifTC.zip"
         },
         {
           "name": "noto-cjk 15_NotoSansMonoCJKhk.zip",
@@ -6352,11 +6368,11 @@
         },
         {
           "name": "noto-cjk 14_NotoSerifSC.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/14_NotoSerifSC.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/14_NotoSerifSC.zip"
         },
         {
           "name": "noto-cjk 14_NotoSerifSC.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/14_NotoSerifSC.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/14_NotoSerifSC.zip"
         },
         {
           "name": "noto-cjk 14_NotoSansMonoCJKtc.zip",
@@ -6364,11 +6380,11 @@
         },
         {
           "name": "noto-cjk 13_NotoSerifKR.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/13_NotoSerifKR.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/13_NotoSerifKR.zip"
         },
         {
           "name": "noto-cjk 13_NotoSerifKR.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/13_NotoSerifKR.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/13_NotoSerifKR.zip"
         },
         {
           "name": "noto-cjk 13_NotoSansMonoCJKsc.zip",
@@ -6376,11 +6392,11 @@
         },
         {
           "name": "noto-cjk 12_NotoSerifJP.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/12_NotoSerifJP.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/12_NotoSerifJP.zip"
         },
         {
           "name": "noto-cjk 12_NotoSerifJP.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/12_NotoSerifJP.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/12_NotoSerifJP.zip"
         },
         {
           "name": "noto-cjk 12_NotoSansMonoCJKkr.zip",
@@ -6388,11 +6404,11 @@
         },
         {
           "name": "noto-cjk 11_NotoSerifCJKhk.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/11_NotoSerifCJKhk.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/11_NotoSerifCJKhk.zip"
         },
         {
           "name": "noto-cjk 11_NotoSerifCJKhk.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/11_NotoSerifCJKhk.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/11_NotoSerifCJKhk.zip"
         },
         {
           "name": "noto-cjk 11_NotoSansMonoCJKjp.zip",
@@ -6400,11 +6416,11 @@
         },
         {
           "name": "noto-cjk 10_NotoSerifCJKtc.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/10_NotoSerifCJKtc.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/10_NotoSerifCJKtc.zip"
         },
         {
           "name": "noto-cjk 10_NotoSerifCJKtc.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/10_NotoSerifCJKtc.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/10_NotoSerifCJKtc.zip"
         },
         {
           "name": "noto-cjk 10_NotoSansCJKhk.zip",
@@ -6412,11 +6428,11 @@
         },
         {
           "name": "noto-cjk 09_NotoSerifCJKsc.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/09_NotoSerifCJKsc.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/09_NotoSerifCJKsc.zip"
         },
         {
           "name": "noto-cjk 09_NotoSerifCJKsc.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/09_NotoSerifCJKsc.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/09_NotoSerifCJKsc.zip"
         },
         {
           "name": "noto-cjk 09_NotoSansCJKtc.zip",
@@ -6424,11 +6440,11 @@
         },
         {
           "name": "noto-cjk 08_NotoSerifCJKkr.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/08_NotoSerifCJKkr.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/08_NotoSerifCJKkr.zip"
         },
         {
           "name": "noto-cjk 08_NotoSerifCJKkr.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/08_NotoSerifCJKkr.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/08_NotoSerifCJKkr.zip"
         },
         {
           "name": "noto-cjk 08_NotoSansCJKsc.zip",
@@ -6436,11 +6452,11 @@
         },
         {
           "name": "noto-cjk 07_NotoSerifCJKjp.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/07_NotoSerifCJKjp.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/07_NotoSerifCJKjp.zip"
         },
         {
           "name": "noto-cjk 07_NotoSerifCJKjp.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/07_NotoSerifCJKjp.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/07_NotoSerifCJKjp.zip"
         },
         {
           "name": "noto-cjk 07_NotoSansCJKkr.zip",
@@ -6448,11 +6464,11 @@
         },
         {
           "name": "noto-cjk 06_NotoSerifCJKSubsetOTF.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/06_NotoSerifCJKSubsetOTF.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/06_NotoSerifCJKSubsetOTF.zip"
         },
         {
           "name": "noto-cjk 06_NotoSerifCJKSubsetOTF.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/06_NotoSerifCJKSubsetOTF.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/06_NotoSerifCJKSubsetOTF.zip"
         },
         {
           "name": "noto-cjk 06_NotoSansCJKjp.zip",
@@ -6460,11 +6476,11 @@
         },
         {
           "name": "noto-cjk 05_NotoSerifCJKOTF.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/05_NotoSerifCJKOTF.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/05_NotoSerifCJKOTF.zip"
         },
         {
           "name": "noto-cjk 05_NotoSerifCJKOTF.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/05_NotoSerifCJKOTF.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/05_NotoSerifCJKOTF.zip"
         },
         {
           "name": "noto-cjk 05_NotoSansCJK-SubsetOTF.zip",
@@ -6472,11 +6488,11 @@
         },
         {
           "name": "noto-cjk 04_NotoSerifCJKOTC.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/04_NotoSerifCJKOTC.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/04_NotoSerifCJKOTC.zip"
         },
         {
           "name": "noto-cjk 04_NotoSerifCJKOTC.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/04_NotoSerifCJKOTC.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/04_NotoSerifCJKOTC.zip"
         },
         {
           "name": "noto-cjk 04_NotoSansCJK-OTF.zip",
@@ -6484,11 +6500,11 @@
         },
         {
           "name": "noto-cjk 03_NotoSerifCJK-TTF-VF.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/03_NotoSerifCJK-TTF-VF.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/03_NotoSerifCJK-TTF-VF.zip"
         },
         {
           "name": "noto-cjk 03_NotoSerifCJK-TTF-VF.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/03_NotoSerifCJK-TTF-VF.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/03_NotoSerifCJK-TTF-VF.zip"
         },
         {
           "name": "noto-cjk 03_NotoSansCJK-OTC.zip",
@@ -6496,11 +6512,11 @@
         },
         {
           "name": "noto-cjk 02_NotoSerifCJK-OTF-VF.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/02_NotoSerifCJK-OTF-VF.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/02_NotoSerifCJK-OTF-VF.zip"
         },
         {
           "name": "noto-cjk 02_NotoSerifCJK-OTF-VF.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/02_NotoSerifCJK-OTF-VF.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/02_NotoSerifCJK-OTF-VF.zip"
         },
         {
           "name": "noto-cjk 02_NotoSansCJK-TTF-VF.zip",
@@ -6508,11 +6524,11 @@
         },
         {
           "name": "noto-cjk 01_NotoSerifCJK.ttc.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/01_NotoSerifCJK.ttc.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/01_NotoSerifCJK.ttc.zip"
         },
         {
           "name": "noto-cjk 01_NotoSerifCJK.ttc.zip",
-          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version Serif2.001 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/01_NotoSerifCJK.ttc.zip"
+          "url": "/github-release/googlefonts/noto-cjk/Noto Serif CJK Version 2.002 (OTF, OTC, Super OTC, Subset OTF, Variable OTF_TTF)/01_NotoSerifCJK.ttc.zip"
         },
         {
           "name": "noto-cjk 01_NotoSansCJK-OTF-VF.zip",
@@ -9281,8 +9297,8 @@
           "url": "/lineage-rom/full/z3c/20231214/lineage-18.1-20231214-nightly-z3c-signed.zip"
         },
         {
-          "name": "20231208 (z3, 18.1)",
-          "url": "/lineage-rom/full/z3/20231208/lineage-18.1-20231208-nightly-z3-signed.zip"
+          "name": "20240108 (z3, 18.1)",
+          "url": "/lineage-rom/full/z3/20240108/lineage-18.1-20240108-nightly-z3-signed.zip"
         },
         {
           "name": "20240106 (z2_plus, 20.0)",
@@ -9321,8 +9337,8 @@
           "url": "/lineage-rom/full/voyager/20240105/lineage-20.0-20240105-nightly-voyager-signed.zip"
         },
         {
-          "name": "20240103 (violet, 20.0)",
-          "url": "/lineage-rom/full/violet/20240103/lineage-20.0-20240103-nightly-violet-signed.zip"
+          "name": "20240110 (violet, 20.0)",
+          "url": "/lineage-rom/full/violet/20240110/lineage-20.0-20240110-nightly-violet-signed.zip"
         },
         {
           "name": "20231220 (victara, 18.1)",
@@ -9341,28 +9357,28 @@
           "url": "/lineage-rom/full/us997/20240104/lineage-20.0-20240104-nightly-us997-signed.zip"
         },
         {
-          "name": "20240101 (us996d, 20.0)",
-          "url": "/lineage-rom/full/us996d/20240101/lineage-20.0-20240101-nightly-us996d-signed.zip"
+          "name": "20240108 (us996d, 20.0)",
+          "url": "/lineage-rom/full/us996d/20240108/lineage-20.0-20240108-nightly-us996d-signed.zip"
         },
         {
           "name": "20240106 (us996, 20.0)",
           "url": "/lineage-rom/full/us996/20240106/lineage-20.0-20240106-nightly-us996-signed.zip"
         },
         {
-          "name": "20240102 (ursa, 20.0)",
-          "url": "/lineage-rom/full/ursa/20240102/lineage-20.0-20240102-nightly-ursa-signed.zip"
+          "name": "20240109 (ursa, 20.0)",
+          "url": "/lineage-rom/full/ursa/20240109/lineage-20.0-20240109-nightly-ursa-signed.zip"
         },
         {
           "name": "20240108 (troika, 20.0)",
           "url": "/lineage-rom/full/troika/20240108/lineage-20.0-20240108-nightly-troika-signed.zip"
         },
         {
-          "name": "20240103 (tissot, 20.0)",
-          "url": "/lineage-rom/full/tissot/20240103/lineage-20.0-20240103-nightly-tissot-signed.zip"
+          "name": "20240110 (tissot, 20.0)",
+          "url": "/lineage-rom/full/tissot/20240110/lineage-20.0-20240110-nightly-tissot-signed.zip"
         },
         {
-          "name": "20240103 (tangorpro, 20.0)",
-          "url": "/lineage-rom/full/tangorpro/20240103/lineage-20.0-20240103-nightly-tangorpro-signed.zip"
+          "name": "20240110 (tangorpro, 20.0)",
+          "url": "/lineage-rom/full/tangorpro/20240110/lineage-20.0-20240110-nightly-tangorpro-signed.zip"
         },
         {
           "name": "20240104 (taimen, 20.0)",
@@ -9373,8 +9389,8 @@
           "url": "/lineage-rom/full/sweet/20240104/lineage-20.0-20240104-nightly-sweet-signed.zip"
         },
         {
-          "name": "20240101 (surya, 20.0)",
-          "url": "/lineage-rom/full/surya/20240101/lineage-20.0-20240101-nightly-surya-signed.zip"
+          "name": "20240108 (surya, 20.0)",
+          "url": "/lineage-rom/full/surya/20240108/lineage-20.0-20240108-nightly-surya-signed.zip"
         },
         {
           "name": "20240104 (sunfish, 20.0)",
@@ -9401,8 +9417,8 @@
           "url": "/lineage-rom/full/sargo/20240106/lineage-20.0-20240106-nightly-sargo-signed.zip"
         },
         {
-          "name": "20240102 (sake, 20.0)",
-          "url": "/lineage-rom/full/sake/20240102/lineage-20.0-20240102-nightly-sake-signed.zip"
+          "name": "20240109 (sake, 20.0)",
+          "url": "/lineage-rom/full/sake/20240109/lineage-20.0-20240109-nightly-sake-signed.zip"
         },
         {
           "name": "20240107 (sailfish, 20.0)",
@@ -9429,8 +9445,8 @@
           "url": "/lineage-rom/full/rs988/20240106/lineage-20.0-20240106-nightly-rs988-signed.zip"
         },
         {
-          "name": "20240103 (rosemary, 20.0)",
-          "url": "/lineage-rom/full/rosemary/20240103/lineage-20.0-20240103-nightly-rosemary-signed.zip"
+          "name": "20240110 (rosemary, 20.0)",
+          "url": "/lineage-rom/full/rosemary/20240110/lineage-20.0-20240110-nightly-rosemary-signed.zip"
         },
         {
           "name": "20240106 (river, 20.0)",
@@ -9453,12 +9469,12 @@
           "url": "/lineage-rom/full/redfin/20240108/lineage-20.0-20240108-nightly-redfin-signed.zip"
         },
         {
-          "name": "20240101 (raven, 20.0)",
-          "url": "/lineage-rom/full/raven/20240101/lineage-20.0-20240101-nightly-raven-signed.zip"
+          "name": "20240108 (raven, 20.0)",
+          "url": "/lineage-rom/full/raven/20240108/lineage-20.0-20240108-nightly-raven-signed.zip"
         },
         {
-          "name": "20240103 (radxa0_tab, 20.0)",
-          "url": "/lineage-rom/full/radxa0_tab/20240103/lineage-20.0-20240103-nightly-radxa0_tab-signed.zip"
+          "name": "20240110 (radxa0_tab, 20.0)",
+          "url": "/lineage-rom/full/radxa0_tab/20240110/lineage-20.0-20240110-nightly-radxa0_tab-signed.zip"
         },
         {
           "name": "20240105 (radxa0, 20.0)",
@@ -9469,12 +9485,12 @@
           "url": "/lineage-rom/full/racer/20240104/lineage-20.0-20240104-nightly-racer-signed.zip"
         },
         {
-          "name": "20240102 (pyxis, 20.0)",
-          "url": "/lineage-rom/full/pyxis/20240102/lineage-20.0-20240102-nightly-pyxis-signed.zip"
+          "name": "20240109 (pyxis, 20.0)",
+          "url": "/lineage-rom/full/pyxis/20240109/lineage-20.0-20240109-nightly-pyxis-signed.zip"
         },
         {
-          "name": "20240101 (pstar, 20.0)",
-          "url": "/lineage-rom/full/pstar/20240101/lineage-20.0-20240101-nightly-pstar-signed.zip"
+          "name": "20240108 (pstar, 20.0)",
+          "url": "/lineage-rom/full/pstar/20240108/lineage-20.0-20240108-nightly-pstar-signed.zip"
         },
         {
           "name": "20240108 (pro1x, 20.0)",
@@ -9505,8 +9521,8 @@
           "url": "/lineage-rom/full/perseus/20240107/lineage-20.0-20240107-nightly-perseus-signed.zip"
         },
         {
-          "name": "20240102 (pdx215, 20.0)",
-          "url": "/lineage-rom/full/pdx215/20240102/lineage-20.0-20240102-nightly-pdx215-signed.zip"
+          "name": "20240109 (pdx215, 20.0)",
+          "url": "/lineage-rom/full/pdx215/20240109/lineage-20.0-20240109-nightly-pdx215-signed.zip"
         },
         {
           "name": "20240105 (pdx214, 20.0)",
@@ -9525,8 +9541,8 @@
           "url": "/lineage-rom/full/panther/20240105/lineage-20.0-20240105-nightly-panther-signed.zip"
         },
         {
-          "name": "20240101 (oriole, 20.0)",
-          "url": "/lineage-rom/full/oriole/20240101/lineage-20.0-20240101-nightly-oriole-signed.zip"
+          "name": "20240108 (oriole, 20.0)",
+          "url": "/lineage-rom/full/oriole/20240108/lineage-20.0-20240108-nightly-oriole-signed.zip"
         },
         {
           "name": "20240105 (oneplus3, 18.1)",
@@ -9537,12 +9553,12 @@
           "url": "/lineage-rom/full/onclite/20240107/lineage-20.0-20240107-nightly-onclite-signed.zip"
         },
         {
-          "name": "20240102 (odroidc4_tab, 20.0)",
-          "url": "/lineage-rom/full/odroidc4_tab/20240102/lineage-20.0-20240102-nightly-odroidc4_tab-signed.zip"
+          "name": "20240109 (odroidc4_tab, 20.0)",
+          "url": "/lineage-rom/full/odroidc4_tab/20240109/lineage-20.0-20240109-nightly-odroidc4_tab-signed.zip"
         },
         {
-          "name": "20240103 (odroidc4, 20.0)",
-          "url": "/lineage-rom/full/odroidc4/20240103/lineage-20.0-20240103-nightly-odroidc4-signed.zip"
+          "name": "20240110 (odroidc4, 20.0)",
+          "url": "/lineage-rom/full/odroidc4/20240110/lineage-20.0-20240110-nightly-odroidc4-signed.zip"
         },
         {
           "name": "20240107 (ocean, 20.0)",
@@ -9585,8 +9601,8 @@
           "url": "/lineage-rom/full/natrium/20240107/lineage-20.0-20240107-nightly-natrium-signed.zip"
         },
         {
-          "name": "20240103 (nash, 20.0)",
-          "url": "/lineage-rom/full/nash/20240103/lineage-20.0-20240103-nightly-nash-signed.zip"
+          "name": "20240110 (nash, 20.0)",
+          "url": "/lineage-rom/full/nash/20240110/lineage-20.0-20240110-nightly-nash-signed.zip"
         },
         {
           "name": "20240108 (nairo, 20.0)",
@@ -9609,8 +9625,8 @@
           "url": "/lineage-rom/full/mermaid/20240106/lineage-20.0-20240106-nightly-mermaid-signed.zip"
         },
         {
-          "name": "20240102 (merlinx, 20.0)",
-          "url": "/lineage-rom/full/merlinx/20240102/lineage-20.0-20240102-nightly-merlinx-signed.zip"
+          "name": "20240109 (merlinx, 20.0)",
+          "url": "/lineage-rom/full/merlinx/20240109/lineage-20.0-20240109-nightly-merlinx-signed.zip"
         },
         {
           "name": "20240106 (mata, 20.0)",
@@ -9621,8 +9637,8 @@
           "url": "/lineage-rom/full/martini/20240108/lineage-20.0-20240108-nightly-martini-signed.zip"
         },
         {
-          "name": "20240103 (mars, 20.0)",
-          "url": "/lineage-rom/full/mars/20240103/lineage-20.0-20240103-nightly-mars-signed.zip"
+          "name": "20240110 (mars, 20.0)",
+          "url": "/lineage-rom/full/mars/20240110/lineage-20.0-20240110-nightly-mars-signed.zip"
         },
         {
           "name": "20240106 (marlin, 20.0)",
@@ -9633,8 +9649,8 @@
           "url": "/lineage-rom/full/m5_tab/20240105/lineage-20.0-20240105-nightly-m5_tab-signed.zip"
         },
         {
-          "name": "20240101 (m52xq, 20.0)",
-          "url": "/lineage-rom/full/m52xq/20240101/lineage-20.0-20240101-nightly-m52xq-signed.zip"
+          "name": "20240108 (m52xq, 20.0)",
+          "url": "/lineage-rom/full/m52xq/20240108/lineage-20.0-20240108-nightly-m52xq-signed.zip"
         },
         {
           "name": "20240107 (m5, 20.0)",
@@ -9645,20 +9661,20 @@
           "url": "/lineage-rom/full/lynx/20240105/lineage-20.0-20240105-nightly-lynx-signed.zip"
         },
         {
-          "name": "20240102 (ls997, 20.0)",
-          "url": "/lineage-rom/full/ls997/20240102/lineage-20.0-20240102-nightly-ls997-signed.zip"
+          "name": "20240109 (ls997, 20.0)",
+          "url": "/lineage-rom/full/ls997/20240109/lineage-20.0-20240109-nightly-ls997-signed.zip"
         },
         {
-          "name": "20240103 (lmi, 20.0)",
-          "url": "/lineage-rom/full/lmi/20240103/lineage-20.0-20240103-nightly-lmi-signed.zip"
+          "name": "20240110 (lmi, 20.0)",
+          "url": "/lineage-rom/full/lmi/20240110/lineage-20.0-20240110-nightly-lmi-signed.zip"
         },
         {
-          "name": "20240102 (lisa, 20.0)",
-          "url": "/lineage-rom/full/lisa/20240102/lineage-20.0-20240102-nightly-lisa-signed.zip"
+          "name": "20240109 (lisa, 20.0)",
+          "url": "/lineage-rom/full/lisa/20240109/lineage-20.0-20240109-nightly-lisa-signed.zip"
         },
         {
-          "name": "20240101 (liber, 20.0)",
-          "url": "/lineage-rom/full/liber/20240101/lineage-20.0-20240101-nightly-liber-signed.zip"
+          "name": "20240108 (liber, 20.0)",
+          "url": "/lineage-rom/full/liber/20240108/lineage-20.0-20240108-nightly-liber-signed.zip"
         },
         {
           "name": "20240105 (lemonades, 20.0)",
@@ -9669,8 +9685,8 @@
           "url": "/lineage-rom/full/lemonadep/20240108/lineage-20.0-20240108-nightly-lemonadep-signed.zip"
         },
         {
-          "name": "20240101 (lemonade, 20.0)",
-          "url": "/lineage-rom/full/lemonade/20240101/lineage-20.0-20240101-nightly-lemonade-signed.zip"
+          "name": "20240108 (lemonade, 20.0)",
+          "url": "/lineage-rom/full/lemonade/20240108/lineage-20.0-20240108-nightly-lemonade-signed.zip"
         },
         {
           "name": "20240106 (lancelot, 20.0)",
@@ -9729,8 +9745,8 @@
           "url": "/lineage-rom/full/kebab/20240105/lineage-20.0-20240105-nightly-kebab-signed.zip"
         },
         {
-          "name": "20240101 (kane, 20.0)",
-          "url": "/lineage-rom/full/kane/20240101/lineage-20.0-20240101-nightly-kane-signed.zip"
+          "name": "20240108 (kane, 20.0)",
+          "url": "/lineage-rom/full/kane/20240108/lineage-20.0-20240108-nightly-kane-signed.zip"
         },
         {
           "name": "20240107 (joan, 20.0)",
@@ -9765,8 +9781,8 @@
           "url": "/lineage-rom/full/instantnoodlep/20240105/lineage-20.0-20240105-nightly-instantnoodlep-signed.zip"
         },
         {
-          "name": "20240102 (instantnoodle, 20.0)",
-          "url": "/lineage-rom/full/instantnoodle/20240102/lineage-20.0-20240102-nightly-instantnoodle-signed.zip"
+          "name": "20240109 (instantnoodle, 20.0)",
+          "url": "/lineage-rom/full/instantnoodle/20240109/lineage-20.0-20240109-nightly-instantnoodle-signed.zip"
         },
         {
           "name": "20240105 (hotdogb, 20.0)",
@@ -9797,20 +9813,20 @@
           "url": "/lineage-rom/full/heart/20240107/lineage-20.0-20240107-nightly-heart-signed.zip"
         },
         {
-          "name": "20240102 (haydn, 20.0)",
-          "url": "/lineage-rom/full/haydn/20240102/lineage-20.0-20240102-nightly-haydn-signed.zip"
+          "name": "20240109 (haydn, 20.0)",
+          "url": "/lineage-rom/full/haydn/20240109/lineage-20.0-20240109-nightly-haydn-signed.zip"
         },
         {
-          "name": "20240102 (hawao, 20.0)",
-          "url": "/lineage-rom/full/hawao/20240102/lineage-20.0-20240102-nightly-hawao-signed.zip"
+          "name": "20240109 (hawao, 20.0)",
+          "url": "/lineage-rom/full/hawao/20240109/lineage-20.0-20240109-nightly-hawao-signed.zip"
         },
         {
           "name": "20231220 (hannah, 18.1)",
           "url": "/lineage-rom/full/hannah/20231220/lineage-18.1-20231220-nightly-hannah-signed.zip"
         },
         {
-          "name": "20240101 (h990, 20.0)",
-          "url": "/lineage-rom/full/h990/20240101/lineage-20.0-20240101-nightly-h990-signed.zip"
+          "name": "20240108 (h990, 20.0)",
+          "url": "/lineage-rom/full/h990/20240108/lineage-20.0-20240108-nightly-h990-signed.zip"
         },
         {
           "name": "20240107 (h932, 20.0)",
@@ -9825,8 +9841,8 @@
           "url": "/lineage-rom/full/h910/20240107/lineage-20.0-20240107-nightly-h910-signed.zip"
         },
         {
-          "name": "20240101 (h872, 20.0)",
-          "url": "/lineage-rom/full/h872/20240101/lineage-20.0-20240101-nightly-h872-signed.zip"
+          "name": "20240108 (h872, 20.0)",
+          "url": "/lineage-rom/full/h872/20240108/lineage-20.0-20240108-nightly-h872-signed.zip"
         },
         {
           "name": "20240106 (h870, 20.0)",
@@ -9849,28 +9865,28 @@
           "url": "/lineage-rom/full/guacamole/20240108/lineage-20.0-20240108-nightly-guacamole-signed.zip"
         },
         {
-          "name": "20240103 (gts4lvwifi, 20.0)",
-          "url": "/lineage-rom/full/gts4lvwifi/20240103/lineage-20.0-20240103-nightly-gts4lvwifi-signed.zip"
+          "name": "20240110 (gts4lvwifi, 20.0)",
+          "url": "/lineage-rom/full/gts4lvwifi/20240110/lineage-20.0-20240110-nightly-gts4lvwifi-signed.zip"
         },
         {
           "name": "20240105 (gts4lv, 20.0)",
           "url": "/lineage-rom/full/gts4lv/20240105/lineage-20.0-20240105-nightly-gts4lv-signed.zip"
         },
         {
-          "name": "20240103 (gtowifi, 20.0)",
-          "url": "/lineage-rom/full/gtowifi/20240103/lineage-20.0-20240103-nightly-gtowifi-signed.zip"
+          "name": "20240110 (gtowifi, 20.0)",
+          "url": "/lineage-rom/full/gtowifi/20240110/lineage-20.0-20240110-nightly-gtowifi-signed.zip"
         },
         {
           "name": "20240106 (gta4xlwifi, 20.0)",
           "url": "/lineage-rom/full/gta4xlwifi/20240106/lineage-20.0-20240106-nightly-gta4xlwifi-signed.zip"
         },
         {
-          "name": "20240103 (gta4xl, 20.0)",
-          "url": "/lineage-rom/full/gta4xl/20240103/lineage-20.0-20240103-nightly-gta4xl-signed.zip"
+          "name": "20240110 (gta4xl, 20.0)",
+          "url": "/lineage-rom/full/gta4xl/20240110/lineage-20.0-20240110-nightly-gta4xl-signed.zip"
         },
         {
-          "name": "20240102 (gta4lwifi, 20.0)",
-          "url": "/lineage-rom/full/gta4lwifi/20240102/lineage-20.0-20240102-nightly-gta4lwifi-signed.zip"
+          "name": "20240109 (gta4lwifi, 20.0)",
+          "url": "/lineage-rom/full/gta4lwifi/20240109/lineage-20.0-20240109-nightly-gta4lwifi-signed.zip"
         },
         {
           "name": "20240107 (gta4l, 20.0)",
@@ -9885,16 +9901,16 @@
           "url": "/lineage-rom/full/griffin/20231223/lineage-18.1-20231223-nightly-griffin-signed.zip"
         },
         {
-          "name": "20231209 (ginkgo, 18.1)",
-          "url": "/lineage-rom/full/ginkgo/20231209/lineage-18.1-20231209-nightly-ginkgo-signed.zip"
+          "name": "20240109 (ginkgo, 18.1)",
+          "url": "/lineage-rom/full/ginkgo/20240109/lineage-18.1-20240109-nightly-ginkgo-signed.zip"
         },
         {
-          "name": "20240103 (gemini, 20.0)",
-          "url": "/lineage-rom/full/gemini/20240103/lineage-20.0-20240103-nightly-gemini-signed.zip"
+          "name": "20240110 (gemini, 20.0)",
+          "url": "/lineage-rom/full/gemini/20240110/lineage-20.0-20240110-nightly-gemini-signed.zip"
         },
         {
-          "name": "20240103 (gauguin, 20.0)",
-          "url": "/lineage-rom/full/gauguin/20240103/lineage-20.0-20240103-nightly-gauguin-signed.zip"
+          "name": "20240110 (gauguin, 20.0)",
+          "url": "/lineage-rom/full/gauguin/20240110/lineage-20.0-20240110-nightly-gauguin-signed.zip"
         },
         {
           "name": "20231220 (foster_tab, 18.1)",
@@ -9913,8 +9929,8 @@
           "url": "/lineage-rom/full/flame/20240104/lineage-20.0-20240104-nightly-flame-signed.zip"
         },
         {
-          "name": "20240102 (fajita, 20.0)",
-          "url": "/lineage-rom/full/fajita/20240102/lineage-20.0-20240102-nightly-fajita-signed.zip"
+          "name": "20240109 (fajita, 20.0)",
+          "url": "/lineage-rom/full/fajita/20240109/lineage-20.0-20240109-nightly-fajita-signed.zip"
         },
         {
           "name": "20240105 (f62, 20.0)",
@@ -9929,16 +9945,16 @@
           "url": "/lineage-rom/full/ether/20231213/lineage-18.1-20231213-nightly-ether-signed.zip"
         },
         {
-          "name": "20240102 (equuleus, 20.0)",
-          "url": "/lineage-rom/full/equuleus/20240102/lineage-20.0-20240102-nightly-equuleus-signed.zip"
+          "name": "20240109 (equuleus, 20.0)",
+          "url": "/lineage-rom/full/equuleus/20240109/lineage-20.0-20240109-nightly-equuleus-signed.zip"
         },
         {
-          "name": "20240103 (enchilada, 20.0)",
-          "url": "/lineage-rom/full/enchilada/20240103/lineage-20.0-20240103-nightly-enchilada-signed.zip"
+          "name": "20240110 (enchilada, 20.0)",
+          "url": "/lineage-rom/full/enchilada/20240110/lineage-20.0-20240110-nightly-enchilada-signed.zip"
         },
         {
-          "name": "20240102 (dumpling, 20.0)",
-          "url": "/lineage-rom/full/dumpling/20240102/lineage-20.0-20240102-nightly-dumpling-signed.zip"
+          "name": "20240109 (dumpling, 20.0)",
+          "url": "/lineage-rom/full/dumpling/20240109/lineage-20.0-20240109-nightly-dumpling-signed.zip"
         },
         {
           "name": "20240105 (dubai, 20.0)",
@@ -9965,8 +9981,8 @@
           "url": "/lineage-rom/full/debx/20231222/lineage-18.1-20231222-nightly-debx-signed.zip"
         },
         {
-          "name": "20240102 (deadpool, 20.0)",
-          "url": "/lineage-rom/full/deadpool/20240102/lineage-20.0-20240102-nightly-deadpool-signed.zip"
+          "name": "20240109 (deadpool, 20.0)",
+          "url": "/lineage-rom/full/deadpool/20240109/lineage-20.0-20240109-nightly-deadpool-signed.zip"
         },
         {
           "name": "20240107 (davinci, 20.0)",
@@ -9989,40 +10005,40 @@
           "url": "/lineage-rom/full/crownlte/20240104/lineage-20.0-20240104-nightly-crownlte-signed.zip"
         },
         {
-          "name": "20240102 (crosshatch, 20.0)",
-          "url": "/lineage-rom/full/crosshatch/20240102/lineage-20.0-20240102-nightly-crosshatch-signed.zip"
+          "name": "20240109 (crosshatch, 20.0)",
+          "url": "/lineage-rom/full/crosshatch/20240109/lineage-20.0-20240109-nightly-crosshatch-signed.zip"
         },
         {
           "name": "20240105 (coral, 20.0)",
           "url": "/lineage-rom/full/coral/20240105/lineage-20.0-20240105-nightly-coral-signed.zip"
         },
         {
-          "name": "20240102 (chiron, 20.0)",
-          "url": "/lineage-rom/full/chiron/20240102/lineage-20.0-20240102-nightly-chiron-signed.zip"
+          "name": "20240109 (chiron, 20.0)",
+          "url": "/lineage-rom/full/chiron/20240109/lineage-20.0-20240109-nightly-chiron-signed.zip"
         },
         {
-          "name": "20240102 (cheryl, 20.0)",
-          "url": "/lineage-rom/full/cheryl/20240102/lineage-20.0-20240102-nightly-cheryl-signed.zip"
+          "name": "20240109 (cheryl, 20.0)",
+          "url": "/lineage-rom/full/cheryl/20240109/lineage-20.0-20240109-nightly-cheryl-signed.zip"
         },
         {
-          "name": "20240102 (cheetah, 20.0)",
-          "url": "/lineage-rom/full/cheetah/20240102/lineage-20.0-20240102-nightly-cheetah-signed.zip"
+          "name": "20240109 (cheetah, 20.0)",
+          "url": "/lineage-rom/full/cheetah/20240109/lineage-20.0-20240109-nightly-cheetah-signed.zip"
         },
         {
-          "name": "20240101 (cheeseburger, 20.0)",
-          "url": "/lineage-rom/full/cheeseburger/20240101/lineage-20.0-20240101-nightly-cheeseburger-signed.zip"
+          "name": "20240108 (cheeseburger, 20.0)",
+          "url": "/lineage-rom/full/cheeseburger/20240108/lineage-20.0-20240108-nightly-cheeseburger-signed.zip"
         },
         {
-          "name": "20240103 (channel, 20.0)",
-          "url": "/lineage-rom/full/channel/20240103/lineage-20.0-20240103-nightly-channel-signed.zip"
+          "name": "20240110 (channel, 20.0)",
+          "url": "/lineage-rom/full/channel/20240110/lineage-20.0-20240110-nightly-channel-signed.zip"
         },
         {
           "name": "20231212 (cedric, 18.1)",
           "url": "/lineage-rom/full/cedric/20231212/lineage-18.1-20231212-nightly-cedric-signed.zip"
         },
         {
-          "name": "20231209 (castor_windy, 18.1)",
-          "url": "/lineage-rom/full/castor_windy/20231209/lineage-18.1-20231209-nightly-castor_windy-signed.zip"
+          "name": "20240109 (castor_windy, 18.1)",
+          "url": "/lineage-rom/full/castor_windy/20240109/lineage-18.1-20240109-nightly-castor_windy-signed.zip"
         },
         {
           "name": "20231224 (castor, 18.1)",
@@ -10037,16 +10053,16 @@
           "url": "/lineage-rom/full/bonito/20240106/lineage-20.0-20240106-nightly-bonito-signed.zip"
         },
         {
-          "name": "20240101 (blueline, 20.0)",
-          "url": "/lineage-rom/full/blueline/20240101/lineage-20.0-20240101-nightly-blueline-signed.zip"
+          "name": "20240108 (blueline, 20.0)",
+          "url": "/lineage-rom/full/blueline/20240108/lineage-20.0-20240108-nightly-blueline-signed.zip"
         },
         {
           "name": "20240106 (bluejay, 20.0)",
           "url": "/lineage-rom/full/bluejay/20240106/lineage-20.0-20240106-nightly-bluejay-signed.zip"
         },
         {
-          "name": "20240103 (beyondx, 20.0)",
-          "url": "/lineage-rom/full/beyondx/20240103/lineage-20.0-20240103-nightly-beyondx-signed.zip"
+          "name": "20240110 (beyondx, 20.0)",
+          "url": "/lineage-rom/full/beyondx/20240110/lineage-20.0-20240110-nightly-beyondx-signed.zip"
         },
         {
           "name": "20240106 (beyond2lte, 20.0)",
@@ -10061,28 +10077,28 @@
           "url": "/lineage-rom/full/beyond0lte/20240106/lineage-20.0-20240106-nightly-beyond0lte-signed.zip"
         },
         {
-          "name": "20240102 (beryllium, 20.0)",
-          "url": "/lineage-rom/full/beryllium/20240102/lineage-20.0-20240102-nightly-beryllium-signed.zip"
+          "name": "20240109 (beryllium, 20.0)",
+          "url": "/lineage-rom/full/beryllium/20240109/lineage-20.0-20240109-nightly-beryllium-signed.zip"
         },
         {
-          "name": "20240103 (berlna, 20.0)",
-          "url": "/lineage-rom/full/berlna/20240103/lineage-20.0-20240103-nightly-berlna-signed.zip"
+          "name": "20240110 (berlna, 20.0)",
+          "url": "/lineage-rom/full/berlna/20240110/lineage-20.0-20240110-nightly-berlna-signed.zip"
         },
         {
           "name": "20240106 (berlin, 20.0)",
           "url": "/lineage-rom/full/berlin/20240106/lineage-20.0-20240106-nightly-berlin-signed.zip"
         },
         {
-          "name": "20240103 (beckham, 20.0)",
-          "url": "/lineage-rom/full/beckham/20240103/lineage-20.0-20240103-nightly-beckham-signed.zip"
+          "name": "20240110 (beckham, 20.0)",
+          "url": "/lineage-rom/full/beckham/20240110/lineage-20.0-20240110-nightly-beckham-signed.zip"
         },
         {
           "name": "20240106 (bardockpro, 20.0)",
           "url": "/lineage-rom/full/bardockpro/20240106/lineage-20.0-20240106-nightly-bardockpro-signed.zip"
         },
         {
-          "name": "20240101 (bardock, 20.0)",
-          "url": "/lineage-rom/full/bardock/20240101/lineage-20.0-20240101-nightly-bardock-signed.zip"
+          "name": "20240108 (bardock, 20.0)",
+          "url": "/lineage-rom/full/bardock/20240108/lineage-20.0-20240108-nightly-bardock-signed.zip"
         },
         {
           "name": "20240105 (barbet, 20.0)",
@@ -10097,12 +10113,12 @@
           "url": "/lineage-rom/full/axolotl/20240106/lineage-20.0-20240106-nightly-axolotl-signed.zip"
         },
         {
-          "name": "20240103 (avicii, 20.0)",
-          "url": "/lineage-rom/full/avicii/20240103/lineage-20.0-20240103-nightly-avicii-signed.zip"
+          "name": "20240110 (avicii, 20.0)",
+          "url": "/lineage-rom/full/avicii/20240110/lineage-20.0-20240110-nightly-avicii-signed.zip"
         },
         {
-          "name": "20240103 (aurora, 20.0)",
-          "url": "/lineage-rom/full/aurora/20240103/lineage-20.0-20240103-nightly-aurora-signed.zip"
+          "name": "20240110 (aurora, 20.0)",
+          "url": "/lineage-rom/full/aurora/20240110/lineage-20.0-20240110-nightly-aurora-signed.zip"
         },
         {
           "name": "20240105 (aura, 20.0)",
@@ -10113,16 +10129,16 @@
           "url": "/lineage-rom/full/apollon/20240106/lineage-20.0-20240106-nightly-apollon-signed.zip"
         },
         {
-          "name": "20240103 (alioth, 20.0)",
-          "url": "/lineage-rom/full/alioth/20240103/lineage-20.0-20240103-nightly-alioth-signed.zip"
+          "name": "20240110 (alioth, 20.0)",
+          "url": "/lineage-rom/full/alioth/20240110/lineage-20.0-20240110-nightly-alioth-signed.zip"
         },
         {
           "name": "20240101 (albus, 18.1)",
           "url": "/lineage-rom/full/albus/20240101/lineage-18.1-20240101-nightly-albus-signed.zip"
         },
         {
-          "name": "20240102 (akatsuki, 20.0)",
-          "url": "/lineage-rom/full/akatsuki/20240102/lineage-20.0-20240102-nightly-akatsuki-signed.zip"
+          "name": "20240109 (akatsuki, 20.0)",
+          "url": "/lineage-rom/full/akatsuki/20240109/lineage-20.0-20240109-nightly-akatsuki-signed.zip"
         },
         {
           "name": "20240105 (akari, 20.0)",
@@ -10145,24 +10161,24 @@
           "url": "/lineage-rom/full/a73xq/20240104/lineage-20.0-20240104-nightly-a73xq-signed.zip"
         },
         {
-          "name": "20240101 (a72q, 20.0)",
-          "url": "/lineage-rom/full/a72q/20240101/lineage-20.0-20240101-nightly-a72q-signed.zip"
+          "name": "20240108 (a72q, 20.0)",
+          "url": "/lineage-rom/full/a72q/20240108/lineage-20.0-20240108-nightly-a72q-signed.zip"
         },
         {
           "name": "20231217 (a5y17lte, 18.1)",
           "url": "/lineage-rom/full/a5y17lte/20231217/lineage-18.1-20231217-nightly-a5y17lte-signed.zip"
         },
         {
-          "name": "20240103 (a52sxq, 20.0)",
-          "url": "/lineage-rom/full/a52sxq/20240103/lineage-20.0-20240103-nightly-a52sxq-signed.zip"
+          "name": "20240110 (a52sxq, 20.0)",
+          "url": "/lineage-rom/full/a52sxq/20240110/lineage-20.0-20240110-nightly-a52sxq-signed.zip"
         },
         {
-          "name": "20240101 (a52q, 20.0)",
-          "url": "/lineage-rom/full/a52q/20240101/lineage-20.0-20240101-nightly-a52q-signed.zip"
+          "name": "20240108 (a52q, 20.0)",
+          "url": "/lineage-rom/full/a52q/20240108/lineage-20.0-20240108-nightly-a52q-signed.zip"
         },
         {
-          "name": "20240102 (Z01R, 20.0)",
-          "url": "/lineage-rom/full/Z01R/20240102/lineage-20.0-20240102-nightly-Z01R-signed.zip"
+          "name": "20240109 (Z01R, 20.0)",
+          "url": "/lineage-rom/full/Z01R/20240109/lineage-20.0-20240109-nightly-Z01R-signed.zip"
         },
         {
           "name": "20240106 (X00TD, 20.0)",
@@ -10177,12 +10193,12 @@
           "url": "/lineage-rom/full/Spacewar/20231206/lineage-20.0-20231206-nightly-Spacewar-signed.zip"
         },
         {
-          "name": "20240103 (PL2, 20.0)",
-          "url": "/lineage-rom/full/PL2/20240103/lineage-20.0-20240103-nightly-PL2-signed.zip"
+          "name": "20240110 (PL2, 20.0)",
+          "url": "/lineage-rom/full/PL2/20240110/lineage-20.0-20240110-nightly-PL2-signed.zip"
         },
         {
-          "name": "20240102 (Mi8937, 20.0)",
-          "url": "/lineage-rom/full/Mi8937/20240102/lineage-20.0-20240102-nightly-Mi8937-signed.zip"
+          "name": "20240109 (Mi8937, 20.0)",
+          "url": "/lineage-rom/full/Mi8937/20240109/lineage-20.0-20240109-nightly-Mi8937-signed.zip"
         },
         {
           "name": "20240104 (Mi8917, 20.0)",
@@ -10197,12 +10213,12 @@
           "url": "/lineage-rom/full/G/20240104/lineage-20.0-20240104-nightly-G-signed.zip"
         },
         {
-          "name": "20240103 (FP4, 20.0)",
-          "url": "/lineage-rom/full/FP4/20240103/lineage-20.0-20240103-nightly-FP4-signed.zip"
+          "name": "20240110 (FP4, 20.0)",
+          "url": "/lineage-rom/full/FP4/20240110/lineage-20.0-20240110-nightly-FP4-signed.zip"
         },
         {
-          "name": "20240103 (FP3, 20.0)",
-          "url": "/lineage-rom/full/FP3/20240103/lineage-20.0-20240103-nightly-FP3-signed.zip"
+          "name": "20240110 (FP3, 20.0)",
+          "url": "/lineage-rom/full/FP3/20240110/lineage-20.0-20240110-nightly-FP3-signed.zip"
         },
         {
           "name": "20231212 (FP2, 18.1)",
@@ -10273,16 +10289,16 @@
           "url": "/linuxmint-cd/debian/lmde-6-cinnamon-32bit.iso"
         },
         {
-          "name": "21.2 (64bit, xfce)",
-          "url": "/linuxmint-cd/stable/21.2/linuxmint-21.2-xfce-64bit.iso"
+          "name": "21.3 (64bit, xfce)",
+          "url": "/linuxmint-cd/stable/21.3/linuxmint-21.3-xfce-64bit.iso"
         },
         {
-          "name": "21.2 (64bit, mate)",
-          "url": "/linuxmint-cd/stable/21.2/linuxmint-21.2-mate-64bit.iso"
+          "name": "21.3 (64bit, mate)",
+          "url": "/linuxmint-cd/stable/21.3/linuxmint-21.3-mate-64bit.iso"
         },
         {
-          "name": "21.2 (64bit, cinnamon)",
-          "url": "/linuxmint-cd/stable/21.2/linuxmint-21.2-cinnamon-64bit.iso"
+          "name": "21.3 (64bit, cinnamon)",
+          "url": "/linuxmint-cd/stable/21.3/linuxmint-21.3-cinnamon-64bit.iso"
         }
       ]
     },
@@ -11494,7 +11510,7 @@
       "urls": [
         {
           "name": "1.0.3 (Unhinted)",
-          "url": "/github-release/be5invis/Sarasa-Gothic/LatestRelease/Sarasa-SuperTTC-Unhinted-1.0.3.7z"
+          "url": "/github-release/be5invis/Sarasa-Gothic/LatestRelease/Sarasa-TTC-Unhinted-1.0.3.7z"
         },
         {
           "name": "1.0.3 (Unhinted)",
@@ -11502,7 +11518,7 @@
         },
         {
           "name": "1.0.3 (Unhinted)",
-          "url": "/github-release/be5invis/Sarasa-Gothic/LatestRelease/Sarasa-TTC-Unhinted-1.0.3.7z"
+          "url": "/github-release/be5invis/Sarasa-Gothic/LatestRelease/Sarasa-SuperTTC-Unhinted-1.0.3.7z"
         },
         {
           "name": "1.0.3 (TTF)",
@@ -12482,16 +12498,16 @@
       "cname": "adobe-fonts",
       "options_name": "adobe-fonts",
       "url": "/adobe-fonts",
-      "status": "S1704674370X1704760770",
+      "status": "S1704936852X1705023252",
       "upstream": "https://github.com/adobe-fonts",
-      "size": "74.9G",
+      "size": "57.7G",
       "desc": "Adobe 公司的开源字体"
     },
     {
       "cname": "Adoptium",
       "options_name": "Adoptium",
       "url": "/Adoptium",
-      "status": "S1704639856X1704985456",
+      "status": "S1704634600X1704980200",
       "upstream": "https://packages.adoptium.net/artifactory",
       "size": "95.6G",
       "help": "/help/adoptium/"
@@ -12500,7 +12516,7 @@
       "cname": "alpine",
       "options_name": "alpine",
       "url": "/alpine",
-      "status": "S1704712299X1704733899",
+      "status": "Y1704979267O1704957662",
       "upstream": "rsync://rsync.alpinelinux.org/alpine/",
       "size": "2.72T",
       "desc": "Alpine Linux 的安装镜像和官方软件包仓库",
@@ -12510,7 +12526,7 @@
       "cname": "anaconda",
       "options_name": "anaconda",
       "url": "/anaconda",
-      "status": "S1704686983X1704730183",
+      "status": "S1704962036X1705005236",
       "upstream": "https://repo.continuum.io/",
       "size": "12.6T",
       "desc": "用于科学计算的 Python 发行版",
@@ -12520,9 +12536,9 @@
       "cname": "anthon",
       "options_name": "anthon",
       "url": "/anthon",
-      "status": "S1704701837X1704723437",
+      "status": "S1704963345X1704984945",
       "upstream": "rsync://mirror.anthonos.org/anthon/",
-      "size": "1.32T",
+      "size": "1.35T",
       "desc": "Anthon Linux（安同 Linux）的安装镜像和官方软件包仓库",
       "help": "/help/anthon/"
     },
@@ -12530,9 +12546,9 @@
       "cname": "AOSP",
       "options_name": "AOSP",
       "url": "/git/AOSP",
-      "status": "S1704713205X1704720405",
+      "status": "S1704973106X1704980306",
       "upstream": "https://android.googlesource.com/mirror/manifest",
-      "size": "2.21T",
+      "size": "2.25T",
       "desc": "Android 操作系统源代码",
       "help": "/help/AOSP/"
     },
@@ -12540,25 +12556,25 @@
       "cname": "aosp-monthly",
       "options_name": "aosp-monthly",
       "url": "/aosp-monthly",
-      "status": "S1704710843X1704732443",
+      "status": "S1704970142X1704991742",
       "upstream": "rsync://bravo.s.tuna.tsinghua.edu.cn/aosp-monthly/",
-      "size": "287.30G",
+      "size": "267G",
       "desc": "AOSP （Android 系统源码）镜像每月打包"
     },
     {
       "cname": "apache",
       "options_name": "apache",
       "url": "/apache",
-      "status": "S1704719902X1704741502",
+      "status": "S1704959241X1704980841",
       "upstream": "rsync://rsync.apache.org/apache-dist/",
-      "size": "230.43G",
+      "size": "216G",
       "desc": "Apache 基金会赞助的各个项目"
     },
     {
       "cname": "arch4edu",
       "options_name": "arch4edu",
       "url": "/arch4edu",
-      "status": "S1704698514X1704720114",
+      "status": "S1704969617X1704991217",
       "upstream": "rsync://arch4edu-upload.tuna.tsinghua.edu.cn/arch4edu/",
       "size": "38.3G",
       "desc": "用于 Arch Linux 和 Arch Linux ARM 的非官方软件仓库，主要包含科研、教学所需的各种常用软件",
@@ -12568,9 +12584,9 @@
       "cname": "archlinux",
       "options_name": "archlinux",
       "url": "/archlinux",
-      "status": "S1704717523X1704721123",
+      "status": "S1704979295X1704982895",
       "upstream": "rsync://rsync.archlinux.org/ftp_tier1/",
-      "size": "100.82G",
+      "size": "101.42G",
       "desc": "Arch Linux 的安装镜像和官方软件包仓库",
       "help": "/help/archlinux/"
     },
@@ -12578,9 +12594,9 @@
       "cname": "archlinuxarm",
       "options_name": "archlinuxarm",
       "url": "/archlinuxarm",
-      "status": "S1704712978X1704734578",
+      "status": "S1704972156X1704993756",
       "upstream": "rsync://ftp.halifax.rwth-aachen.de/archlinux-arm/",
-      "size": "108.24G",
+      "size": "102G",
       "desc": "用于 ARM 平台的 Arch Linux 镜像和软件包仓库",
       "help": "/help/archlinuxarm/"
     },
@@ -12588,9 +12604,9 @@
       "cname": "archlinuxcn",
       "options_name": "archlinuxcn",
       "url": "/archlinuxcn",
-      "status": "Y1704720102O1704719540",
+      "status": "S1704979266X1705000866",
       "upstream": "rsync://repo@sync.repo.archlinuxcn.org/repo/",
-      "size": "176.87G",
+      "size": "170.41G",
       "desc": "由 Arch Linux 中文社区驱动的非官方用户仓库，包含中文用户常用软件、工具、字体/美化包等",
       "help": "/help/archlinuxcn/"
     },
@@ -12598,9 +12614,9 @@
       "cname": "armbian",
       "options_name": "armbian",
       "url": "/armbian",
-      "status": "S1704705810X1704727410",
+      "status": "S1704971514X1704993114",
       "upstream": "rsync://rsync.armbian.com/apt/",
-      "size": "215G",
+      "size": "223G",
       "desc": "Armbian（面向 ARM 单板机的发行版）的软件源",
       "help": "/help/armbian/"
     },
@@ -12608,34 +12624,34 @@
       "cname": "armbian-releases",
       "options_name": "armbian-releases",
       "url": "/armbian-releases",
-      "status": "S1704702534X1704724134",
+      "status": "S1704963375X1704984975",
       "upstream": "rsync://rsync.armbian.com/dl/",
-      "size": "571G",
+      "size": "570G",
       "desc": "Armbian 的安装镜像"
     },
     {
       "cname": "artixlinux",
       "options_name": "artixlinux",
       "url": "/artixlinux",
-      "status": "S1704705387X1704726987",
+      "status": "S1704969189X1704990789",
       "upstream": "rsync://mirror1.artixlinux.org/artix-linux/",
-      "size": "27.6G",
+      "size": "27.8G",
       "desc": "Artix Linux 的官方软件包仓库（基于 Arch Linux 的不使用 systemd 的发行版）"
     },
     {
       "cname": "artixlinux-iso",
       "options_name": "artixlinux-iso",
       "url": "/artixlinux-iso",
-      "status": "S1704708967X1704730567",
+      "status": "S1704966995X1704988595",
       "upstream": "rsync://download.artixlinux.org/iso/",
-      "size": "56.22G",
+      "size": "52.3G",
       "desc": "Artix Linux 的安装镜像"
     },
     {
       "cname": "bazel-apt",
       "options_name": "bazel-apt",
       "url": "/bazel-apt",
-      "status": "S1704716594X1704738194",
+      "status": "S1704976037X1704997637",
       "upstream": "https://storage.googleapis.com/bazel-apt",
       "size": "4.4G",
       "help": "/help/bazel-apt/"
@@ -12644,9 +12660,9 @@
       "cname": "binutils-gdb.git",
       "options_name": "binutils-gdb.git",
       "url": "/git/binutils-gdb.git",
-      "status": "S1704718809X1704726009",
+      "status": "S1704979081X1704986281",
       "upstream": "git://sourceware.org/git/binutils-gdb.git",
-      "size": "544M",
+      "size": "545M",
       "desc": "Binutils 和 GDB 等开发工具的源码 Git 仓库",
       "help": "/help/binutils-gdb.git/"
     },
@@ -12654,9 +12670,9 @@
       "cname": "bioconductor",
       "options_name": "bioconductor",
       "url": "/bioconductor",
-      "status": "S1704711357X1704732957",
+      "status": "S1704971112X1704992712",
       "upstream": "master.bioconductor.org:./",
-      "size": "342.95G",
+      "size": "684G",
       "desc": "开源的基因数据分析处理工具",
       "help": "/help/bioconductor/"
     },
@@ -12664,7 +12680,7 @@
       "cname": "bjlx",
       "options_name": "bjlx",
       "url": "/bjlx",
-      "status": "S1704701364X1704722964",
+      "status": "S1704960772X1704982372",
       "upstream": "rsync://rsync.anheng.com.cn/bjlx/",
       "size": "4.03G",
       "desc": "北京龙芯 & Debian 俱乐部 的公开软件源"
@@ -12673,9 +12689,9 @@
       "cname": "blackarch",
       "options_name": "blackarch",
       "url": "/blackarch",
-      "status": "S1704716385X1704737985",
+      "status": "S1704970380X1704991980",
       "upstream": "rsync://www.blackarch.org/blackarch/",
-      "size": "91.95G",
+      "size": "85.9G",
       "desc": "用于安全评估的基于 Arch Linux 的轻量级发行版",
       "help": "/help/blackarch/"
     },
@@ -12683,7 +12699,7 @@
       "cname": "blender",
       "options_name": "blender",
       "url": "/blender",
-      "status": "S1704672360X1704758760",
+      "status": "S1704927232X1705013632",
       "upstream": "rsync://mirrors.dotsrc.org/blender/",
       "size": "191G",
       "desc": "专业的三维计算机图形软件"
@@ -12692,7 +12708,7 @@
       "cname": "cc",
       "options_name": "cc",
       "url": "/cc",
-      "status": "F1704711170X1704725570",
+      "status": "Y1704970689",
       "upstream": "rsync://linuxsoft.cern.ch/cc/",
       "size": "3.71T",
       "desc": "CERN CentOS"
@@ -12701,9 +12717,9 @@
       "cname": "centos",
       "options_name": "centos",
       "url": "/centos",
-      "status": "S1704709498X1704731098",
+      "status": "S1704973189X1704994789",
       "upstream": "rsync://msync.centos.org/CentOS/",
-      "size": "739.45G",
+      "size": "588G",
       "desc": "CentOS 的安装镜像和官方软件包仓库",
       "help": "/help/centos/"
     },
@@ -12711,9 +12727,9 @@
       "cname": "centos-altarch",
       "options_name": "centos-altarch",
       "url": "/centos-altarch",
-      "status": "S1704712830X1704734430",
+      "status": "S1704972325X1704993925",
       "upstream": "rsync://msync.centos.org/altarch/",
-      "size": "316.64G",
+      "size": "237G",
       "desc": "CentOS 额外平台的安装镜像和官方软件包仓库",
       "help": "/help/centos-altarch/"
     },
@@ -12721,18 +12737,18 @@
       "cname": "centos-stream",
       "options_name": "centos-stream",
       "url": "/centos-stream",
-      "status": "S1704710176X1704731776",
+      "status": "S1704973089X1704994689",
       "upstream": "rsync://rsync.stream.centos.org/CentOS-Stream-All/",
-      "size": "2.15T",
+      "size": "1.77T",
       "help": "/help/centos-stream/"
     },
     {
       "cname": "centos-vault",
       "options_name": "centos-vault",
       "url": "/centos-vault",
-      "status": "S1704716688X1704738288",
+      "status": "S1704967078X1704988678",
       "upstream": "rsync://linuxsoft.cern.ch/centos-vault/",
-      "size": "6.12T",
+      "size": "3.52T",
       "desc": "为旧版本 CentOS 提供服务的软件包仓库",
       "help": "/help/centos-vault/"
     },
@@ -12740,9 +12756,9 @@
       "cname": "ceph",
       "options_name": "ceph",
       "url": "/ceph",
-      "status": "S1704704538X1704726138",
+      "status": "S1704964530X1704986130",
       "upstream": "rsync://download.ceph.com/ceph/",
-      "size": "258G",
+      "size": "261G",
       "desc": "高性能对象存储和文件系统",
       "help": "/help/ceph/"
     },
@@ -12750,24 +12766,24 @@
       "cname": "clojars",
       "options_name": "clojars",
       "url": "/clojars",
-      "status": "Y1704718163O1704696562",
+      "status": "S1704962027X1704983627",
       "upstream": "s3://clojars-repo-production/",
-      "size": "120G",
+      "size": "119G",
       "desc": "Clojure 语言的第三方软件包仓库",
       "help": "/help/clojars/"
     },
     {
       "cname": "cmder",
       "url": "/github-release/cmderdev/cmder",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "CocoaPods",
       "options_name": "CocoaPods",
       "url": "/git/CocoaPods",
-      "status": "S1704714508X1704721708",
+      "status": "S1704974551X1704981751",
       "upstream": "https://github.com/CocoaPods",
-      "size": "1.02G",
+      "size": "1.1G",
       "desc": "Objective-C 和 Swift 的依赖管理器",
       "help": "/help/CocoaPods/"
     },
@@ -12775,7 +12791,7 @@
       "cname": "CPAN",
       "options_name": "CPAN",
       "url": "/CPAN",
-      "status": "S1704699150X1704720750",
+      "status": "S1704965487X1704987087",
       "upstream": "rsync://cpan-rsync.perl.org/CPAN/",
       "size": "35.8G",
       "desc": "Perl 语言软件库",
@@ -12785,9 +12801,9 @@
       "cname": "CRAN",
       "options_name": "CRAN",
       "url": "/CRAN",
-      "status": "S1704717592X1704739192",
+      "status": "S1704974926X1704996526",
       "upstream": "cran-rsync@cran.r-project.org:./",
-      "size": "393.56G",
+      "size": "392G",
       "desc": "R 语言的可执行文件、源代码和说明文件，也收录了各种用户撰写的软件包",
       "help": "/help/CRAN/"
     },
@@ -12795,9 +12811,9 @@
       "cname": "crates.io-index",
       "options_name": "crates.io-index",
       "url": "/crates.io-index",
-      "status": "S1704710237X1704731837N",
+      "status": "S1704978643X1705000243N",
       "upstream": "https://mirrors.tuna.tsinghua.edu.cn/git/crates.io-index.git",
-      "size": "942M",
+      "size": "949M",
       "desc": "面向 Rust 语言的软件包稀疏索引 crates.io",
       "help": "/help/crates.io-index/"
     },
@@ -12805,9 +12821,9 @@
       "cname": "crates.io-index.git",
       "options_name": "crates.io-index.git",
       "url": "/git/crates.io-index.git",
-      "status": "S1704715440X1704722640",
+      "status": "S1704976206X1704983406",
       "upstream": "https://github.com/rust-lang/crates.io-index.git",
-      "size": "411M",
+      "size": "421M",
       "desc": "面向 Rust 语言的软件包索引 crates.io",
       "help": "/help/crates.io-index.git/"
     },
@@ -12815,9 +12831,9 @@
       "cname": "CTAN",
       "options_name": "CTAN",
       "url": "/CTAN",
-      "status": "S1704703343X1704724943",
+      "status": "S1704971889X1704993489",
       "upstream": "rsync://rsync.dante.ctan.org/CTAN/",
-      "size": "56.6G",
+      "size": "57.0G",
       "desc": "TeX 的各种发行版、软件包和文档",
       "help": "/help/CTAN/"
     },
@@ -12825,23 +12841,23 @@
       "cname": "ctex",
       "options_name": "ctex",
       "url": "/ctex",
-      "status": "S1704720099X1704741699",
+      "status": "S1704969547X1704991147",
       "upstream": "rsync://ctex-upload.tuna.tsinghua.edu.cn/ctex/",
-      "size": "10.13G",
+      "size": "9.42G",
       "desc": "CTEX 安装镜像存档"
     },
     {
       "cname": "cygwin",
       "url": "/cygwin",
-      "status": "S1704707503X1704729103"
+      "status": "S1704968154X1704989754"
     },
     {
       "cname": "dart-pub",
       "options_name": "dart-pub",
       "url": "/dart-pub",
-      "status": "S1704719119X1704720919",
+      "status": "Y1704975792O1704973992",
       "upstream": "https://pub.dev/api",
-      "size": "676G",
+      "size": "680G",
       "desc": "Dart 语言的软件包仓库",
       "help": "/help/dart-pub/"
     },
@@ -12849,9 +12865,9 @@
       "cname": "deb-multimedia",
       "options_name": "debian-multimedia",
       "url": "/debian-multimedia",
-      "status": "S1704700897X1704722497",
+      "status": "S1704960794X1704982394",
       "upstream": "rsync://www.deb-multimedia.org/deb/",
-      "size": "14.4G",
+      "size": "14.7G",
       "desc": "Debian Linux 第三方多媒体软件源",
       "help": "/help/debian-multimedia/"
     },
@@ -12859,9 +12875,9 @@
       "cname": "debian",
       "options_name": "debian",
       "url": "/debian",
-      "status": "S1704704696X1704747896",
+      "status": "S1704963398X1705006598",
       "upstream": "rsync://syncproxy2.wna.debian.org/debian/",
-      "size": "1.74T",
+      "size": "1.77T",
       "desc": "Debian Linux 的官方软件包仓库",
       "help": "/help/debian/"
     },
@@ -12869,16 +12885,16 @@
       "cname": "debian-cd",
       "options_name": "debian-cd",
       "url": "/debian-cd",
-      "status": "F1704719179O1704546325X1704740779",
+      "status": "S1704974611X1704996211",
       "upstream": "rsync://mirrors.kernel.org/debian-cd/",
-      "size": "230.78G",
+      "size": "215G",
       "desc": "Debian Linux 的安装镜像"
     },
     {
       "cname": "debian-elts",
       "options_name": "debian-elts",
       "url": "/debian-elts",
-      "status": "S1704635710X1704722110",
+      "status": "S1704896219X1704982619",
       "upstream": "https://deb.freexian.com/extended-lts",
       "size": "481G",
       "help": "/help/debian-elts/"
@@ -12887,7 +12903,7 @@
       "cname": "debian-nonfree",
       "options_name": "debian-nonfree",
       "url": "/debian-nonfree",
-      "status": "S1704716959X1704738559",
+      "status": "S1704977751X1704999351",
       "upstream": "rsync://cdimage.debian.org/cdimage-unofficial/non-free/",
       "size": "32.76G",
       "desc": "Debian Linux 的非自由软件包仓库"
@@ -12896,16 +12912,16 @@
       "cname": "debian-security",
       "options_name": "debian-security",
       "url": "/debian-security",
-      "status": "S1704709670X1704731270",
+      "status": "S1704970181X1704991781",
       "upstream": "rsync://rsync.security.debian.org/debian-security/",
-      "size": "167.24G",
+      "size": "174G",
       "desc": "Debian Linux 的安全更新"
     },
     {
       "cname": "deepin",
       "options_name": "deepin",
       "url": "/deepin",
-      "status": "S1704712136X1704733736",
+      "status": "S1704976932X1704998532",
       "upstream": "rsync://rsync.deepin.com/deepin/",
       "size": "580.31G",
       "desc": "Deepin Linux 的官方软件包仓库"
@@ -12914,16 +12930,24 @@
       "cname": "deepin-cd",
       "options_name": "deepin-cd",
       "url": "/deepin-cd",
-      "status": "S1704717733X1704739333",
+      "status": "S1704971211X1704992811",
       "upstream": "rsync://rsync.deepin.com/releases/",
-      "size": "76.53G",
+      "size": "71.2G",
       "desc": "Deepin Linux 的安装镜像"
+    },
+    {
+      "cname": "devuan",
+      "options_name": "devuan",
+      "url": "/devuan",
+      "status": "S1704977003X1704984203",
+      "upstream": "vesta@pkgmaster.devuan.org:~/devuan/",
+      "size": "23.26G"
     },
     {
       "cname": "docker-ce",
       "options_name": "docker-ce",
       "url": "/docker-ce",
-      "status": "S1704705761X1704792161",
+      "status": "S1704967999X1705054399",
       "upstream": "https://download.docker.com/",
       "size": "856G",
       "desc": "Docker Community Edition 的安装包",
@@ -12933,18 +12957,18 @@
       "cname": "dotdeb",
       "options_name": "dotdeb",
       "url": "/dotdeb",
-      "status": "F1704716882O1704327794X1704738482",
+      "status": "S1704959783X1704981383",
       "upstream": "rsync://mirror.us.leaseweb.net/dotdeb/",
-      "size": "25.22G",
+      "size": "23.8G",
       "desc": "用于 Debian 服务器的额外镜像源"
     },
     {
       "cname": "eclipse",
       "options_name": "eclipse",
       "url": "/eclipse",
-      "status": "S1704698880X1704720480",
+      "status": "Y1704978937O1704934661",
       "upstream": "rsync://rsync2.osuosl.org/eclipse/",
-      "size": "1.60T",
+      "size": "1.73T",
       "desc": "著名的集成开发环境 Eclipse",
       "help": "/help/eclipse/"
     },
@@ -12952,9 +12976,9 @@
       "cname": "elasticstack",
       "options_name": "elasticstack",
       "url": "/elasticstack",
-      "status": "S1704698656X1704785056",
+      "status": "S1704927789X1705014189",
       "upstream": "https://artifacts.elastic.co/",
-      "size": "574G",
+      "size": "570G",
       "desc": "ELK 系列数据分析工具，5.x 之后改名为 Elastic Stack",
       "help": "/help/elasticsearch/"
     },
@@ -12962,9 +12986,9 @@
       "cname": "elpa",
       "options_name": "elpa",
       "url": "/elpa",
-      "status": "S1704717800X1704739400",
+      "status": "S1704970544X1704992144",
       "upstream": "rsync://elpa.gnu.org/elpa/",
-      "size": "2.73G",
+      "size": "3.51G",
       "desc": "Emacs 内建包管理器 package.el 的软件源",
       "help": "/help/elpa/"
     },
@@ -12972,9 +12996,9 @@
       "cname": "elrepo",
       "options_name": "elrepo",
       "url": "/elrepo",
-      "status": "S1704711639X1704733239",
+      "status": "S1704959486X1704981086",
       "upstream": "rsync://rsync.elrepo.org/linux+archive/",
-      "size": "90.89G",
+      "size": "78.6G",
       "desc": "RHEL 及其变体的 RPM 软件包仓库",
       "help": "/help/elrepo/"
     },
@@ -12982,26 +13006,26 @@
       "cname": "elvish",
       "options_name": "elvish",
       "url": "/elvish",
-      "status": "S1704705119X1704726719",
+      "status": "S1704979292X1705000892",
       "upstream": "rsync://rsync.elv.sh/elvish/",
-      "size": "2.51G",
+      "size": "2.71G",
       "desc": "TUNA 前会长 xiaq 开发的革命性 Shell"
     },
     {
       "cname": "endeavouros",
       "options_name": "endeavouros",
       "url": "/endeavouros",
-      "status": "S1704719808X1704741408",
+      "status": "S1704962236X1704983836",
       "upstream": "rsync://mirror.alpix.eu/endeavouros/",
-      "size": "56.92G"
+      "size": "53.0G"
     },
     {
       "cname": "epel",
       "options_name": "epel",
       "url": "/epel",
-      "status": "S1704704543X1704726143",
+      "status": "S1704966134X1704987734",
       "upstream": "rsync://download-ib01.fedoraproject.org/fedora-epel/",
-      "size": "478G",
+      "size": "493G",
       "desc": "企业版 Linux 附加软件包",
       "help": "/help/epel/"
     },
@@ -13009,9 +13033,9 @@
       "cname": "erlang-solutions",
       "options_name": "erlang-solutions",
       "url": "/erlang-solutions",
-      "status": "S1704707629X1704794029",
+      "status": "S1704970235X1705056635",
       "upstream": "https://packages.erlang-solutions.com",
-      "size": "14G",
+      "size": "35.2G",
       "desc": "为各大 Linux 发行版提供的 Erlang 软件包",
       "help": "/help/erlang-solutions/"
     },
@@ -13019,7 +13043,7 @@
       "cname": "fdroid",
       "options_name": "fdroid",
       "url": "/fdroid",
-      "status": "S1704705676X1704792076",
+      "status": "S1704966985X1705053385",
       "upstream": "rsync://ftp.lysator.liu.se/pub/fdroid/",
       "size": "1.99T",
       "desc": "F-Droid 是 Android 上的自由与开源软件应用商店",
@@ -13029,9 +13053,9 @@
       "cname": "fedora",
       "options_name": "fedora",
       "url": "/fedora",
-      "status": "S1704704149X1704725749",
+      "status": "S1704973164X1704994764",
       "upstream": "rsync://dl.fedoraproject.org/fedora-enchilada/linux/",
-      "size": "1.36T",
+      "size": "1.37T",
       "desc": "Fedora Linux 的安装镜像和官方软件包仓库",
       "help": "/help/fedora/"
     },
@@ -13039,16 +13063,16 @@
       "cname": "fedora-altarch",
       "options_name": "fedora-altarch",
       "url": "/fedora-altarch",
-      "status": "S1704715924X1704737524",
+      "status": "S1704975888X1704997488",
       "upstream": "rsync://download-ib01.fedoraproject.org/fedora-secondary/",
-      "size": "67.25G",
+      "size": "62.6G",
       "desc": "Fedora Linux 额外平台的安装镜像和官方软件包仓库"
     },
     {
       "cname": "flightgear",
       "options_name": "flightgear",
       "url": "/flightgear",
-      "status": "S1704702690X1704810690",
+      "status": "S1704918722X1705026722",
       "upstream": "rsync://mirrors.ibiblio.org/flightgear/",
       "size": "301G",
       "desc": "多平台的飞行模拟器"
@@ -13057,9 +13081,9 @@
       "cname": "flutter",
       "options_name": "flutter",
       "url": "/flutter",
-      "status": "F1704708078O1704355905X1704794478",
+      "status": "Y1704976214O1704889809",
       "upstream": "https://storage.googleapis.com/flutter_infra/",
-      "size": "3.17T",
+      "size": "3.19T",
       "desc": "Flutter 框架 SDK 镜像",
       "help": "/help/flutter/"
     },
@@ -13067,38 +13091,38 @@
       "cname": "flutter-sdk.git",
       "options_name": "flutter-sdk.git",
       "url": "/git/flutter-sdk.git",
-      "status": "S1704714209X1704721409",
+      "status": "S1704977262X1704984462",
       "upstream": "https://github.com/flutter/flutter.git",
-      "size": "1.25G",
+      "size": "1.2G",
       "desc": "Flutter 框架源码镜像",
       "help": "/help/flutter-sdk.git/"
     },
     {
       "cname": "FreeCAD",
       "url": "/github-release/FreeCAD/FreeCAD",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "fzug",
       "options_name": "fzug",
       "url": "/fzug",
-      "status": "S1704720109X1704741709",
+      "status": "S1704969552X1704991152",
       "upstream": "rsync://fzug-upload.tuna.tsinghua.edu.cn/fzug/",
-      "size": "119.52K",
+      "size": "2.25M",
       "desc": "Fedora 中文用户组的软件包仓库"
     },
     {
       "cname": "garuda-linux",
       "url": "/osdn/storage/g/g/ga/garuda-linux",
-      "status": "Y1704719158O1704672620"
+      "status": "F1704978102O1704672620X1704981702"
     },
     {
       "cname": "gcc.git",
       "options_name": "gcc.git",
       "url": "/git/gcc.git",
-      "status": "S1704714025X1704721225",
+      "status": "S1704975349X1704982549",
       "upstream": "git://gcc.gnu.org/git/gcc.git",
-      "size": "2.48G",
+      "size": "2.3G",
       "desc": "GCC 的源码仓库",
       "help": "/help/gcc.git/"
     },
@@ -13106,18 +13130,18 @@
       "cname": "gentoo",
       "options_name": "gentoo",
       "url": "/gentoo",
-      "status": "S1704717853X1704739453",
+      "status": "S1704960390X1704981990",
       "upstream": "rsync://ftp.iij.ad.jp/pub/linux/gentoo/",
-      "size": "801.10G",
+      "size": "750G",
       "desc": "Gentoo Linux 的 Stage 3 镜像"
     },
     {
       "cname": "gentoo-portage",
       "options_name": "gentoo-portage",
       "url": "/gentoo-portage",
-      "status": "S1704709212X1704730812",
+      "status": "S1704978004X1704999604",
       "upstream": "rsync://rsync.jp.gentoo.org/gentoo-portage/",
-      "size": "203.37M",
+      "size": "204.26M",
       "desc": "Gentoo Linux 的 Portage 包管理器镜像源（HTTP / rsync 访问）",
       "help": "/help/gentoo-portage/"
     },
@@ -13125,9 +13149,9 @@
       "cname": "gentoo-portage-prefix",
       "options_name": "gentoo-portage-prefix",
       "url": "/gentoo-portage-prefix",
-      "status": "S1704706881X1704728481",
+      "status": "S1704961539X1704983139",
       "upstream": "rsync://rsync.prefix.bitzolder.nl/gentoo-portage-prefix/",
-      "size": "204.22M",
+      "size": "1.17G",
       "desc": "Gentoo/Prefix 的 Portage 包管理器镜像源（仅适用于 macOS）",
       "help": "/help/gentoo-prefix/"
     },
@@ -13135,24 +13159,24 @@
       "cname": "gentoo-portage.git",
       "options_name": "gentoo-portage.git",
       "url": "/git/gentoo-portage.git",
-      "status": "S1704716711X1704723911",
+      "status": "S1704972882X1704980082",
       "upstream": "https://github.com/gentoo-mirror/gentoo.git",
-      "size": "7.1G",
+      "size": "7.46G",
       "desc": "Gentoo Linux 的 Portage 包管理器镜像源（Git 访问）",
       "help": "/help/gentoo-portage.git/"
     },
     {
       "cname": "git-for-windows",
       "url": "/github-release/git-for-windows/git",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "git-repo",
       "options_name": "git-repo",
       "url": "/git/git-repo",
-      "status": "S1704719829X1704727029",
+      "status": "S1704972301X1704979501",
       "upstream": "https://gerrit.googlesource.com/git-repo",
-      "size": "17M",
+      "size": "32.8M",
       "desc": "Google 开发的项目依赖下载工具 repo 的镜像",
       "help": "/help/git-repo/"
     },
@@ -13160,25 +13184,25 @@
       "cname": "github-raw",
       "options_name": "github-raw",
       "url": "/github-raw",
-      "status": "S1704703805X1704725405",
+      "status": "S1704963540X1704985140",
       "upstream": "https://api.github.com/repos/",
-      "size": "1.77M",
+      "size": "2.19M",
       "desc": "一些 Github 项目的部分文件镜像（被其他镜像所使用）"
     },
     {
       "cname": "github-release",
       "options_name": "github-release",
       "url": "/github-release",
-      "status": "S1704702421X1704745621",
+      "status": "S1704963918X1705007118",
       "upstream": "https://api.github.com/repos/",
-      "size": "111G",
+      "size": "113G",
       "desc": "一些项目的 Github Release 镜像"
     },
     {
       "cname": "gitlab-ce",
       "options_name": "gitlab-ce",
       "url": "/gitlab-ce",
-      "status": "S1704670588X1704756988",
+      "status": "S1704898323X1704984723",
       "upstream": "https://packages.gitlab.com/gitlab/gitlab-ce/",
       "size": "2.11T",
       "desc": "Gitlab 社区版",
@@ -13188,7 +13212,7 @@
       "cname": "gitlab-ee",
       "options_name": "gitlab-ee",
       "url": "/gitlab-ee",
-      "status": "S1704661977X1704748377",
+      "status": "S1704924135X1705010535",
       "upstream": "https://packages.gitlab.com/gitlab/gitlab-ee/",
       "size": "2.29T",
       "desc": "Gitlab 企业版"
@@ -13197,9 +13221,9 @@
       "cname": "gitlab-runner",
       "options_name": "gitlab-runner",
       "url": "/gitlab-runner",
-      "status": "S1704673443X1704759843",
+      "status": "S1704907813X1704994213",
       "upstream": "https://packages.gitlab.com/runner/gitlab-runner",
-      "size": "824G",
+      "size": "822G",
       "desc": "GitLab 持续集成框架版本 10 及以上",
       "help": "/help/gitlab-runner/"
     },
@@ -13207,7 +13231,7 @@
       "cname": "glibc.git",
       "options_name": "glibc.git",
       "url": "/git/glibc.git",
-      "status": "S1704714190X1704721390",
+      "status": "S1704973921X1704981121",
       "upstream": "git://sourceware.org/git/glibc.git",
       "size": "234M",
       "desc": "GNU C Library 的源码 Git 仓库",
@@ -13217,7 +13241,7 @@
       "cname": "gnu",
       "options_name": "gnu",
       "url": "/gnu",
-      "status": "S1704701309X1704722909",
+      "status": "S1704968835X1704990435",
       "upstream": "rsync://ftp.gnu.org/gnu/",
       "size": "165G",
       "desc": "GNU 项目的软件包（源代码、文档和部分平台的二进制文件）"
@@ -13226,23 +13250,23 @@
       "cname": "gnu-alpha",
       "options_name": "gnu-alpha",
       "url": "/gnu-alpha",
-      "status": "S1704701156X1704722756",
+      "status": "S1704976256X1704997856",
       "upstream": "rsync://ftp.gnu.org/alpha/",
-      "size": "83.5G",
+      "size": "89.42G",
       "desc": "一些尚未达到生产质量的 GNU 项目的软件包"
     },
     {
       "cname": "googlefonts",
       "url": "/github-release/googlefonts",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "grafana",
       "options_name": "grafana",
       "url": "/grafana",
-      "status": "S1704676834X1704763234",
+      "status": "S1704974680X1705061080",
       "upstream": "https://apt.grafana.com",
-      "size": "306G",
+      "size": "310G",
       "desc": "开源的数据可视化工具",
       "help": "/help/grafana/"
     },
@@ -13250,17 +13274,17 @@
       "cname": "GRID",
       "options_name": "GRID",
       "url": "/GRID",
-      "status": "F1704711240O1704329944X1704725640",
+      "status": "F1704975211O1704329944X1704989611",
       "upstream": "rsync://GRID-upstream/GRID/",
-      "size": "3.45T"
+      "size": "6.27T"
     },
     {
       "cname": "hackage",
       "options_name": "hackage",
       "url": "/hackage",
-      "status": "S1704716537X1704738137",
+      "status": "S1704969941X1704991541",
       "upstream": "https://hackage.haskell.org/",
-      "size": "17.5G",
+      "size": "17.4G",
       "desc": "Haskell 社区的中心软件包仓库",
       "help": "/help/hackage/"
     },
@@ -13268,9 +13292,9 @@
       "cname": "homebrew",
       "options_name": "homebrew",
       "url": "/git/homebrew",
-      "status": "S1704714551X1704721751",
+      "status": "S1704978063X1704985263",
       "upstream": "https://github.com/Homebrew",
-      "size": "4.10G",
+      "size": "2.1G",
       "desc": "Homebrew/Linuxbrew 的 taps（软件包描述文件 Git 仓库）",
       "help": "/help/homebrew/"
     },
@@ -13278,24 +13302,24 @@
       "cname": "homebrew-bottles",
       "options_name": "homebrew-bottles",
       "url": "/homebrew-bottles",
-      "status": "S1704719623X1704726823",
+      "status": "S1704978027X1704985227",
       "upstream": "https://api.github.com/repos/Homebrew/formulae.brew.sh/actions/artifacts?name=github-pages",
-      "size": "504G",
+      "size": "506G",
       "desc": "预编译的 Homebrew 软件包",
       "help": "/help/homebrew-bottles/"
     },
     {
       "cname": "iina",
       "url": "/github-release/iina/iina",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "influxdata",
       "options_name": "influxdata",
       "url": "/influxdata",
-      "status": "S1704674003X1704760403",
+      "status": "S1704931518X1705017918",
       "upstream": "https://repos.influxdata.com",
-      "size": "15.8G",
+      "size": "16.1G",
       "desc": "时间序列数据平台",
       "help": "/help/influxdata/"
     },
@@ -13303,25 +13327,25 @@
       "cname": "ius",
       "options_name": "ius",
       "url": "/ius",
-      "status": "S1704719754X1704741354",
+      "status": "S1704966983X1704988583",
       "upstream": "rsync://origin.repo.ius.io/ius/",
-      "size": "36.94G",
+      "size": "35.0G",
       "desc": "为企业版 Linux 提供最新软件包的镜像源"
     },
     {
       "cname": "jenkins",
       "options_name": "jenkins",
       "url": "/jenkins",
-      "status": "S1704719938X1704727138",
+      "status": "S1704978823X1704986023",
       "upstream": "rsync://rsync.osuosl.org/jenkins/",
-      "size": "169.93G",
+      "size": "170.76G",
       "desc": "用 Java 编写的持续集成框架"
     },
     {
       "cname": "julia-releases",
       "options_name": "julia-releases",
       "url": "/julia-releases",
-      "status": "S1704716951X1704803351",
+      "status": "S1704910401X1704996801",
       "upstream": "s3://julialang2/",
       "size": "180G",
       "desc": "Julia 二进制程序镜像",
@@ -13331,9 +13355,9 @@
       "cname": "kali",
       "options_name": "kali",
       "url": "/kali",
-      "status": "Y1704707918O1704686317",
+      "status": "S1704957729X1704979329",
       "upstream": "rsync://archive-4.kali.org/kali/",
-      "size": "915.68G",
+      "size": "887G",
       "desc": "Kali Linux 的官方软件包仓库",
       "help": "/help/kali/"
     },
@@ -13341,36 +13365,36 @@
       "cname": "kali-images",
       "options_name": "kali-images",
       "url": "/kali-images",
-      "status": "S1704711179X1704732779",
+      "status": "S1704958397X1704979997",
       "upstream": "rsync://ftp.nluug.nl/kali-images/",
-      "size": "185.59G",
+      "size": "173G",
       "desc": "Kali Linux 的安装镜像"
     },
     {
       "cname": "KaOS",
       "options_name": "KaOS",
       "url": "/KaOS",
-      "status": "S1704706626X1704728226",
+      "status": "S1704970530X1704992130",
       "upstream": "rsync://kaosx.tk/kaos/",
-      "size": "17.00G",
+      "size": "17.2G",
       "desc": "一个基于 KDE 的独立发行版"
     },
     {
       "cname": "kernel",
       "options_name": "kernel",
       "url": "/kernel",
-      "status": "S1704702000X1704723600",
+      "status": "S1704963228X1704984828",
       "upstream": "rsync://rsync.kernel.org/pub/linux/kernel/",
-      "size": "1.08T",
+      "size": "1.09T",
       "desc": "各个版本的 Linux 内核源代码压缩包和补丁"
     },
     {
       "cname": "kicad",
       "options_name": "kicad",
       "url": "/kicad",
-      "status": "S1704706530X1704728130",
+      "status": "S1704967864X1704989464",
       "upstream": "s3://kicad-downloads/",
-      "size": "240G",
+      "size": "239G",
       "desc": "开源的电路原理图与 PCB 设计工具",
       "help": "/help/kicad/"
     },
@@ -13378,9 +13402,9 @@
       "cname": "kodi",
       "options_name": "kodi",
       "url": "/kodi",
-      "status": "S1704712423X1704734023",
+      "status": "S1704963620X1704985220",
       "upstream": "rsync://mirror.yandex.ru/mirrors/xbmc/",
-      "size": "236.99G",
+      "size": "214G",
       "desc": "开源的多媒体播放器，原名 XBMC",
       "help": "/help/kodi/"
     },
@@ -13388,9 +13412,9 @@
       "cname": "kubernetes",
       "options_name": "kubernetes",
       "url": "/kubernetes",
-      "status": "S1704636104X1704808904",
+      "status": "S1704976750X1705149550",
       "upstream": "http://packages.cloud.google.com",
-      "size": "72.9G",
+      "size": "73G",
       "desc": "Kubernetes 是用于集群自动部署和管理的开源系统",
       "help": "/help/kubernetes/"
     },
@@ -13398,18 +13422,18 @@
       "cname": "libreoffice",
       "options_name": "libreoffice",
       "url": "/libreoffice",
-      "status": "S1704704707X1704726307",
+      "status": "S1704969276X1704990876",
       "upstream": "rsync://rsync.documentfoundation.org/tdf-pub/",
-      "size": "110G",
+      "size": "112G",
       "desc": "自由的办公软件套件"
     },
     {
       "cname": "lineage-rom",
       "options_name": "lineage-rom",
       "url": "/lineage-rom",
-      "status": "S1704699008X1704720608",
+      "status": "S1704973239X1704994839",
       "upstream": "rsync://mirror-sync.lineageos.org/mirror/",
-      "size": "793G",
+      "size": "867G",
       "desc": "最大的社区Android发行版之一Lineage的ROM",
       "help": "/help/lineage-rom/"
     },
@@ -13417,7 +13441,7 @@
       "cname": "lineageOS",
       "options_name": "lineageOS",
       "url": "/git/lineageOS",
-      "status": "S1704716527X1704723727",
+      "status": "S1704977684X1704984884",
       "upstream": "https://github.com/LineageOS/mirror",
       "size": "406G",
       "desc": "最大的社区Android发行版之一Lineage的源代码",
@@ -13427,9 +13451,9 @@
       "cname": "linux-firmware.git",
       "options_name": "linux-firmware.git",
       "url": "/git/linux-firmware.git",
-      "status": "S1704718208X1704725408",
+      "status": "S1704977789X1704984989",
       "upstream": "git://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git",
-      "size": "805M",
+      "size": "806M",
       "desc": "Linux 内核附带的固件 Git 仓库",
       "help": "/help/linux-firmware.git/"
     },
@@ -13437,7 +13461,7 @@
       "cname": "linux-next.git",
       "options_name": "linux-next.git",
       "url": "/git/linux-next.git",
-      "status": "S1704715341X1704722541",
+      "status": "S1704976227X1704983427",
       "upstream": "git://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git",
       "size": "2.5G",
       "desc": "Linux 内核源代码的 Git 仓库，开发分支（包含为下一个 merge windows 开发的 patch）",
@@ -13447,9 +13471,9 @@
       "cname": "linux-stable.git",
       "options_name": "linux-stable.git",
       "url": "/git/linux-stable.git",
-      "status": "S1704713813X1704721013",
+      "status": "S1704974017X1704981217",
       "upstream": "git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git",
-      "size": "4.93G",
+      "size": "4.94G",
       "desc": "Linux 内核源代码的 Git 仓库, 稳定版分支",
       "help": "/help/linux-stable.git/"
     },
@@ -13457,24 +13481,24 @@
       "cname": "linux.git",
       "options_name": "linux.git",
       "url": "/git/linux.git",
-      "status": "S1704713595X1704720795",
+      "status": "S1704977800X1704985000",
       "upstream": "git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git",
-      "size": "2.19G",
+      "size": "2.3G",
       "desc": "Linux 内核源代码的 Git 仓库",
       "help": "/help/linux.git/"
     },
     {
       "cname": "linuxlite-cd",
       "url": "/osdn/storage/g/l/li/linuxlite",
-      "status": "Y1704719158O1704672620"
+      "status": "F1704978102O1704672620X1704981702"
     },
     {
       "cname": "linuxmint",
       "options_name": "linuxmint",
       "url": "/linuxmint",
-      "status": "F1704703697O1704530769X1704725297",
+      "status": "S1704962023X1704983623",
       "upstream": "rsync://mirrors.kernel.org/linuxmint-packages/",
-      "size": "38.5G",
+      "size": "38.8G",
       "desc": "Linux Mint 的官方软件源",
       "help": "/help/linuxmint/"
     },
@@ -13482,31 +13506,31 @@
       "cname": "linuxmint-cd",
       "options_name": "linuxmint-cd",
       "url": "/linuxmint-cd",
-      "status": "F1704702777O1704637958X1704724377",
+      "status": "S1704962197X1704983797",
       "upstream": "rsync://mirrors.kernel.org/linuxmint/",
-      "size": "383G",
+      "size": "392G",
       "desc": "Linux Mint 的安装镜像"
     },
     {
       "cname": "llvm-apt",
       "options_name": "llvm-apt",
       "url": "/llvm-apt",
-      "status": "S1704680603X1704767003",
+      "status": "S1704941525X1705027925",
       "upstream": "http://apt.llvm.org",
-      "size": "35.9G",
+      "size": "36.0G",
       "desc": "LLVM 编译器套件的 APT 安装源",
       "help": "/help/llvm-apt/"
     },
     {
       "cname": "llvm-binary",
       "url": "/github-release/llvm/llvm-project",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "llvm-project.git",
       "options_name": "llvm-project.git",
       "url": "/git/llvm-project.git",
-      "status": "S1704717296X1704724496",
+      "status": "S1704976950X1704984150",
       "upstream": "https://github.com/llvm/llvm-project.git",
       "size": "3.0G",
       "desc": "LLVM 编译器套件的新源码仓库（monorepo）",
@@ -13516,16 +13540,16 @@
       "cname": "loongson",
       "options_name": "loongson",
       "url": "/loongson",
-      "status": "S1704701389X1704722989",
+      "status": "S1704960733X1704982333",
       "upstream": "rsync://rsync.anheng.com.cn/loongson/",
-      "size": "19.5G",
+      "size": "19.6G",
       "desc": "用于龙芯电脑的软件包"
     },
     {
       "cname": "lxc-images",
       "options_name": "lxc-images",
       "url": "/lxc-images",
-      "status": "S1704678431X1704721631",
+      "status": "S1704963635X1705006835",
       "upstream": "https://uk.lxd.images.canonical.com/",
       "size": "362G",
       "desc": "Linux 容器的镜像",
@@ -13535,7 +13559,7 @@
       "cname": "lyx",
       "options_name": "lyx",
       "url": "/lyx",
-      "status": "S1704698619X1704720219",
+      "status": "S1704958881X1704980481",
       "upstream": "ftp://ftp.lyx.org/pub/lyx/",
       "size": "26.2G",
       "desc": "所见即所指的 LaTeX 编辑器"
@@ -13544,18 +13568,18 @@
       "cname": "macports",
       "options_name": "macports",
       "url": "/macports",
-      "status": "S1704706283X1704727883",
+      "status": "S1704975509X1704997109",
       "upstream": "rsync://rsync-origin.macports.org/macports/",
-      "size": "2.00T",
+      "size": "1.87T",
       "desc": "macOS 的一个开源软件包管理系统"
     },
     {
       "cname": "manjaro",
       "options_name": "manjaro",
       "url": "/manjaro",
-      "status": "S1704700220X1704721820",
+      "status": "S1704972566X1704994166",
       "upstream": "rsync://mirror.yandex.ru/mirrors/manjaro/",
-      "size": "154G",
+      "size": "158G",
       "desc": "Manjaro Linux 的官方软件源",
       "help": "/help/manjaro/"
     },
@@ -13563,7 +13587,7 @@
       "cname": "mariadb",
       "options_name": "mariadb",
       "url": "/mariadb",
-      "status": "S1704711810X1704726210",
+      "status": "S1704971324X1704985724",
       "upstream": "rsync://rsync.osuosl.org/mariadb/",
       "size": "853G",
       "desc": "衍生于 MySQL 的开源关系数据库",
@@ -13572,18 +13596,18 @@
     {
       "cname": "miniforge",
       "url": "/github-release/conda-forge/miniforge",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "minikube",
       "url": "/github-release/kubernetes/minikube",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "mongodb",
       "options_name": "mongodb",
       "url": "/mongodb",
-      "status": "S1704697238X1704783638",
+      "status": "S1704911670X1704998070",
       "upstream": "https://repo.mongodb.org",
       "size": "165G",
       "desc": "开源的跨平台 NoSQL 文档型数据库",
@@ -13593,9 +13617,9 @@
       "cname": "msys2",
       "options_name": "msys2",
       "url": "/msys2",
-      "status": "S1704710213X1704731813",
+      "status": "S1704975514X1704997114",
       "upstream": "rsync://repo.msys2.org/builds/",
-      "size": "885.77G",
+      "size": "831G",
       "desc": "用于编译原生 Windows 程序的类 Linux 开发环境",
       "help": "/help/msys2/"
     },
@@ -13603,21 +13627,21 @@
       "cname": "mxlinux",
       "options_name": "mxlinux",
       "url": "/mxlinux",
-      "status": "S1704720057X1704741657",
+      "status": "S1704958855X1704980455",
       "upstream": "rsync://rsuser@iso.mxrepo.com/workspace/",
-      "size": "233.86G",
+      "size": "220G",
       "desc": "基于 Debian 的中量级的 Linux 发行版"
     },
     {
       "cname": "mxlinux-isos",
       "url": "/osdn/storage/g/m/mx/mx-linux/ISOs",
-      "status": "Y1704719158O1704672620"
+      "status": "F1704978102O1704672620X1704981702"
     },
     {
       "cname": "mysql",
       "options_name": "mysql",
       "url": "/mysql",
-      "status": "S1704718706X1704720506",
+      "status": "S1704979271X1704981071",
       "upstream": "https://repo.mysql.com",
       "size": "83G",
       "desc": "MySQL 数据库的安装包及各种工具下载",
@@ -13627,9 +13651,9 @@
       "cname": "NetBSD",
       "options_name": "NetBSD",
       "url": "/NetBSD",
-      "status": "Y1704616778O1704271114",
+      "status": "Y1704917632O1704257840",
       "upstream": "rsync://rsync.NetBSD.org/NetBSD/",
-      "size": "627G",
+      "size": "790G",
       "desc": "NetBSD 的安装镜像和部分系统源码",
       "help": "/help/netbsd/"
     },
@@ -13637,7 +13661,7 @@
       "cname": "neurodebian",
       "options_name": "neurodebian",
       "url": "/neurodebian",
-      "status": "S1704719507X1704741107",
+      "status": "S1704976091X1704997691",
       "upstream": "rsync://neuro.debian.net/neurodebian/",
       "size": "79.18G",
       "desc": "用于神经科学研究的 Debian 软件包源"
@@ -13646,9 +13670,9 @@
       "cname": "nix",
       "options_name": "nix",
       "url": "/nix",
-      "status": "S1704634752X1704721152",
+      "status": "S1704962504X1705048904",
       "upstream": "s3://nix-releases/nix/",
-      "size": "21.4G",
+      "size": "21.3G",
       "desc": "Nix 软件包管理器",
       "help": "/help/nix/"
     },
@@ -13656,9 +13680,9 @@
       "cname": "nix-channels",
       "options_name": "nix-channels",
       "url": "/nix-channels",
-      "status": "S1704681772X1704741772",
+      "status": "S1704955558X1705015558",
       "upstream": "https://nixos.org/channels",
-      "size": "3.73T",
+      "size": "3.82T",
       "desc": "Nixpkgs 软件包发行版",
       "help": "/help/nix-channels/"
     },
@@ -13666,40 +13690,40 @@
       "cname": "nixos-images",
       "options_name": "nixos-images",
       "url": "/nixos-images",
-      "status": "S1704715055X1704736655",
+      "status": "S1704967462X1704989062",
       "upstream": "https://nixos.org/channels",
-      "size": "75.7G",
+      "size": "74.0G",
       "desc": "NixOS 的安装镜像和虚拟机镜像"
     },
     {
       "cname": "nixpkgs.git",
       "options_name": "nixpkgs.git",
       "url": "/git/nixpkgs.git",
-      "status": "S1704713971X1704721171",
+      "status": "F1704974848O1704966141X1704982048",
       "upstream": "https://github.com/NixOS/nixpkgs.git",
-      "size": "3.91G",
+      "size": "3.6G",
       "help": "/help/nixpkgs.git/"
     },
     {
       "cname": "nodejs-release",
       "options_name": "nodejs-release",
       "url": "/nodejs-release",
-      "status": "S1704704828X1704726428",
+      "status": "S1704968620X1704990220",
       "upstream": "rsync://unencrypted.nodejs.org/nodejs/release/",
-      "size": "370G",
+      "size": "372G",
       "desc": "预编译的 Node.js 二进制程序",
       "help": "/help/nodejs-release/"
     },
     {
       "cname": "obs-studio",
       "url": "/github-release/obsproject/obs-studio",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "ohmyzsh.git",
       "options_name": "ohmyzsh.git",
       "url": "/git/ohmyzsh.git",
-      "status": "S1704713836X1704721036",
+      "status": "S1704973770X1704980970",
       "upstream": "https://github.com/ohmyzsh/ohmyzsh.git",
       "size": "139M",
       "help": "/help/ohmyzsh.git/"
@@ -13708,9 +13732,9 @@
       "cname": "OpenBSD",
       "options_name": "OpenBSD",
       "url": "/OpenBSD",
-      "status": "S1704719670X1704726870",
+      "status": "Y1704973297O1704966094",
       "upstream": "rsync://ftp.jaist.ac.jp/pub/OpenBSD/",
-      "size": "890.01G",
+      "size": "846G",
       "desc": "OpenBSD 的安装镜像和官方软件包仓库",
       "help": "/help/openbsd/"
     },
@@ -13718,7 +13742,7 @@
       "cname": "openeuler",
       "options_name": "openeuler",
       "url": "/openeuler",
-      "status": "S1704709187X1704723587",
+      "status": "S1704969365X1704983765",
       "upstream": "rsync://repo.openeuler.openatom.cn/openeuler/",
       "size": "3.91T",
       "desc": "华为公司开源的服务器操作系统"
@@ -13727,9 +13751,9 @@
       "cname": "OpenMediaVault",
       "options_name": "OpenMediaVault",
       "url": "/OpenMediaVault",
-      "status": "S1704645261X1704731661",
+      "status": "S1704906620X1704993020",
       "upstream": "https://packages.openmediavault.org/public",
-      "size": "139M",
+      "size": "142M",
       "desc": "基于 Debian Linux 的网络附加存储(NAS)解决方案",
       "help": "/help/openmediavault/"
     },
@@ -13737,9 +13761,9 @@
       "cname": "opensuse",
       "options_name": "opensuse",
       "url": "/opensuse",
-      "status": "S1704714601X1704736201",
+      "status": "S1704974939X1704996539",
       "upstream": "rsync://fr2.rpmfind.net/linux/opensuse/",
-      "size": "3.25T",
+      "size": "3.01T",
       "desc": "openSUSE 的安装镜像和官方软件包仓库",
       "help": "/help/opensuse/"
     },
@@ -13747,40 +13771,40 @@
       "cname": "openwrt",
       "options_name": "openwrt",
       "url": "/openwrt",
-      "status": "S1704711423X1704725823",
+      "status": "S1704976251X1704990651",
       "upstream": "rsync://rsync.openwrt.org/downloads/",
-      "size": "1.99T",
+      "size": "2.24T",
       "desc": "OpenWrt/LEDE 软件包镜像源",
       "help": "/help/openwrt/"
     },
     {
       "cname": "orchestrator",
       "url": "/github-release/openark/orchestrator",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "osdn",
       "options_name": "osdn",
       "url": "/osdn",
-      "status": "Y1704719158O1704672620",
+      "status": "F1704978102O1704672620X1704981702",
       "upstream": "rsync://master.dl.osdn.jp/download/",
-      "size": "437.06G",
+      "size": "407G",
       "desc": "OSDN 网站提供的开源软件下载"
     },
     {
       "cname": "osmc",
       "options_name": "osmc",
       "url": "/osmc",
-      "status": "S1704708961X1704730561",
+      "status": "S1704964173X1704985773",
       "upstream": "rsync://rsync.samnazarko.co.uk/cdn/",
-      "size": "144.90G",
+      "size": "137G",
       "desc": "免费、开源的媒体中心解决方案"
     },
     {
       "cname": "packman",
       "options_name": "packman",
       "url": "/packman",
-      "status": "S1704711490X1704725890",
+      "status": "S1704971906X1704986306",
       "upstream": "rsync://mirror.karneval.cz/packman/",
       "size": "164G",
       "desc": "为 Debian、Fedora、openSUSE、Ubuntu 提供额外和过期软件包的仓库"
@@ -13789,16 +13813,16 @@
       "cname": "parrot",
       "options_name": "parrot",
       "url": "/parrot",
-      "status": "S1704706353X1704727953",
+      "status": "S1704977114X1704998714",
       "upstream": "rsync://archive.parrotsec.org/parrot/",
-      "size": "638.72G",
+      "size": "638.88G",
       "desc": "Parrot Linux（专注于安全审计的 Linux 发行版）的安装映像和官方软件源"
     },
     {
       "cname": "percona",
       "options_name": "percona",
       "url": "/percona",
-      "status": "S1704710001X1704724401",
+      "status": "S1704970840X1704985240",
       "upstream": "rsync://rsync.percona.com/rsync/",
       "size": "5.95T",
       "desc": "开源的数据库解决方案，详见 http://www.percona.com"
@@ -13807,9 +13831,9 @@
       "cname": "pkgsrc",
       "options_name": "pkgsrc",
       "url": "/pkgsrc",
-      "status": "Y1704702879O1704688475",
+      "status": "F1704977150O1704688475X1704991550",
       "upstream": "rsync://rsync3.jp.NetBSD.org/pub/pkgsrc/",
-      "size": "1.91T",
+      "size": "2.17T",
       "desc": "NetBSD 的第三方软件源",
       "help": "/help/pkgsrc/"
     },
@@ -13817,7 +13841,7 @@
       "cname": "pkgsrc.git",
       "options_name": "pkgsrc.git",
       "url": "/git/pkgsrc.git",
-      "status": "S1704716162X1704723362",
+      "status": "S1704975760X1704982960",
       "upstream": "https://github.com/NetBSD/pkgsrc.git",
       "size": "1.4G",
       "desc": "pkgsrc 的源码仓库",
@@ -13827,38 +13851,38 @@
       "cname": "postgresql",
       "options_name": "postgresql",
       "url": "/postgresql",
-      "status": "S1704712827X1704734427",
+      "status": "S1704973492X1704995092",
       "upstream": "rsync://ftp.postgresql.org/pgsql-ftp/",
-      "size": "411.82G",
+      "size": "395G",
       "desc": "著名的开源关系型数据库 PostgreSQL 的镜像"
     },
     {
       "cname": "postmarketOS",
       "options_name": "postmarketOS",
       "url": "/postmarketOS",
-      "status": "S1704714524X1704736124",
+      "status": "S1704972372X1704993972",
       "upstream": "rsync://mirror.postmarketos.org/postmarketos/",
-      "size": "33.90G",
+      "size": "25.5G",
       "help": "/help/postmarketOS/"
     },
     {
       "cname": "postmarketOS-images",
       "options_name": "postmarketOS-images",
       "url": "/postmarketOS-images",
-      "status": "Y1704718199O1704686476",
+      "status": "S1704978146X1704992546",
       "upstream": "rsync://mirror.postmarketos.org/images/",
-      "size": "817.81G"
+      "size": "587.52G"
     },
     {
       "cname": "prometheus",
       "url": "/github-release/prometheus/prometheus",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "proxmox",
       "options_name": "proxmox",
       "url": "/proxmox",
-      "status": "S1704697462X1704783862",
+      "status": "S1704923012X1705009412",
       "upstream": "http://download.proxmox.com",
       "size": "184G",
       "desc": "服务器虚拟化环境 Linux 发行版 Proxmox VE",
@@ -13868,7 +13892,7 @@
       "cname": "puppy",
       "options_name": "puppy",
       "url": "/puppy",
-      "status": "S1704708643X1704730243",
+      "status": "S1704978528X1705000128",
       "upstream": "rsync://distro.ibiblio.org/puppylinux/",
       "size": "122.08G",
       "desc": "为家用电脑设计的轻量级 Linux 发行版"
@@ -13877,15 +13901,15 @@
       "cname": "putty",
       "options_name": "putty",
       "url": "/putty",
-      "status": "S1704709983X1704731583",
+      "status": "S1704964472X1704986072",
       "upstream": "rsync://rsync.chiark.greenend.org.uk/ftp/users/sgtatham/putty-website-mirror/",
-      "size": "77.52M"
+      "size": "82.4M"
     },
     {
       "cname": "pybombs",
       "options_name": "pybombs",
       "url": "/pybombs",
-      "status": "S1704717341X1704724541",
+      "status": "S1704977991X1704985191",
       "upstream": "https://github.com/scateu/pybombs-mirror/",
       "size": "4.6G",
       "desc": "为 GNU Radio 设计的编译管理系统",
@@ -13895,9 +13919,9 @@
       "cname": "pypi",
       "options_name": "pypi",
       "url": "/pypi",
-      "status": "S1704720085X1704720385",
+      "status": "S1704979100X1704979400",
       "upstream": "https://pypi.org",
-      "size": "16.7T",
+      "size": "16.8T",
       "desc": "Python 软件包索引源",
       "help": "/help/pypi/"
     },
@@ -13905,7 +13929,7 @@
       "cname": "qemu.git",
       "options_name": "qemu.git",
       "url": "/git/qemu.git",
-      "status": "S1704717335X1704724535",
+      "status": "S1704977444X1704984644",
       "upstream": "https://git.qemu.org/qemu.git",
       "size": "3.0G",
       "desc": "处理器模拟器 QEMU 的源码 Git 仓库",
@@ -13915,9 +13939,9 @@
       "cname": "qt",
       "options_name": "qt",
       "url": "/qt",
-      "status": "S1704713420X1704735020",
+      "status": "S1704970715X1704992315",
       "upstream": "rsync://master.qt-project.org/qt-all/",
-      "size": "1.75T",
+      "size": "1.63T",
       "desc": "跨平台软件开发库 Qt 的源码、开发工具、文档等",
       "help": "/help/qt/"
     },
@@ -13925,9 +13949,9 @@
       "cname": "qubesos",
       "options_name": "qubesos",
       "url": "/qubesos",
-      "status": "S1704716987X1704738587",
+      "status": "S1704971843X1704993443",
       "upstream": "rsync://rsync.qubes-os.org/qubes-mirror/",
-      "size": "736.85G",
+      "size": "597G",
       "desc": "一个面向安全的桌面操作系统，利用虚拟化技术隔离应用来提供安全保障",
       "help": "/help/qubesos/"
     },
@@ -13935,7 +13959,7 @@
       "cname": "racket-installers",
       "options_name": "racket-installers",
       "url": "/racket-installers",
-      "status": "S1704710569X1704732169",
+      "status": "S1704978833X1705000433",
       "upstream": "rsync://mirror.csclub.uwaterloo.ca/racket/racket-installers/",
       "size": "89.96G",
       "desc": "Racket 语言环境安装包"
@@ -13944,7 +13968,7 @@
       "cname": "raspberry-pi-os-images",
       "options_name": "raspberry-pi-os-images",
       "url": "/raspberry-pi-os-images",
-      "status": "S1704574275X1704919875",
+      "status": "S1704920910X1705266510",
       "upstream": "https://downloads.raspberrypi.org/",
       "size": "584G",
       "desc": "Raspberry Pi OS （原 Raspbian）的安装镜像"
@@ -13953,9 +13977,9 @@
       "cname": "raspberrypi",
       "options_name": "raspberrypi",
       "url": "/raspberrypi",
-      "status": "S1704717517X1704739117",
+      "status": "S1704977163X1704998763",
       "upstream": "rsync://apt-repo.raspberrypi.org/archive/debian/",
-      "size": "377.97G",
+      "size": "379.15G",
       "desc": "一些专为树莓派提供的 Debian 软件包",
       "help": "/help/raspberrypi/"
     },
@@ -13963,9 +13987,9 @@
       "cname": "raspbian",
       "options_name": "raspbian",
       "url": "/raspbian",
-      "status": "S1704712190X1704733790",
+      "status": "S1704958184X1704979784",
       "upstream": "rsync://archive.raspbian.org/archive/",
-      "size": "595.93G",
+      "size": "564G",
       "desc": "为树莓派编译的 Debian 系统软件源",
       "help": "/help/raspbian/"
     },
@@ -13973,18 +13997,18 @@
       "cname": "remi",
       "options_name": "remi",
       "url": "/remi",
-      "status": "S1704717944X1704804344",
+      "status": "S1704978563X1705064963",
       "upstream": "rsync://rpms.remirepo.net",
-      "size": "130G",
+      "size": "133G",
       "desc": "包含最新版本 PHP 和 MySQL 的第三方 yum 源"
     },
     {
       "cname": "repo-ck",
       "options_name": "repo-ck",
       "url": "/repo-ck",
-      "status": "S1704701285X1704722885",
+      "status": "S1704962298X1704983898",
       "upstream": "http://repo-ck.com",
-      "size": "617M",
+      "size": "625M",
       "desc": "repo-ck 是 Arch 的非官方仓库，内有包含 ck 补丁、BFS 调度器等",
       "help": "/help/repo-ck/"
     },
@@ -13992,9 +14016,9 @@
       "cname": "ros",
       "options_name": "ros",
       "url": "/ros",
-      "status": "S1704710072X1704731672",
+      "status": "S1704967710X1704989310",
       "upstream": "rsync://mirror.umd.edu/packages.ros.org/ros/",
-      "size": "102.61G",
+      "size": "97.7G",
       "desc": "ROS 提供一系列程序库和工具以帮助软件开发者创建机器人应用软件",
       "help": "/help/ros/"
     },
@@ -14002,9 +14026,9 @@
       "cname": "ros2",
       "options_name": "ros2",
       "url": "/ros2",
-      "status": "S1704669026X1704755426",
+      "status": "S1704947952X1705034352",
       "upstream": "http://packages.ros.org/ros2",
-      "size": "80.9G",
+      "size": "81.4G",
       "desc": "ROS (Robot Operating System) 2.0 版本",
       "help": "/help/ros2/"
     },
@@ -14012,9 +14036,9 @@
       "cname": "rosdistro",
       "options_name": "rosdistro",
       "url": "/rosdistro",
-      "status": "S1704698662X1704720262N",
+      "status": "S1704963680X1704985280N",
       "upstream": "https://github.com/ros/rosdistro",
-      "size": "154M",
+      "size": "161M",
       "desc": "rosdep 所使用的依赖关系数据库",
       "help": "/help/rosdistro/"
     },
@@ -14022,7 +14046,7 @@
       "cname": "rpmfusion",
       "options_name": "rpmfusion",
       "url": "/rpmfusion",
-      "status": "S1704708190X1704722590",
+      "status": "S1704967983X1704982383",
       "upstream": "rsync://mirror.de.leaseweb.net/rpmfusion/",
       "size": "123G",
       "desc": "RPM Fusion 提供了一些 Fedora Project 和 Red Hat 不包含的软件",
@@ -14032,9 +14056,9 @@
       "cname": "rubygems",
       "options_name": "rubygems",
       "url": "/rubygems",
-      "status": "S1704718271X1704721871",
+      "status": "S1704976256X1704979856",
       "upstream": "https://rubygems.org",
-      "size": "812G",
+      "size": "815G",
       "desc": "Ruby 的一个包管理器",
       "help": "/help/rubygems/"
     },
@@ -14042,7 +14066,7 @@
       "cname": "rudder",
       "options_name": "rudder",
       "url": "/rudder",
-      "status": "S1704688120X1704860920",
+      "status": "S1704903301X1705076101",
       "upstream": "https://repository.rudder.io",
       "size": "1.13G",
       "desc": "自动化 IT 基础设施配置与审计工具",
@@ -14051,15 +14075,15 @@
     {
       "cname": "rust-analyzer",
       "url": "/github-release/rust-analyzer/rust-analyzer",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "rustup",
       "options_name": "rustup",
       "url": "/rustup",
-      "status": "S1704648149X1704734549",
+      "status": "S1704922156X1705008556",
       "upstream": "https://rustup.rs/",
-      "size": "927G",
+      "size": "928G",
       "desc": "Rust 的官方安装工具",
       "help": "/help/rustup/"
     },
@@ -14067,25 +14091,25 @@
       "cname": "saltstack",
       "options_name": "saltstack",
       "url": "/saltstack",
-      "status": "S1704698565X1704784965",
+      "status": "S1704903954X1704990354",
       "upstream": "s3://s3/",
-      "size": "668G",
+      "size": "686G",
       "desc": "基于 python 的配置管理与运维自动化工具"
     },
     {
       "cname": "slackware",
       "options_name": "slackware",
       "url": "/slackware",
-      "status": "S1704713328X1704734928",
+      "status": "S1704960452X1704982052",
       "upstream": "rsync://ftp.slackware.com/slackware/",
-      "size": "176.71G",
+      "size": "107G",
       "desc": "Linux 发行版 Slackware 的源代码和官方软件包仓库"
     },
     {
       "cname": "slackwarearm",
       "options_name": "slackwarearm",
       "url": "/slackwarearm",
-      "status": "S1704717951X1704739551",
+      "status": "S1704977345X1704998945",
       "upstream": "rsync://ftp.arm.slackware.com/slackwarearm/",
       "size": "50.77G",
       "desc": "用于 ARM 设备的 Slackware 发行版源代码和官方软件包仓库"
@@ -14094,9 +14118,9 @@
       "cname": "solus",
       "options_name": "solus",
       "url": "/solus",
-      "status": "S1704708230X1704722630",
-      "upstream": "rsync://mirrors.rit.edu/solus/",
-      "size": "348G",
+      "status": "S1704973739X1704988139",
+      "upstream": "rsync://packages.getsol.us/soluspackages/",
+      "size": "544G",
       "desc": "Solus 的软件仓库，致力于制作对新手友好的发行版",
       "help": "/help/solus/"
     },
@@ -14104,33 +14128,33 @@
       "cname": "sourceware",
       "options_name": "sourceware",
       "url": "/sourceware",
-      "status": "S1704707503X1704729103N",
+      "status": "S1704968154X1704989754N",
       "upstream": "rsync://sourceware.org/ftp/",
-      "size": "393.05G",
+      "size": "335G",
       "desc": "sourceware 网站的项目"
     },
     {
       "cname": "stackage",
       "options_name": "stackage",
       "url": "/stackage",
-      "status": "S1704706544X1704728144",
+      "status": "S1704960159X1704981759",
       "upstream": "https://www.stackage.org/",
-      "size": "120G",
+      "size": "123G",
       "desc": "Haskell 项目管理器 stack 所需的元数据与 ghc 安装包的镜像",
       "help": "/help/stackage/"
     },
     {
       "cname": "stellarium",
       "url": "/github-release/Stellarium/stellarium",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "termux",
       "options_name": "termux",
       "url": "/termux",
-      "status": "S1704677214X1704763614",
+      "status": "S1704937551X1705023951",
       "upstream": "https://packages-cf.termux.dev",
-      "size": "20.0G",
+      "size": "20.6G",
       "desc": "运行在 Android 上的终端模拟器 Termux 的官方软件包仓库",
       "help": "/help/termux/"
     },
@@ -14138,36 +14162,36 @@
       "cname": "tex-historic-archive",
       "options_name": "tex-historic-archive",
       "url": "/tex-historic-archive",
-      "status": "S1704712853X1704799253",
+      "status": "S1704972184X1705058584",
       "upstream": "rsync://tug.org/historic/",
       "size": "273G"
     },
     {
       "cname": "texstudio",
       "url": "/github-release/texstudio-org/texstudio",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "thuthesis",
       "url": "/github-release/tuna/thuthesis",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "tinycorelinux",
       "options_name": "tinycorelinux",
       "url": "/tinycorelinux",
-      "status": "S1704717187X1704738787",
+      "status": "S1704963536X1704985136",
       "upstream": "rsync://www.tinycorelinux.net/tc/",
-      "size": "309.51G",
+      "size": "297G",
       "desc": "为嵌入式开发的微型 Linux 发行版"
     },
     {
       "cname": "tlpretest",
       "options_name": "tlpretest",
       "url": "/tlpretest",
-      "status": "S1704719355X1704740956",
+      "status": "S1704969718X1704991318",
       "upstream": "rsync://tug.org/tlpretest/",
-      "size": "1.48K",
+      "size": "268K",
       "desc": "TeX Live 测试版本的软件包仓库与安装镜像",
       "help": "/help/tlpretest/"
     },
@@ -14175,7 +14199,7 @@
       "cname": "tuna",
       "options_name": "tuna",
       "url": "/tuna",
-      "status": "S1704705534X1704727134",
+      "status": "S1704964782X1704986382",
       "upstream": "rsync://alfa.s.tuna.tsinghua.edu.cn/tuna/",
       "size": "135G",
       "desc": "TUNA 协会资料存档"
@@ -14190,18 +14214,18 @@
       "cname": "u.sb",
       "options_name": "u.sb",
       "url": "/u.sb",
-      "status": "S1704701952X1704723552",
+      "status": "S1704960575X1704982175",
       "upstream": "rsync://mirrors.xtom.com/repo/sb/nginx/",
-      "size": "165M",
+      "size": "170M",
       "desc": "为 Debian / Ubuntu 编译的最新版 nginx"
     },
     {
       "cname": "ubuntu",
       "options_name": "ubuntu",
       "url": "/ubuntu",
-      "status": "S1704703315X1704724915",
+      "status": "S1704969043X1704990643",
       "upstream": "rsync://archive.ubuntu.com/ubuntu/",
-      "size": "2.36T",
+      "size": "2.39T",
       "desc": "流行的 Linux 发行版 Ubuntu 的安装镜像和官方软件包仓库",
       "help": "/help/ubuntu/"
     },
@@ -14209,18 +14233,18 @@
       "cname": "ubuntu-cdimage",
       "options_name": "ubuntu-cdimage",
       "url": "/ubuntu-cdimage",
-      "status": "S1704714335X1704735935",
+      "status": "S1704966814X1704988414",
       "upstream": "rsync://cdimage.ubuntu.com/cdimage/",
-      "size": "997.56G",
+      "size": "903G",
       "desc": "Ubuntu 及 Ubuntu 衍生版各版本安装镜像"
     },
     {
       "cname": "ubuntu-cloud-images",
       "options_name": "ubuntu-cloud-images",
       "url": "/ubuntu-cloud-images",
-      "status": "S1704716722X1704731122",
+      "status": "S1704978591X1704992991",
       "upstream": "rsync://cloud-images.ubuntu.com/cloud-images/",
-      "size": "838.29G",
+      "size": "834.44G",
       "desc": "适用于公有云的 Ubuntu 安装镜像",
       "help": "/help/ubuntu-cloud-images/"
     },
@@ -14228,9 +14252,9 @@
       "cname": "ubuntu-ports",
       "options_name": "ubuntu-ports",
       "url": "/ubuntu-ports",
-      "status": "S1704716635X1704738235",
+      "status": "S1704978506X1705000106",
       "upstream": "rsync://ports.ubuntu.com/ubuntu-ports/",
-      "size": "3.03T",
+      "size": "3.06T",
       "desc": "armhf, arm64 以及 powerpc 等平台的 Ubuntu 软件仓库",
       "help": "/help/ubuntu-ports/"
     },
@@ -14238,7 +14262,7 @@
       "cname": "ubuntu-releases",
       "options_name": "ubuntu-releases",
       "url": "/ubuntu-releases",
-      "status": "S1704698746X1704720346",
+      "status": "S1704962435X1704984035",
       "upstream": "rsync://rsync.releases.ubuntu.com/releases/",
       "size": "38.8G",
       "desc": "包含近几年发行的 Ubuntu 的镜像"
@@ -14247,15 +14271,15 @@
       "cname": "ubuntukylin",
       "options_name": "ubuntukylin",
       "url": "/ubuntukylin",
-      "status": "S1704700370X1704721970",
+      "status": "S1704959727X1704981327",
       "upstream": "rsync://archive.ubuntukylin.com/ubuntukylin/",
-      "size": "4.92G"
+      "size": "4.94G"
     },
     {
       "cname": "ubuntukylin-cdimage",
       "options_name": "ubuntukylin-cdimage",
       "url": "/ubuntukylin-cdimage",
-      "status": "S1704700255X1704721855",
+      "status": "S1704959712X1704981312",
       "upstream": "rsync://cdimage.ubuntukylin.com/releases/basic/",
       "size": "8.24G"
     },
@@ -14263,18 +14287,18 @@
       "cname": "videolan-ftp",
       "options_name": "videolan-ftp",
       "url": "/videolan-ftp",
-      "status": "S1704706450X1704792850",
+      "status": "S1704923638X1705010038",
       "upstream": "rsync://rsync.videolan.org/videolan-ftp/",
-      "size": "107.26G",
+      "size": "100G",
       "desc": "简称VLC，是一款自由、开源的跨平台多媒体播放器及框架，可播放大多数多媒体文件"
     },
     {
       "cname": "virtualbox",
       "options_name": "virtualbox",
       "url": "/virtualbox",
-      "status": "S1704669198X1704755598",
+      "status": "S1704977167X1705063567",
       "upstream": "http://download.virtualbox.org/virtualbox",
-      "size": "155G",
+      "size": "21G",
       "desc": "Oracle 的开源的 x86 架构虚拟机",
       "help": "/help/virtualbox/"
     },
@@ -14282,22 +14306,22 @@
       "cname": "voidlinux",
       "options_name": "voidlinux",
       "url": "/voidlinux",
-      "status": "S1704668428X1704754828",
+      "status": "S1704929055X1705015455",
       "upstream": "rsync://mirrors.servercentral.com/voidlinux/",
-      "size": "465G",
+      "size": "467G",
       "desc": "基于 xbps 包管理器的独立 Linux 发行版",
       "help": "/help/voidlinux/"
     },
     {
       "cname": "VSCodium",
       "url": "/github-release/VSCodium/vscodium",
-      "status": "S1704702421X1704745621"
+      "status": "S1704963918X1705007118"
     },
     {
       "cname": "wine-builds",
       "options_name": "wine-builds",
       "url": "/wine-builds",
-      "status": "S1704711792X1704733392",
+      "status": "S1704974195X1704995795",
       "upstream": "https://dl.winehq.org/wine-builds",
       "size": "264G",
       "help": "/help/wine-builds/"
@@ -14306,7 +14330,7 @@
       "cname": "winehq",
       "options_name": "winehq",
       "url": "/winehq",
-      "status": "S1704706552X1704728152",
+      "status": "S1704966253X1704987853",
       "upstream": "ftp://ftp.winehq.org/pub/",
       "size": "44.5G",
       "desc": "Wine （允许类 Unix 操作系统运行 Windows 程序）"
@@ -14315,7 +14339,7 @@
       "cname": "wireshark",
       "options_name": "wireshark",
       "url": "/wireshark",
-      "status": "S1704713003X1704727403",
+      "status": "S1704972349X1704986749",
       "upstream": "rsync://rsync.wireshark.org/wsdl/",
       "size": "134G",
       "desc": "一个免费开源的网络数据包分析软件"
@@ -14324,9 +14348,9 @@
       "cname": "zabbix",
       "options_name": "zabbix",
       "url": "/zabbix",
-      "status": "S1704699307X1704720907",
+      "status": "S1704959077X1704980677",
       "upstream": "rsync://repo.zabbix.com/mirror/",
-      "size": "230G",
+      "size": "232G",
       "desc": "著名的网络监视、管理系统"
     }
   ]

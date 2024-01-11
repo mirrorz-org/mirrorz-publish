@@ -10,7 +10,7 @@
     "request": "https://github.com/CQUPTMirror/Report",
     "email": "sre@redrock.team",
     "group": "QQ 124449892",
-    "disk": "63.08T/163.2T",
+    "disk": "63.67T/163.2T",
     "big": "/archlinux/iso/latest/archlinux-x86_64.iso"
   },
   "info": [
@@ -423,36 +423,36 @@
       "category": "os",
       "urls": [
         {
-          "name": "9 Stream-20240101.0 (s390x, boot)",
-          "url": "/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-20240101.0-s390x-boot.iso"
+          "name": "9 Stream-20240108.0 (s390x, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-20240108.0-s390x-boot.iso"
         },
         {
-          "name": "9 Stream-20240101.0 (s390x, dvd1)",
-          "url": "/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-20240101.0-s390x-dvd1.iso"
+          "name": "9 Stream-20240108.0 (s390x, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/s390x/iso/CentOS-Stream-9-20240108.0-s390x-dvd1.iso"
         },
         {
-          "name": "9 Stream-20240101.0 (ppc64le, boot)",
-          "url": "/centos-stream/9-stream/BaseOS/ppc64le/iso/CentOS-Stream-9-20240101.0-ppc64le-boot.iso"
+          "name": "9 Stream-20240108.0 (ppc64le, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/ppc64le/iso/CentOS-Stream-9-20240108.0-ppc64le-dvd1.iso"
         },
         {
-          "name": "9 Stream-20240101.0 (ppc64le, dvd1)",
-          "url": "/centos-stream/9-stream/BaseOS/ppc64le/iso/CentOS-Stream-9-20240101.0-ppc64le-dvd1.iso"
+          "name": "9 Stream-20240108.0 (ppc64le, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/ppc64le/iso/CentOS-Stream-9-20240108.0-ppc64le-boot.iso"
         },
         {
-          "name": "9 Stream-20240101.0 (aarch64, boot)",
-          "url": "/centos-stream/9-stream/BaseOS/aarch64/iso/CentOS-Stream-9-20240101.0-aarch64-boot.iso"
+          "name": "9 Stream-20240108.0 (aarch64, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/aarch64/iso/CentOS-Stream-9-20240108.0-aarch64-dvd1.iso"
         },
         {
-          "name": "9 Stream-20240101.0 (aarch64, dvd1)",
-          "url": "/centos-stream/9-stream/BaseOS/aarch64/iso/CentOS-Stream-9-20240101.0-aarch64-dvd1.iso"
+          "name": "9 Stream-20240108.0 (aarch64, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/aarch64/iso/CentOS-Stream-9-20240108.0-aarch64-boot.iso"
         },
         {
-          "name": "9 Stream-20240101.0 (x86_64, dvd1)",
-          "url": "/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-20240101.0-x86_64-dvd1.iso"
+          "name": "9 Stream-20240108.0 (x86_64, dvd1)",
+          "url": "/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-20240108.0-x86_64-dvd1.iso"
         },
         {
-          "name": "9 Stream-20240101.0 (x86_64, boot)",
-          "url": "/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-20240101.0-x86_64-boot.iso"
+          "name": "9 Stream-20240108.0 (x86_64, boot)",
+          "url": "/centos-stream/9-stream/BaseOS/x86_64/iso/CentOS-Stream-9-20240108.0-x86_64-boot.iso"
         }
       ]
     },
@@ -1303,8 +1303,24 @@
           "url": "/opensuse/distribution/leap/15.6/iso/openSUSE-Leap-15.6-DVD-x86_64-Current.iso"
         },
         {
+          "name": "Leap 15.6 (ppc64le, NET)",
+          "url": "/opensuse/distribution/leap/15.6/iso/openSUSE-Leap-15.6-NET-ppc64le-Current.iso"
+        },
+        {
+          "name": "Leap 15.6 (x86_64, NET)",
+          "url": "/opensuse/distribution/leap/15.6/iso/openSUSE-Leap-15.6-NET-x86_64-Current.iso"
+        },
+        {
           "name": "Leap 15.6 (ppc64le, DVD)",
           "url": "/opensuse/distribution/leap/15.6/iso/openSUSE-Leap-15.6-DVD-ppc64le-Current.iso"
+        },
+        {
+          "name": "Leap 15.6 (aarch64, NET)",
+          "url": "/opensuse/distribution/leap/15.6/iso/openSUSE-Leap-15.6-NET-aarch64-Current.iso"
+        },
+        {
+          "name": "Leap 15.6 (s390x, NET)",
+          "url": "/opensuse/distribution/leap/15.6/iso/openSUSE-Leap-15.6-NET-s390x-Current.iso"
         },
         {
           "name": "Leap 15.6 (aarch64, DVD)",
@@ -2449,70 +2465,70 @@
     {
       "cname": "almalinux",
       "url": "/almalinux",
-      "status": "S1704367000X1704388600",
+      "status": "S1704886074X1704907674",
       "upstream": "rsync://rsync.repo.almalinux.org/almalinux/",
       "size": "1.27T"
     },
     {
       "cname": "alpine",
       "url": "/alpine",
-      "status": "S1704354359X1704375959",
+      "status": "S1704883650X1704905250",
       "upstream": "rsync://rsync.alpinelinux.org/alpine/",
       "size": "2.72T"
     },
     {
       "cname": "anaconda",
       "url": "/anaconda",
-      "status": "S1704338076X1704424476",
+      "status": "S1704858994X1704945394",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/anaconda/",
-      "size": "13.69T"
+      "size": "13.73T"
     },
     {
       "cname": "aosp-monthly",
       "url": "/aosp-monthly",
-      "status": "S1704293749X1704380149",
+      "status": "S1704812179X1704898579",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/aosp-monthly/",
       "size": "287.30G"
     },
     {
       "cname": "apache",
       "url": "/apache",
-      "status": "S1704321059X1704407459",
+      "status": "S1704840300X1704926700",
       "upstream": "rsync://rsync.apache.org/apache-dist/",
-      "size": "229.77G"
+      "size": "231.16G"
     },
     {
       "cname": "archlinux",
       "url": "/archlinux",
-      "status": "S1704352971X1704374571",
+      "status": "S1704871770X1704893370",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/archlinux/",
-      "size": "101.91G"
+      "size": "101.18G"
     },
     {
       "cname": "archlinuxarm",
       "url": "/archlinuxarm",
-      "status": "S1704353013",
+      "status": "S1704871884X1704893484",
       "upstream": "rsync://mirrors.bfsu.edu.cn/archlinuxarm/",
-      "size": "106.92G"
+      "size": "108.24G"
     },
     {
       "cname": "archlinuxcn",
       "url": "/archlinuxcn",
-      "status": "S1704369561X1704391161",
+      "status": "S1704877590X1704899190",
       "upstream": "rsync://cqupt@sync.repo.archlinuxcn.org/repo/",
-      "size": "164.86G"
+      "size": "166.94G"
     },
     {
       "cname": "armbian",
       "url": "/armbian",
-      "status": "S1704355460X1704377060",
+      "status": "S1704887712X1704909312",
       "upstream": "rsync://rsync.armbian.com/apt/",
-      "size": "229.08G"
+      "size": "238.35G"
     },
     {
       "cname": "armbian-releases",
       "url": "/armbian-dl",
-      "status": "S1704338588X1704424988",
+      "status": "S1704857019",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/armbian-dl/",
       "size": "799.32G"
     },
@@ -2520,28 +2536,28 @@
       "cname": "centos",
       "desc": "CentOS 软件仓库",
       "url": "/centos",
-      "status": "S1704360572X1704382172",
+      "status": "S1704879226X1704900826",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/centos/",
-      "size": "739.45G"
+      "size": "739.46G"
     },
     {
       "cname": "centos-altarch",
       "url": "/centos-altarch",
-      "status": "S1704353187X1704374787",
+      "status": "S1704871772X1704893372",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/centos-altarch/",
       "size": "316.64G"
     },
     {
       "cname": "centos-stream",
       "url": "/centos-stream",
-      "status": "S1704371758X1704393358",
+      "status": "S1704872070X1704893670",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/centos-stream/",
-      "size": "2.15T"
+      "size": "2.19T"
     },
     {
       "cname": "centos-vault",
       "url": "/centos-vault",
-      "status": "S1704371479X1704457879",
+      "status": "S1704891157X1704977557",
       "upstream": "rsync://mirrors.bfsu.edu.cn/centos-vault/",
       "size": "6.12T"
     },
@@ -2549,7 +2565,7 @@
       "cname": "cmake.git",
       "desc": "[CMake](https://cmake.org), the cross-platform, open-source build system.\r\n",
       "url": "https://git.mirrors.cqupt.edu.cn/CMake/CMake.git",
-      "status": "S1704373977X1704381177",
+      "status": "S1704891742X1704898942",
       "upstream": "https://gitlab.kitware.com/cmake/cmake",
       "size": "168.50M"
     },
@@ -2557,82 +2573,82 @@
       "cname": "cocoapods-specs.git",
       "desc": "The CocoaPods Master Repo",
       "url": "https://git.mirrors.cqupt.edu.cn/CocoaPods/CocoaPods-Specs.git",
-      "status": "S1704374072X1704381272",
+      "status": "S1704891735X1704898935",
       "upstream": "https://github.com/CocoaPods/Specs",
       "size": "1.35G"
     },
     {
       "cname": "CTAN",
       "url": "/ctan",
-      "status": "S1704312003X1704398403",
+      "status": "S1704831355X1704917755",
       "upstream": "rsync://rsync.dante.ctan.org/CTAN/",
-      "size": "56.92G"
+      "size": "57.05G"
     },
     {
       "cname": "cygwin",
       "url": "/cygwin",
-      "status": "S1704307699X1704394099",
+      "status": "S1704826251X1704912651",
       "upstream": "rsync://cygwin.com/cygwin-ftp/",
-      "size": "111.11G"
+      "size": "110.93G"
     },
     {
       "cname": "deb-multimedia",
       "url": "/deb-multimedia",
-      "status": "S1704315178X1704401579",
+      "status": "S1704833711X1704920111",
       "upstream": "rsync://www.deb-multimedia.org/deb/",
-      "size": "14.73G"
+      "size": "15.17G"
     },
     {
       "cname": "debian",
       "desc": "Debian 软件仓库",
       "url": "/debian",
-      "status": "S1704360502X1704382102",
+      "status": "S1704882320X1704903920",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/debian/",
-      "size": "1.88T"
+      "size": "1.91T"
     },
     {
       "cname": "debian-cd",
       "desc": "Debian 安装镜像",
       "url": "/debian-cd",
-      "status": "S1704362414X1704384014",
+      "status": "S1704880954X1704902554",
       "upstream": "rsync://cdimage.debian.org/debian-cd/",
       "size": "230.78G"
     },
     {
       "cname": "debian-nonfree",
       "url": "/debian-nonfree",
-      "status": "S1704367037X1704453437",
+      "status": "S1704885572X1704971972",
       "upstream": "rsync://cdimage.debian.org/cdimage-unofficial/non-free/",
-      "size": "32.73G"
+      "size": "32.76G"
     },
     {
       "cname": "debian-security",
       "desc": "Debian 安全更新",
       "url": "/debian-security",
-      "status": "S1704356998X1704378598",
+      "status": "S1704880198X1704901798",
       "upstream": "rsync://rsync.security.debian.org/debian-security/",
-      "size": "177.10G"
+      "size": "182.50G"
     },
     {
       "cname": "deepin",
       "url": "/deepin",
-      "status": "S1704373098X1704394698",
+      "status": "S1704891938X1704913538",
       "upstream": "rsync://rsync.deepin.com/deepin/",
       "size": "580.31G"
     },
     {
       "cname": "deepin-cd",
       "url": "/deepin-cd",
-      "status": "S1704371626X1704458026",
+      "status": "S1704890061X1704976461",
       "upstream": "rsync://rsync.deepin.com/releases/",
       "size": "76.53G"
     },
     {
       "cname": "docker-ce",
       "url": "/docker-ce",
-      "status": "S1704353676X1704440076",
+      "status": "S1704872229X1704958629",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/docker-ce/",
-      "size": "567.01G"
+      "size": "569.75G"
     },
     {
       "cname": "dockerhub",
@@ -2643,42 +2659,42 @@
     {
       "cname": "elrepo",
       "url": "/elrepo",
-      "status": "S1704316014X1704402414",
+      "status": "S1704835023X1704921423",
       "upstream": "rsync://ftp.kddilabs.jp/elrepo/",
-      "size": "90.45G"
+      "size": "91.62G"
     },
     {
       "cname": "entware",
       "url": "/entware",
-      "status": "S1704290666X1704377066",
+      "status": "S1704825810X1704912210",
       "upstream": "https://bin.entware.net",
-      "size": "14.12G"
+      "size": "14.93G"
     },
     {
       "cname": "epel",
       "url": "/epel",
-      "status": "S1704315981X1704402381",
+      "status": "S1704841576X1704927976",
       "upstream": "rsync://fedora-rsync.ftp.pub.2iij.net/fedora-epel/",
-      "size": "511.02G"
+      "size": "528.27G"
     },
     {
       "cname": "fdroid",
       "url": "/fdroid",
-      "status": "S1704366349X1704452749",
+      "status": "S1704890552X1704976952",
       "upstream": "rsync://ftp.lysator.liu.se/pub/fdroid/",
-      "size": "2.26T"
+      "size": "2.27T"
     },
     {
       "cname": "fedora",
       "url": "/fedora",
-      "status": "S1704369305X1704390905",
+      "status": "S1704876379X1704897979",
       "upstream": "rsync://download-ib01.fedoraproject.org/fedora-enchilada/linux/",
       "size": "4.01T"
     },
     {
       "cname": "fedora-altarch",
       "url": "/fedora-altarch",
-      "status": "S1704349403",
+      "status": "S1704867857X1704954257",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/fedora-altarch/",
       "size": "67.56G"
     },
@@ -2704,16 +2720,16 @@
     {
       "cname": "github-release",
       "url": "/github-release",
-      "status": "S1704338038X1704381238",
+      "status": "S1704876444X1704919644",
       "upstream": "https://api.github.com/repos/",
-      "size": "28.84G"
+      "size": "27.76G"
     },
     {
       "cname": "glibc.git",
       "url": "https://git.mirrors.cqupt.edu.cn/GNU/glibc.git",
-      "status": "S1704373971X1704381171",
+      "status": "S1704711775X1704718975",
       "upstream": "git://sourceware.org/git/glibc.git",
-      "size": "285.35M"
+      "size": "288.15M"
     },
     {
       "cname": "goproxy",
@@ -2725,38 +2741,38 @@
       "cname": "homebrew-autoupdate.git",
       "desc": ":tropical_drink: An easy, convenient way to automatically update Homebrew.",
       "url": "https://git.mirrors.cqupt.edu.cn/Homebrew/homebrew-autoupdate.git",
-      "status": "S1704374448X1704381648",
+      "status": "S1704891774X1704898974",
       "upstream": "https://github.com/Homebrew/homebrew-autoupdate",
       "size": "657.00K"
     },
     {
       "cname": "homebrew-bottles",
       "url": "/homebrew-bottles",
-      "status": "S1704301049X1704387449",
+      "status": "S1704821484X1704907884",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/",
-      "size": "543.18G"
+      "size": "540.28G"
     },
     {
       "cname": "homebrew-bundle.git",
       "desc": "📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.",
       "url": "https://git.mirrors.cqupt.edu.cn/Homebrew/homebrew-bundle.git",
-      "status": "S1704373435X1704380635",
+      "status": "S1704886895X1704894095",
       "upstream": "https://github.com/Homebrew/homebrew-bundle",
-      "size": "2.50M"
+      "size": "2.52M"
     },
     {
       "cname": "homebrew-cask-drivers.git",
       "desc": "🖨 Casks of Drivers",
       "url": "https://git.mirrors.cqupt.edu.cn/Homebrew/homebrew-cask-drivers.git",
-      "status": "S1704369163X1704376363",
+      "status": "S1704890498X1704897698",
       "upstream": "https://github.com/Homebrew/homebrew-cask-drivers",
-      "size": "8.09M"
+      "size": "8.08M"
     },
     {
       "cname": "homebrew-cask-fonts.git",
       "desc": "🖋 Casks of Ｆ🅾𝓝𝐓𝚂",
       "url": "https://git.mirrors.cqupt.edu.cn/Homebrew/homebrew-cask-fonts.git",
-      "status": "S1704374434X1704381634",
+      "status": "S1704891762X1704898962",
       "upstream": "https://github.com/Homebrew/homebrew-cask-fonts",
       "size": "47.46M"
     },
@@ -2764,7 +2780,7 @@
       "cname": "homebrew-cask-versions.git",
       "desc": "🔢 Alternate versions of Casks",
       "url": "https://git.mirrors.cqupt.edu.cn/Homebrew/homebrew-cask-versions.git",
-      "status": "S1704373441X1704380641",
+      "status": "S1704891788X1704898988",
       "upstream": "https://github.com/Homebrew/homebrew-cask-versions",
       "size": "107.42M"
     },
@@ -2772,7 +2788,7 @@
       "cname": "homebrew-cask.git",
       "desc": "🍻 A CLI workflow for the administration of macOS applications distributed as binaries",
       "url": "https://git.mirrors.cqupt.edu.cn/Homebrew/homebrew-cask.git",
-      "status": "S1704374316X1704381516",
+      "status": "S1704891729X1704898929",
       "upstream": "https://github.com/Homebrew/homebrew-cask",
       "size": "840.13M"
     },
@@ -2796,15 +2812,15 @@
       "cname": "homebrew-services.git",
       "desc": "🚀 Manage background services using the daemon manager launchctl on macOS or systemctl on Linux.",
       "url": "https://git.mirrors.cqupt.edu.cn/Homebrew/homebrew-services.git",
-      "status": "S1704374323X1704381523",
+      "status": "S1704891164X1704898364",
       "upstream": "https://github.com/Homebrew/homebrew-services",
-      "size": "1.04M"
+      "size": "1020.00K"
     },
     {
       "cname": "homebrew.git",
       "desc": "🍺 The missing package manager for macOS (or Linux)",
       "url": "https://git.mirrors.cqupt.edu.cn/Homebrew/homebrew.git",
-      "status": "S1704374483X1704381683",
+      "status": "S1704892373X1704899573",
       "upstream": "https://github.com/Homebrew/brew",
       "size": "118.82M"
     },
@@ -2817,42 +2833,42 @@
     {
       "cname": "kali",
       "url": "/kali",
-      "status": "Y1704368922O1704347321",
+      "status": "Y1704879647O1704858045",
       "upstream": "rsync://archive-4.kali.org/kali/",
-      "size": "900.25G"
+      "size": "935.20G"
     },
     {
       "cname": "kali-images",
       "url": "/kali-images",
-      "status": "S1704334308X1704420708",
+      "status": "S1704856453X1704942853",
       "upstream": "rsync://ftp.nluug.nl/kali-images/",
-      "size": "185.50G"
+      "size": "185.59G"
     },
     {
       "cname": "kde-application",
       "url": "/kde-application",
-      "status": "S1704303426X1704389826",
+      "status": "S1704832705X1704919105",
       "upstream": "rsync://rsync.kde.org/applicationdata/",
-      "size": "591.71G"
+      "size": "595.09G"
     },
     {
       "cname": "kicad",
       "url": "/kicad",
-      "status": "S1704363947X1704450347",
+      "status": "S1704882678X1704969078",
       "upstream": "rsync://mirrors.bfsu.edu.cn/kicad/",
-      "size": "269.74G"
+      "size": "258.34G"
     },
     {
       "cname": "kubernetes",
       "url": "/kubernetes",
-      "status": "S1704296557X1704382957",
+      "status": "S1704814987X1704901387",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/kubernetes/",
       "size": "77.95G"
     },
     {
       "cname": "linux-firmware.git",
       "url": "https://git.mirrors.cqupt.edu.cn/kernel/linux-firmware.git",
-      "status": "S1704373987X1704381187",
+      "status": "S1704892307X1704899507",
       "upstream": "git://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git",
       "size": "851.14M"
     },
@@ -2880,9 +2896,9 @@
     {
       "cname": "llvm-apt",
       "url": "/llvm-apt",
-      "status": "S1704345482X1704431882",
+      "status": "S1704864779X1704951179",
       "upstream": "rsync://mirrors.bfsu.edu.cn/llvm-apt/",
-      "size": "38.35G"
+      "size": "38.36G"
     },
     {
       "cname": "llvm-project.git",
@@ -2895,9 +2911,9 @@
     {
       "cname": "manjaro",
       "url": "/manjaro",
-      "status": "S1704334083X1704420483",
+      "status": "S1704856154X1704942554",
       "upstream": "rsync://mirrors.ocf.berkeley.edu/manjaro/",
-      "size": "169.04G"
+      "size": "167.69G"
     },
     {
       "cname": "maven",
@@ -2908,7 +2924,7 @@
     {
       "cname": "nix",
       "url": "/nix",
-      "status": "S1704355057X1704441457",
+      "status": "S1704873488X1704959888",
       "upstream": "rsync://mirrors.bfsu.edu.cn/nix/",
       "size": "22.84G"
     },
@@ -2921,9 +2937,9 @@
     {
       "cname": "nixos-images",
       "url": "/nixos-images",
-      "status": "S1704365716",
+      "status": "S1704884764X1704971164",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/nixos-images/",
-      "size": "79.42G"
+      "size": "79.54G"
     },
     {
       "cname": "npm",
@@ -2954,56 +2970,56 @@
     {
       "cname": "OpenBSD",
       "url": "/openbsd",
-      "status": "Y1704306641O1703447645",
+      "status": "Y1704833426O1704495179",
       "upstream": "rsync://ftp.jaist.ac.jp/pub/OpenBSD/",
-      "size": "1.14T"
+      "size": "1.17T"
     },
     {
       "cname": "openeuler",
       "url": "/openeuler",
-      "status": "F1704328574X1704414974O1704155774",
+      "status": "S1704890278X1704976678",
       "upstream": "rsync://repo.openeuler.openatom.cn/openeuler/",
-      "size": "4.06T"
+      "size": "4.35T"
     },
     {
       "cname": "OpenMediaVault",
       "url": "/openmediavault",
-      "status": "S1704353814X1704440214",
+      "status": "S1704872244X1704958644",
       "upstream": "rsync://mirrors.bfsu.edu.cn/OpenMediaVault/",
-      "size": "109.23M"
+      "size": "124.40M"
     },
     {
       "cname": "opensuse",
       "url": "/opensuse",
-      "status": "S1704365268X1704386868",
+      "status": "S1704889269X1704910869",
       "upstream": "rsync://mirrors.bfsu.edu.cn/opensuse/",
-      "size": "3.32T"
+      "size": "3.33T"
     },
     {
       "cname": "openwrt",
       "url": "/openwrt",
-      "status": "S1704350192X1704436592",
+      "status": "S1704879543X1704965943",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/openwrt/",
       "size": "2.24T"
     },
     {
       "cname": "postmarketOS",
       "url": "/postmarketos",
-      "status": "S1704315778X1704402178",
+      "status": "S1704834270X1704920670",
       "upstream": "rsync://mirror.postmarketos.org/postmarketos/",
-      "size": "33.90G"
+      "size": "27.07G"
     },
     {
       "cname": "postmarketOS-images",
       "url": "/postmarketos-images",
-      "status": "S1704289952X1704376352",
+      "status": "S1704818146",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/postmarketOS-images/",
-      "size": "818.90G"
+      "size": "818.19G"
     },
     {
       "cname": "proxmox",
       "url": "/proxmox",
-      "status": "S1704348471X1704434871",
+      "status": "S1704866906X1704953306",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/proxmox/",
       "size": "355.53G"
     },
@@ -3030,23 +3046,23 @@
     {
       "cname": "raspberry-pi-os-images",
       "url": "/raspberry-pi-os-images",
-      "status": "S1704359478X1704445878",
+      "status": "S1704877908X1704964308",
       "upstream": "rsync://mirrors.bfsu.edu.cn/raspberry-pi-os-images/",
       "size": "627.61G"
     },
     {
       "cname": "raspberrypi",
       "url": "/raspberrypi",
-      "status": "S1704355913X1704442313",
+      "status": "S1704874415X1704960816",
       "upstream": "rsync://mirrors.bfsu.edu.cn/raspberrypi/",
-      "size": "376.80G"
+      "size": "378.58G"
     },
     {
       "cname": "raspbian",
       "url": "/raspbian",
-      "status": "S1704328247X1704414646",
+      "status": "S1704850383X1704936783",
       "upstream": "rsync://archive.raspbian.org/archive/",
-      "size": "598.39G"
+      "size": "596.94G"
     },
     {
       "cname": "scoop-extras.git",
@@ -3068,7 +3084,7 @@
       "cname": "scoop-main.git",
       "desc": "📦 The default bucket for Scoop.",
       "url": "https://git.mirrors.cqupt.edu.cn/Scoop/Scoop-Main.git",
-      "status": "S1704373447X1704380647",
+      "status": "S1704891749X1704898949",
       "upstream": "https://github.com/ScoopInstaller/Main",
       "size": "105.25M"
     },
@@ -3076,23 +3092,23 @@
       "cname": "scoop-nirsoft.git",
       "desc": "📦 Bucket of almost all of the 280+ apps from Nirsoft.net. Migrated from MCOfficer/scoop-nirsoft with permission.",
       "url": "https://git.mirrors.cqupt.edu.cn/Scoop/Scoop-Nirsoft.git",
-      "status": "S1704374079X1704381279",
+      "status": "S1704891768X1704898968",
       "upstream": "https://github.com/ScoopInstaller/Nirsoft",
-      "size": "3.73M"
+      "size": "3.81M"
     },
     {
       "cname": "scoop-nonportable.git",
       "desc": "📦 Scoop bucket for non-portable applications.",
       "url": "https://git.mirrors.cqupt.edu.cn/Scoop/Scoop-Nonportable.git",
-      "status": "S1704368535X1704375735",
+      "status": "S1704891781X1704898981",
       "upstream": "https://github.com/ScoopInstaller/Nonportable",
-      "size": "4.49M"
+      "size": "4.66M"
     },
     {
       "cname": "scoop-versions.git",
       "desc": "📦 A Scoop bucket for alternative versions of apps.",
       "url": "https://git.mirrors.cqupt.edu.cn/Scoop/Scoop-Versions.git",
-      "status": "S1704373974X1704381174",
+      "status": "S1704891755X1704898955",
       "upstream": "https://github.com/ScoopInstaller/Versions",
       "size": "45.03M"
     },
@@ -3107,42 +3123,42 @@
     {
       "cname": "termux",
       "url": "/termux",
-      "status": "S1704356424X1704442824",
+      "status": "S1704879756X1704966156",
       "upstream": "rsync://packages.termux.dev/termux/",
-      "size": "20.94G"
+      "size": "21.15G"
     },
     {
       "cname": "ubuntu",
       "url": "/ubuntu",
-      "status": "F1704357261X1704378861O1704290348",
+      "status": "F1704890332O1704868728",
       "upstream": "rsync://archive.ubuntu.com/ubuntu/",
-      "size": "2.57T"
+      "size": "2.60T"
     },
     {
       "cname": "ubuntu-cdimage",
       "url": "/ubuntu-cdimage",
-      "status": "Y1704357492O1704271090",
+      "status": "Y1704847327O1704760926",
       "upstream": "rsync://cdimage.ubuntu.com/cdimage/",
-      "size": "1.46T"
+      "size": "1.48T"
     },
     {
       "cname": "ubuntu-ports",
       "url": "/ubuntu-ports",
-      "status": "S1704354039X1704440439",
+      "status": "S1704878897X1704965297",
       "upstream": "rsync://cmcc.mirrors.ustc.edu.cn/ubuntu-ports/",
-      "size": "3.03T"
+      "size": "3.06T"
     },
     {
       "cname": "ubuntu-releases",
       "url": "/ubuntu-releases",
-      "status": "S1704355996X1704442396",
+      "status": "S1704874566X1704960966",
       "upstream": "rsync://rsync.releases.ubuntu.com/releases/",
       "size": "41.70G"
     },
     {
       "cname": "wireshark",
       "url": "/wireshark",
-      "status": "S1704371838X1704458238",
+      "status": "S1704890280X1704976680",
       "upstream": "rsync://rsync.wireshark.org/wsdl/",
       "size": "144.33G"
     }
