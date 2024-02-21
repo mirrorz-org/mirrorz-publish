@@ -1,4 +1,4 @@
-frontend: 4f4fd76 Bump some dependencies
+frontend: 6a2a73a Bump ip from 1.1.5 to 1.1.9 (#128)
 config: bb8eb42 Add lzu to mirrorz.d
 parser: 52d211d Add package-lock.json
 i18n: fc9633e Add dependencies for speedtest scripts
