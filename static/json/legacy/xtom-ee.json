@@ -13,8 +13,8 @@
       "distro": "archlinux",
       "urls": [
         {
-          "name": "2024.01.01 (x86_64, CLI-only)",
-          "url": "/archlinux/iso/latest/archlinux-2024.01.01-x86_64.iso"
+          "name": "2024.02.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/latest/archlinux-2024.02.01-x86_64.iso"
         }
       ],
       "category": "os"
@@ -37,44 +37,44 @@
       "distro": "debian",
       "urls": [
         {
-          "name": "12.4.0 (amd64, DVD installer)",
-          "url": "/debian-cd/current/amd64/iso-dvd/debian-12.4.0-amd64-DVD-1.iso"
+          "name": "12.5.0 (amd64, DVD installer)",
+          "url": "/debian-cd/current/amd64/iso-dvd/debian-12.5.0-amd64-DVD-1.iso"
         },
         {
-          "name": "12.4.0 (i386, DVD installer)",
-          "url": "/debian-cd/current/i386/iso-dvd/debian-12.4.0-i386-DVD-1.iso"
+          "name": "12.5.0 (i386, DVD installer)",
+          "url": "/debian-cd/current/i386/iso-dvd/debian-12.5.0-i386-DVD-1.iso"
         },
         {
-          "name": "12.4.0 (amd64, xfce live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-xfce.iso"
+          "name": "12.5.0 (amd64, xfce live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-xfce.iso"
         },
         {
-          "name": "12.4.0 (amd64, standard live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-standard.iso"
+          "name": "12.5.0 (amd64, standard live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-standard.iso"
         },
         {
-          "name": "12.4.0 (amd64, mate live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-mate.iso"
+          "name": "12.5.0 (amd64, mate live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-mate.iso"
         },
         {
-          "name": "12.4.0 (amd64, lxqt live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-lxqt.iso"
+          "name": "12.5.0 (amd64, lxqt live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso"
         },
         {
-          "name": "12.4.0 (amd64, lxde live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-lxde.iso"
+          "name": "12.5.0 (amd64, lxde live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxde.iso"
         },
         {
-          "name": "12.4.0 (amd64, kde live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-kde.iso"
+          "name": "12.5.0 (amd64, kde live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-kde.iso"
         },
         {
-          "name": "12.4.0 (amd64, gnome live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-gnome.iso"
+          "name": "12.5.0 (amd64, gnome live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-gnome.iso"
         },
         {
-          "name": "12.4.0 (amd64, cinnamon live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-cinnamon.iso"
+          "name": "12.5.0 (amd64, cinnamon live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-cinnamon.iso"
         }
       ],
       "category": "os"
@@ -121,16 +121,16 @@
           "url": "/ubuntu-releases/mantic/ubuntu-23.10.1-desktop-amd64.iso"
         },
         {
-          "name": "23.04 (amd64, LiveCD)",
-          "url": "/ubuntu-releases/lunar/ubuntu-23.04-desktop-amd64.iso"
-        },
-        {
           "name": "22.04.3 (amd64, LiveCD)",
           "url": "/ubuntu-releases/jammy/ubuntu-22.04.3-desktop-amd64.iso"
         },
         {
           "name": "20.04.6 (amd64, LiveCD)",
           "url": "/ubuntu-releases/focal/ubuntu-20.04.6-desktop-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, LiveCD)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-desktop-amd64.iso"
         }
       ],
       "category": "os"
@@ -140,97 +140,97 @@
     {
       "cname": "almalinux",
       "url": "/almalinux",
-      "status": "S1704196990X1704207780",
+      "status": "S1707652995X1707663780",
       "help": "",
       "desc": "",
-      "size": "800.56 GiB",
+      "size": "865.12 GiB",
       "upstream": "rsync://rsync.repo.almalinux.org/almalinux/"
     },
     {
       "cname": "alpine",
       "url": "/alpine",
-      "status": "S1704166644X1704252900",
+      "status": "S1707622637X1707708900",
       "help": "",
       "desc": "",
-      "size": "2.40 TiB",
+      "size": "2.43 TiB",
       "upstream": "rsync://rsync.alpinelinux.org/alpine/"
     },
     {
       "cname": "anthon",
       "url": "/anthon",
-      "status": "S1704149474X1704235020",
+      "status": "S1707609804X1707691020",
       "help": "",
       "desc": "",
-      "size": "1.26 TiB",
+      "size": "1.41 TiB",
       "upstream": "rsync://repo.aosc.io/anthon/"
     },
     {
       "cname": "archlinux",
       "url": "/archlinux",
-      "status": "S1704198186X1704201780",
+      "status": "S1707654200X1707657780",
       "help": "",
       "desc": "",
-      "size": "93.20 GiB",
+      "size": "93.43 GiB",
       "upstream": "rsync://rsync.archlinux.org/ftp_tier1/"
     },
     {
       "cname": "archlinuxcn",
       "url": "/archlinuxcn",
-      "status": "S1704190045X1704204420",
+      "status": "S1707646023X1707660420",
       "help": "",
       "desc": "",
-      "size": "153.73 GiB",
+      "size": "142.53 GiB",
       "upstream": "rsync://sync.repo.archlinuxcn.org/repo/"
     },
     {
       "cname": "bioarchlinux",
       "url": "/bioarchlinux",
-      "status": "S1704183724X1704270120",
+      "status": "S1707639725X1707726120",
       "help": "",
       "desc": "",
-      "size": "34.19 GiB",
+      "size": "34.34 GiB",
       "upstream": "rsync://bioarchlinux.org/sync/"
     },
     {
       "cname": "centos",
       "url": "/centos",
-      "status": "S1704194241X1704208620",
+      "status": "S1707650238X1707664620",
       "help": "",
       "desc": "",
-      "size": "535.51 GiB",
+      "size": "395.95 GiB",
       "upstream": "rsync://msync.centos.org/CentOS/"
     },
     {
       "cname": "centos-altarch",
       "url": "/centos-altarch",
-      "status": "S1704196626X1704211020",
+      "status": "S1707652626X1707667020",
       "help": "",
       "desc": "",
-      "size": "218.29 GiB",
+      "size": "222.69 GiB",
       "upstream": "rsync://msync.centos.org/altarch/"
     },
     {
       "cname": "centos-stream",
       "url": "/centos-stream",
-      "status": "S1704165741X1704252000",
+      "status": "S1707621613X1707708000",
       "help": "",
       "desc": "",
-      "size": "1.66 TiB",
+      "size": "1.77 TiB",
       "upstream": "rsync://rsync.stream.centos.org/CentOS-Stream-All/"
     },
     {
       "cname": "debian",
       "url": "/debian",
-      "status": "S1704200705X1704214200",
+      "status": "S1707656723X1707670200",
       "help": "",
       "desc": "",
-      "size": "1.63 TiB",
+      "size": "1.91 TiB",
       "upstream": "rsync://syncproxy2.wna.debian.org/debian/"
     },
     {
       "cname": "debian-archive",
       "url": "/debian-archive",
-      "status": "S1704177234X1704263520",
+      "status": "S1707633221X1707719520",
       "help": "",
       "desc": "",
       "size": "2.07 TiB",
@@ -239,106 +239,106 @@
     {
       "cname": "debian-cd",
       "url": "/debian-cd",
-      "status": "S1704167702X1704254100",
+      "status": "S1707626148X1707710100",
       "help": "",
       "desc": "",
-      "size": "208.81 GiB",
+      "size": "418.33 GiB",
       "upstream": "rsync://cdimage.debian.org/debian-cd/"
     },
     {
       "cname": "debian-security",
       "url": "/debian-security",
-      "status": "S1704179101X1704264120",
+      "status": "S1707633739X1707720120",
       "help": "",
       "desc": "",
-      "size": "139.40 GiB",
+      "size": "169.95 GiB",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-security/"
     },
     {
       "cname": "deepin",
       "url": "/deepin",
-      "status": "S1704169237X1704255600",
+      "status": "S1707625261X1707711600",
       "help": "",
       "desc": "",
-      "size": "531.12 GiB",
+      "size": "767.71 GiB",
       "upstream": "rsync://rsync.deepin.com/deepin/"
     },
     {
       "cname": "docker-ce",
       "url": "/docker-ce",
-      "status": "S1704177087X1704263400",
+      "status": "S1707633049X1707719400",
       "help": "",
       "desc": "",
-      "size": "516.31 GiB",
+      "size": "547.66 GiB",
       "upstream": "https://download.docker.com/"
     },
     {
       "cname": "epel",
       "url": "/epel",
-      "status": "S1704176071X1704262320",
+      "status": "S1707632078X1707718320",
       "help": "",
       "desc": "",
-      "size": "460.47 GiB",
+      "size": "494.55 GiB",
       "upstream": "rsync://dl.fedoraproject.org/fedora-epel/"
     },
     {
       "cname": "fedora",
       "url": "/fedora",
-      "status": "S1704175892X1704261360",
+      "status": "S1707632862X1707717360",
       "help": "",
       "desc": "",
-      "size": "2.64 TiB",
+      "size": "2.70 TiB",
       "upstream": "rsync://dl.fedoraproject.org/fedora-enchilada/linux/"
     },
     {
       "cname": "gentoo",
       "url": "/gentoo",
-      "status": "F1704147060O1703888676X1704233460",
+      "status": "S1707603587X1707689460",
       "help": "",
       "desc": "",
-      "size": "715.36 GiB",
+      "size": "777.09 GiB",
       "upstream": "rsync://mirror.us.leaseweb.net/gentoo/"
     },
     {
       "cname": "kali",
       "url": "/kali",
-      "status": "S1704163094X1704249300",
+      "status": "S1707619169X1707705300",
       "help": "",
       "desc": "",
-      "size": "820.48 GiB",
+      "size": "891.89 GiB",
       "upstream": "rsync://ftp.halifax.rwth-aachen.de/kali/"
     },
     {
       "cname": "kali-images",
       "url": "/kali-images",
-      "status": "S1704166501X1704252900",
+      "status": "S1707622501X1707708900",
       "help": "",
       "desc": "",
-      "size": "168.02 GiB",
+      "size": "167.01 GiB",
       "upstream": "rsync://ftp.halifax.rwth-aachen.de/kali-images/"
     },
     {
       "cname": "kde",
       "url": "/kde",
-      "status": "S1704198129X1704205320",
+      "status": "S1707654125X1707661320",
       "help": "",
       "desc": "",
-      "size": "774.62 GiB",
+      "size": "778.61 GiB",
       "upstream": "rsync://rsync.kde.org/kdeftp/"
     },
     {
       "cname": "kde-application",
       "url": "/kde-application",
-      "status": "S1704199534X1704206640",
+      "status": "S1707655510X1707662640",
       "help": "",
       "desc": "",
-      "size": "531.00 GiB",
+      "size": "539.60 GiB",
       "upstream": "rsync://rsync.kde.org/applicationdata/"
     },
     {
       "cname": "m.ac",
       "url": "/m.ac",
-      "status": "S1704198121X1704201720",
+      "status": "S1707654121X1707657720",
       "help": "",
       "desc": "",
       "size": "10.91 GiB",
@@ -347,70 +347,70 @@
     {
       "cname": "manjaro",
       "url": "/manjaro",
-      "status": "S1704171539X1704257760",
+      "status": "S1707628789X1707713760",
       "help": "",
       "desc": "",
-      "size": "152.76 GiB",
+      "size": "193.41 GiB",
       "upstream": "rsync://ftp.lysator.liu.se/manjaro/"
     },
     {
       "cname": "mariadb",
       "url": "/mariadb",
-      "status": "S1704174004X1704260400",
+      "status": "S1707630013X1707716400",
       "help": "",
       "desc": "",
-      "size": "834.59 GiB",
+      "size": "874.29 GiB",
       "upstream": "rsync://rsync.osuosl.org/mariadb/"
     },
     {
       "cname": "nginx",
       "url": "/nginx",
-      "status": "S1704174991X1704259500",
+      "status": "S1707630999X1707715500",
       "help": "",
       "desc": "",
-      "size": "75.34 GiB",
+      "size": "78.90 GiB",
       "upstream": "http://nginx.org/packages/"
     },
     {
       "cname": "openeuler",
       "url": "/openeuler",
-      "status": "S1704137735X1704224100",
+      "status": "S1707593731X1707680100",
       "help": "",
       "desc": "",
-      "size": "6.07 TiB",
+      "size": "6.19 TiB",
       "upstream": "rsync://121.36.97.194/openeuler/"
     },
     {
       "cname": "percona",
       "url": "/percona",
-      "status": "S1704170299X1704256680",
+      "status": "S1707626301X1707712680",
       "help": "",
       "desc": "",
-      "size": "5.81 TiB",
+      "size": "6.12 TiB",
       "upstream": "rsync://rsync.percona.com/rsync/"
     },
     {
       "cname": "postgresql",
       "url": "/postgresql",
-      "status": "S1704174966X1704261300",
+      "status": "S1707631162X1707717300",
       "help": "",
       "desc": "",
-      "size": "408.57 GiB",
+      "size": "404.76 GiB",
       "upstream": "rsync://ftp.postgresql.org/pgsql-ftp/"
     },
     {
       "cname": "proxmox",
       "url": "/proxmox",
-      "status": "S1704165214X1704251520",
+      "status": "F1707621120O1707362095X1707707520",
       "help": "",
       "desc": "",
-      "size": "431.46 GiB",
+      "size": "443.83 GiB",
       "upstream": "http://download.proxmox.com/"
     },
     {
       "cname": "putty",
       "url": "/putty",
-      "status": "S1704166081X1704252480",
+      "status": "S1707622081X1707708480",
       "help": "",
       "desc": "",
       "size": "69.00 MiB",
@@ -419,25 +419,25 @@
     {
       "cname": "ripe",
       "url": "/ripe",
-      "status": "S1704163030X1704249180",
+      "status": "S1707619208X1707705180",
       "help": "",
       "desc": "",
-      "size": "1.62 TiB",
+      "size": "2.15 TiB",
       "upstream": "rsync://mirrors.xtom.de/ripe/"
     },
     {
       "cname": "rocky",
       "url": "/rocky",
-      "status": "S1704195838X1704210180",
+      "status": "S1707651831X1707666180",
       "help": "",
       "desc": "",
-      "size": "504.92 GiB",
+      "size": "594.37 GiB",
       "upstream": "rsync://mirror.netzwerge.de/rocky-linux/"
     },
     {
       "cname": "sb",
       "url": "/sb",
-      "status": "S1704159905X1704246300",
+      "status": "S1707615903X1707702300",
       "help": "",
       "desc": "",
       "size": "161.00 MiB",
@@ -446,7 +446,7 @@
     {
       "cname": "solusvm",
       "url": "/solusvm",
-      "status": "S1704175925X1704262320",
+      "status": "S1707631925X1707718320",
       "help": "",
       "desc": "",
       "size": "88.05 GiB",
@@ -455,37 +455,37 @@
     {
       "cname": "sury",
       "url": "/sury",
-      "status": "S1704174903X1704261300",
+      "status": "S1707630906X1707717300",
       "help": "",
       "desc": "",
-      "size": "22.61 GiB",
+      "size": "22.14 GiB",
       "upstream": "rsync://rsync.sury.org/repositories/"
     },
     {
       "cname": "ubuntu",
       "url": "/ubuntu",
-      "status": "S1704184680X1704205680",
+      "status": "S1707640381X1707661680",
       "help": "",
       "desc": "",
-      "size": "2.29 TiB",
+      "size": "2.36 TiB",
       "upstream": "rsync://archive.ubuntu.com/ubuntu/"
     },
     {
       "cname": "ubuntu-ports",
       "url": "/ubuntu-ports",
-      "status": "S1704176932X1704262920",
+      "status": "S1707632741X1707718920",
       "help": "",
       "desc": "",
-      "size": "2.71 TiB",
+      "size": "2.81 TiB",
       "upstream": "rsync://ports.ubuntu.com/ubuntu-ports/"
     },
     {
       "cname": "ubuntu-releases",
       "url": "/ubuntu-releases",
-      "status": "S1704199020X1704220620",
+      "status": "S1707655020X1707676620",
       "help": "",
       "desc": "",
-      "size": "37.75 GiB",
+      "size": "30.59 GiB",
       "upstream": "rsync://rsync.releases.ubuntu.com/releases/"
     }
   ]

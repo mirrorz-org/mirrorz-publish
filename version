@@ -1,8 +1,8 @@
 frontend: 4f4fd76 Bump some dependencies
-config: 48a904d Remove OpenTUNA
+config: bb8eb42 Add lzu to mirrorz.d
 parser: 9245a02 jcut: init in parsers.js
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: af66167 Delete cqupt.json (#6)
-json_legacy: 2024-01-21T13:21:57.011Z
-legacy: 5321803 Fix undefined.forEach
+json_legacy: 2024-02-20T13:21:44.108Z
+legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency

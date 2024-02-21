@@ -20,8 +20,8 @@
       "category": "os",
       "urls": [
         {
-          "name": "2024.01.01 (x86_64, CLI-only)",
-          "url": "/archlinux/iso/latest/archlinux-2024.01.01-x86_64.iso"
+          "name": "2024.02.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/latest/archlinux-2024.02.01-x86_64.iso"
         }
       ]
     },
@@ -30,52 +30,52 @@
       "category": "os",
       "urls": [
         {
-          "name": "12.4.0 (i386, Network installer)",
-          "url": "/debian-iso/current/i386/iso-cd/debian-12.4.0-i386-netinst.iso"
+          "name": "12.5.0 (i386, Network installer)",
+          "url": "/debian-iso/current/i386/iso-cd/debian-12.5.0-i386-netinst.iso"
         },
         {
-          "name": "12.4.0 (i386, DVD installer (Part 1))",
-          "url": "/debian-iso/current/i386/iso-dvd/debian-12.4.0-i386-DVD-1.iso"
+          "name": "12.5.0 (i386, DVD installer (Part 1))",
+          "url": "/debian-iso/current/i386/iso-dvd/debian-12.5.0-i386-DVD-1.iso"
         },
         {
-          "name": "12.4.0 (amd64, Network installer)",
-          "url": "/debian-iso/current/amd64/iso-cd/debian-12.4.0-amd64-netinst.iso"
+          "name": "12.5.0 (amd64, Network installer)",
+          "url": "/debian-iso/current/amd64/iso-cd/debian-12.5.0-amd64-netinst.iso"
         },
         {
-          "name": "12.4.0 (amd64, Live CD with xfce)",
-          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-xfce.iso"
+          "name": "12.5.0 (amd64, Live CD with xfce)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-xfce.iso"
         },
         {
-          "name": "12.4.0 (amd64, Live CD with standard)",
-          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-standard.iso"
+          "name": "12.5.0 (amd64, Live CD with standard)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-standard.iso"
         },
         {
-          "name": "12.4.0 (amd64, Live CD with mate)",
-          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-mate.iso"
+          "name": "12.5.0 (amd64, Live CD with mate)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-mate.iso"
         },
         {
-          "name": "12.4.0 (amd64, Live CD with lxqt)",
-          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-lxqt.iso"
+          "name": "12.5.0 (amd64, Live CD with lxqt)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso"
         },
         {
-          "name": "12.4.0 (amd64, Live CD with lxde)",
-          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-lxde.iso"
+          "name": "12.5.0 (amd64, Live CD with lxde)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxde.iso"
         },
         {
-          "name": "12.4.0 (amd64, Live CD with kde)",
-          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-kde.iso"
+          "name": "12.5.0 (amd64, Live CD with kde)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-kde.iso"
         },
         {
-          "name": "12.4.0 (amd64, Live CD with gnome)",
-          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-gnome.iso"
+          "name": "12.5.0 (amd64, Live CD with gnome)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-gnome.iso"
         },
         {
-          "name": "12.4.0 (amd64, Live CD with cinnamon)",
-          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-cinnamon.iso"
+          "name": "12.5.0 (amd64, Live CD with cinnamon)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-cinnamon.iso"
         },
         {
-          "name": "12.4.0 (amd64, DVD installer (Part 1))",
-          "url": "/debian-iso/current/amd64/iso-dvd/debian-12.4.0-amd64-DVD-1.iso"
+          "name": "12.5.0 (amd64, DVD installer (Part 1))",
+          "url": "/debian-iso/current/amd64/iso-dvd/debian-12.5.0-amd64-DVD-1.iso"
         }
       ]
     },
@@ -166,8 +166,8 @@
           "url": "/CTAN/systems/texlive/Images/texlive2023-20230313.iso"
         },
         {
-          "name": "MikTeX 23.10 (Windows, x64)",
-          "url": "/CTAN/systems/win32/miktex/setup/windows-x64/basic-miktex-23.10-x64.exe"
+          "name": "MikTeX 24.1 (Windows, x64)",
+          "url": "/CTAN/systems/win32/miktex/setup/windows-x64/basic-miktex-24.1-x64.exe"
         },
         {
           "name": "MikTeX 22.1 (macOS, x86_64)",
@@ -192,14 +192,6 @@
           "url": "/ubuntu-releases/mantic/ubuntu-23.10-live-server-amd64.iso"
         },
         {
-          "name": "23.04 (amd64, Server)",
-          "url": "/ubuntu-releases/lunar/ubuntu-23.04-live-server-amd64.iso"
-        },
-        {
-          "name": "23.04 (amd64, Desktop LiveDVD)",
-          "url": "/ubuntu-releases/lunar/ubuntu-23.04-desktop-amd64.iso"
-        },
-        {
           "name": "22.04.3 (amd64, Server)",
           "url": "/ubuntu-releases/jammy/ubuntu-22.04.3-live-server-amd64.iso"
         },
@@ -214,6 +206,14 @@
         {
           "name": "20.04.6 (amd64, Desktop LiveDVD)",
           "url": "/ubuntu-releases/focal/ubuntu-20.04.6-desktop-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, Server)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-live-server-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-desktop-amd64.iso"
         },
         {
           "name": "16.04.7 (amd64, Server)",
@@ -239,109 +239,109 @@
       "cname": "archlinux",
       "desc": "Arch Linux",
       "url": "/archlinux",
-      "status": "S1704273284",
+      "status": "S1707823192",
       "help": "/docs/guide/ArchLinux",
-      "upstream": "rsync://mirrors4.tuna.tsinghua.edu.cn/archlinux",
-      "size": "97301M"
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinux",
+      "size": "95844M"
     },
     {
       "cname": "bioarchlinux",
       "desc": "BioArchLinux",
       "url": "/bioarchlinux",
-      "status": "S1704282847",
+      "status": "S1707824668",
       "help": "",
-      "upstream": "194.169.181.130::sync/",
-      "size": "35846M"
+      "upstream": "bioarchlinux.org::sync",
+      "size": "35995M"
     },
     {
       "cname": "CTAN",
       "desc": "Comprehensive TEX Archive Network",
       "url": "/CTAN",
-      "status": "S1704278637",
+      "status": "S1707828273",
       "help": "https://help.mirrorz.org/CTAN/?mirror=SDU",
-      "upstream": "rsync://mirrors4.tuna.tsinghua.edu.cn/CTAN",
-      "size": "55102M"
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/CTAN",
+      "size": "55458M"
     },
     {
       "cname": "debian",
       "desc": "Debian",
       "url": "/debian",
-      "status": "S1704283528",
+      "status": "S1707823192",
       "help": "/docs/guide/Debian",
-      "upstream": "rsync://mirrors4.tuna.tsinghua.edu.cn/debian",
-      "size": "1102797M"
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian",
+      "size": "1226666M"
     },
     {
       "cname": "debian-iso",
       "desc": "Debian - CD Images",
       "url": "/debian-iso",
-      "status": "S1704273885",
+      "status": "S1707815361",
       "help": "",
-      "upstream": "rsync://mirrors4.tuna.tsinghua.edu.cn/debian-cd",
-      "size": "220099M"
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-cd",
+      "size": "220883M"
     },
     {
       "cname": "debian-security",
       "desc": "Debian - Security Updates",
       "url": "/debian-security",
-      "status": "S1704276891",
+      "status": "S1707819568",
       "help": "/docs/guide/Debian",
-      "upstream": "rsync://mirrors4.tuna.tsinghua.edu.cn/debian-security",
-      "size": "100800M"
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-security",
+      "size": "108563M"
     },
     {
       "cname": "github-release",
       "desc": "常用 GitHub 软件",
       "url": "/github-release",
-      "status": "S1704282246",
+      "status": "S1707822862",
       "help": "https://github.com/SDU-Mirrors/wonderful-github-releases",
       "upstream": "",
-      "size": "24370M"
+      "size": "22044M"
     },
     {
       "cname": "manjaro",
       "desc": "Manjaro Linux",
       "url": "/manjaro",
-      "status": "S1704284653",
+      "status": "S1707823462",
       "help": "https://help.mirrors.cernet.edu.cn/manjaro/?mirror=SDU",
-      "upstream": "rsync://169.229.200.70/manjaro/",
-      "size": "161051M"
+      "upstream": "rsync://ftp.halifax.rwth-aachen.de/manjaro/",
+      "size": "209914M"
     },
     {
       "cname": "rocky",
       "desc": "Rocky Linux",
       "url": "/rocky",
-      "status": "S1704273139",
+      "status": "S1707816203",
       "help": "https://help.mirrors.cernet.edu.cn/rocky/?mirror=SDU",
-      "upstream": "rsync://3.20.117.159/rocky-linux",
-      "size": "616699M"
+      "upstream": "rsync://msync.rockylinux.org/rocky-linux",
+      "size": "705219M"
     },
     {
       "cname": "termux",
       "desc": "Termux",
       "url": "/termux",
-      "status": "S1704287060",
+      "status": "S1707817454",
       "help": "https://help.mirrorz.org/termux/?mirror=SDU",
-      "upstream": "rsync://5.75.242.194/termux",
-      "size": "25707M"
+      "upstream": "rsync://packages.termux.dev/termux",
+      "size": "26187M"
     },
     {
       "cname": "ubuntu",
       "desc": "Ubuntu",
       "url": "/ubuntu",
-      "status": "S1704277492",
+      "status": "S1707820169",
       "help": "https://help.mirrors.cernet.edu.cn/ubuntu/?mirror=SDU",
-      "upstream": "rsync://185.125.190.36/ubuntu/",
-      "size": "2454063M"
+      "upstream": "rsync://archive.ubuntu.com/ubuntu/",
+      "size": "2536546M"
     },
     {
       "cname": "ubuntu-releases",
       "desc": "Ubuntu - CD Images",
       "url": "/ubuntu-releases",
-      "status": "S1704273284",
+      "status": "S1707829214",
       "help": "",
-      "upstream": "rsync://91.189.91.123/releases/",
-      "size": "39770M"
+      "upstream": "rsync://releases.ubuntu.com/releases/",
+      "size": "32246M"
     }
   ],
   "extension": "D",

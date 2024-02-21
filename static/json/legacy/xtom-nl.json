@@ -13,8 +13,8 @@
       "distro": "archlinux",
       "urls": [
         {
-          "name": "2024.01.01 (x86_64, CLI-only)",
-          "url": "/archlinux/iso/latest/archlinux-2024.01.01-x86_64.iso"
+          "name": "2024.02.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/latest/archlinux-2024.02.01-x86_64.iso"
         }
       ],
       "category": "os"
@@ -37,44 +37,44 @@
       "distro": "debian",
       "urls": [
         {
-          "name": "12.4.0 (amd64, DVD installer)",
-          "url": "/debian-cd/current/amd64/iso-dvd/debian-12.4.0-amd64-DVD-1.iso"
+          "name": "12.5.0 (amd64, DVD installer)",
+          "url": "/debian-cd/current/amd64/iso-dvd/debian-12.5.0-amd64-DVD-1.iso"
         },
         {
-          "name": "12.4.0 (i386, DVD installer)",
-          "url": "/debian-cd/current/i386/iso-dvd/debian-12.4.0-i386-DVD-1.iso"
+          "name": "12.5.0 (i386, DVD installer)",
+          "url": "/debian-cd/current/i386/iso-dvd/debian-12.5.0-i386-DVD-1.iso"
         },
         {
-          "name": "12.4.0 (amd64, xfce live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-xfce.iso"
+          "name": "12.5.0 (amd64, xfce live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-xfce.iso"
         },
         {
-          "name": "12.4.0 (amd64, standard live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-standard.iso"
+          "name": "12.5.0 (amd64, standard live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-standard.iso"
         },
         {
-          "name": "12.4.0 (amd64, mate live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-mate.iso"
+          "name": "12.5.0 (amd64, mate live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-mate.iso"
         },
         {
-          "name": "12.4.0 (amd64, lxqt live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-lxqt.iso"
+          "name": "12.5.0 (amd64, lxqt live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso"
         },
         {
-          "name": "12.4.0 (amd64, lxde live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-lxde.iso"
+          "name": "12.5.0 (amd64, lxde live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxde.iso"
         },
         {
-          "name": "12.4.0 (amd64, kde live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-kde.iso"
+          "name": "12.5.0 (amd64, kde live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-kde.iso"
         },
         {
-          "name": "12.4.0 (amd64, gnome live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-gnome.iso"
+          "name": "12.5.0 (amd64, gnome live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-gnome.iso"
         },
         {
-          "name": "12.4.0 (amd64, cinnamon live)",
-          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.4.0-amd64-cinnamon.iso"
+          "name": "12.5.0 (amd64, cinnamon live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-cinnamon.iso"
         }
       ],
       "category": "os"
@@ -125,16 +125,16 @@
           "url": "/ubuntu-releases/mantic/ubuntu-23.10.1-desktop-amd64.iso"
         },
         {
-          "name": "23.04 (amd64, LiveCD)",
-          "url": "/ubuntu-releases/lunar/ubuntu-23.04-desktop-amd64.iso"
-        },
-        {
           "name": "22.04.3 (amd64, LiveCD)",
           "url": "/ubuntu-releases/jammy/ubuntu-22.04.3-desktop-amd64.iso"
         },
         {
           "name": "20.04.6 (amd64, LiveCD)",
           "url": "/ubuntu-releases/focal/ubuntu-20.04.6-desktop-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, LiveCD)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-desktop-amd64.iso"
         }
       ],
       "category": "os"
@@ -144,7 +144,7 @@
     {
       "cname": "almalinux",
       "url": "/almalinux",
-      "status": "S1704193387X1704204180",
+      "status": "S1707649389X1707660180",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/almalinux",
       "desc": "",
       "size": "-0.00 MiB",
@@ -153,7 +153,7 @@
     {
       "cname": "alpine",
       "url": "/alpine",
-      "status": "S1704166571X1704252900",
+      "status": "S1707623147X1707708900",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/alpine",
       "desc": "",
       "size": "-0.00 MiB",
@@ -162,7 +162,7 @@
     {
       "cname": "anthon",
       "url": "/anthon",
-      "status": "S1704145849X1704231420",
+      "status": "S1707605742X1707687420",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/anthon",
       "desc": "",
       "size": "-0.00 MiB",
@@ -171,7 +171,7 @@
     {
       "cname": "archlinux",
       "url": "/archlinux",
-      "status": "S1704198603X1704202200",
+      "status": "S1707654604X1707658200",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/archlinux",
       "desc": "",
       "size": "-0.00 MiB",
@@ -180,7 +180,7 @@
     {
       "cname": "archlinuxcn",
       "url": "/archlinuxcn",
-      "status": "S1704199206X1704202800",
+      "status": "S1707655215X1707658800",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/archlinuxcn",
       "desc": "",
       "size": "-0.00 MiB",
@@ -189,7 +189,7 @@
     {
       "cname": "bioarchlinux",
       "url": "/bioarchlinux",
-      "status": "S1704180122X1704266520",
+      "status": "S1707636123X1707722520",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/bioarchlinux",
       "desc": "",
       "size": "-0.00 MiB",
@@ -198,7 +198,7 @@
     {
       "cname": "centos",
       "url": "/centos",
-      "status": "S1704190627X1704205020",
+      "status": "S1707646627X1707661020",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/centos",
       "desc": "",
       "size": "-0.00 MiB",
@@ -207,7 +207,7 @@
     {
       "cname": "centos-altarch",
       "url": "/centos-altarch",
-      "status": "S1704193023X1704207420",
+      "status": "S1707649023X1707663420",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/centos-altarch",
       "desc": "",
       "size": "-0.00 MiB",
@@ -216,7 +216,7 @@
     {
       "cname": "centos-stream",
       "url": "/centos-stream",
-      "status": "S1704162013X1704248400",
+      "status": "S1707618080X1707704400",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/centos-stream",
       "desc": "",
       "size": "-0.00 MiB",
@@ -225,7 +225,7 @@
     {
       "cname": "debian",
       "url": "/debian",
-      "status": "S1704197102X1704203520",
+      "status": "S1707653131X1707659520",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/debian",
       "desc": "",
       "size": "-0.00 MiB",
@@ -234,7 +234,7 @@
     {
       "cname": "debian-archive",
       "url": "/debian-archive",
-      "status": "S1704173568X1704259920",
+      "status": "S1707629616X1707715920",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/debian-archive",
       "desc": "",
       "size": "-0.00 MiB",
@@ -243,7 +243,7 @@
     {
       "cname": "debian-cd",
       "url": "/debian-cd",
-      "status": "S1704162784X1704249180",
+      "status": "S1707620031X1707705180",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/debian-cd",
       "desc": "",
       "size": "-0.00 MiB",
@@ -252,7 +252,7 @@
     {
       "cname": "debian-security",
       "url": "/debian-security",
-      "status": "S1704174170X1704260400",
+      "status": "S1707630025X1707716400",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/debian-security",
       "desc": "",
       "size": "-0.00 MiB",
@@ -261,7 +261,7 @@
     {
       "cname": "deepin",
       "url": "/deepin",
-      "status": "S1704165659X1704252000",
+      "status": "S1707622101X1707708000",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/deepin",
       "desc": "",
       "size": "-0.00 MiB",
@@ -270,7 +270,7 @@
     {
       "cname": "docker-ce",
       "url": "/docker-ce",
-      "status": "S1704173482X1704259800",
+      "status": "S1707629445X1707715800",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/docker-ce",
       "desc": "",
       "size": "-0.00 MiB",
@@ -279,7 +279,7 @@
     {
       "cname": "epel",
       "url": "/epel",
-      "status": "S1704172914X1704258720",
+      "status": "F1707628320O1707116813X1707714720",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/epel",
       "desc": "",
       "size": "-0.00 MiB",
@@ -288,7 +288,7 @@
     {
       "cname": "fedora",
       "url": "/fedora",
-      "status": "S1704171950X1704257760",
+      "status": "F1707627360O1707114012X1707713760",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/fedora",
       "desc": "",
       "size": "-0.00 MiB",
@@ -297,7 +297,7 @@
     {
       "cname": "gentoo",
       "url": "/gentoo",
-      "status": "S1704158557X1704229860",
+      "status": "F1707599460O1707000189X1707685860",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/gentoo",
       "desc": "",
       "size": "-0.00 MiB",
@@ -306,7 +306,7 @@
     {
       "cname": "kde",
       "url": "/kde",
-      "status": "S1704194522X1704201720",
+      "status": "S1707650522X1707657720",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/kde",
       "desc": "",
       "size": "-0.00 MiB",
@@ -315,7 +315,7 @@
     {
       "cname": "kde-application",
       "url": "/kde-application",
-      "status": "S1704195874X1704203040",
+      "status": "S1707651844X1707659040",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/kde-application",
       "desc": "",
       "size": "-0.00 MiB",
@@ -324,7 +324,7 @@
     {
       "cname": "m.ac",
       "url": "/m.ac",
-      "status": "S1704198242X1704201840",
+      "status": "S1707654242X1707657840",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/m.ac",
       "desc": "",
       "size": "-0.00 MiB",
@@ -333,7 +333,7 @@
     {
       "cname": "manjaro",
       "url": "/manjaro",
-      "status": "S1704171401X1704257760",
+      "status": "S1707627923X1707713760",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/manjaro",
       "desc": "",
       "size": "-0.00 MiB",
@@ -342,7 +342,7 @@
     {
       "cname": "mariadb",
       "url": "/mariadb",
-      "status": "S1704170406X1704256800",
+      "status": "S1707626437X1707712800",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/mariadb",
       "desc": "",
       "size": "-0.00 MiB",
@@ -351,7 +351,7 @@
     {
       "cname": "nginx",
       "url": "/nginx",
-      "status": "F1704173100O1696911907X1704259500",
+      "status": "F1707629100O1696911907X1707715500",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/nginx",
       "desc": "",
       "size": "-0.00 MiB",
@@ -360,7 +360,7 @@
     {
       "cname": "percona",
       "url": "/percona",
-      "status": "S1704166826X1704253080",
+      "status": "S1707622919X1707709080",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/percona",
       "desc": "",
       "size": "-0.00 MiB",
@@ -369,7 +369,7 @@
     {
       "cname": "postgresql",
       "url": "/postgresql",
-      "status": "S1704171347X1704257700",
+      "status": "S1707627528X1707713700",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/postgresql",
       "desc": "",
       "size": "-0.00 MiB",
@@ -378,7 +378,7 @@
     {
       "cname": "powerdns",
       "url": "/powerdns",
-      "status": "F1704162780O1696469584X1704249180",
+      "status": "F1707618780O1696469584X1707705180",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/powerdns",
       "desc": "",
       "size": "-0.00 MiB",
@@ -387,7 +387,7 @@
     {
       "cname": "proxmox",
       "url": "/proxmox",
-      "status": "S1704161614X1704247920",
+      "status": "S1707617619X1707703920",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/proxmox",
       "desc": "",
       "size": "-0.00 MiB",
@@ -396,7 +396,7 @@
     {
       "cname": "putty",
       "url": "/putty",
-      "status": "S1704162480X1704248880",
+      "status": "S1707618481X1707704880",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/putty",
       "desc": "",
       "size": "-0.00 MiB",
@@ -405,7 +405,7 @@
     {
       "cname": "rocky",
       "url": "/rocky",
-      "status": "S1704192197X1704206580",
+      "status": "S1707648208X1707662580",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/rocky",
       "desc": "",
       "size": "-0.00 MiB",
@@ -414,7 +414,7 @@
     {
       "cname": "sb",
       "url": "/sb",
-      "status": "S1704156308X1704242700",
+      "status": "S1707612304X1707698700",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/sb",
       "desc": "",
       "size": "-0.00 MiB",
@@ -423,7 +423,7 @@
     {
       "cname": "solusvm",
       "url": "/solusvm",
-      "status": "S1704172321X1704258720",
+      "status": "S1707628321X1707714720",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/solusvm",
       "desc": "",
       "size": "-0.00 MiB",
@@ -432,7 +432,7 @@
     {
       "cname": "sury",
       "url": "/sury",
-      "status": "S1704171302X1704257700",
+      "status": "S1707627322X1707713700",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/sury",
       "desc": "",
       "size": "-0.00 MiB",
@@ -441,7 +441,7 @@
     {
       "cname": "ubuntu",
       "url": "/ubuntu",
-      "status": "S1704180988X1704202080",
+      "status": "S1707636919X1707658080",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu",
       "desc": "",
       "size": "-0.00 MiB",
@@ -450,7 +450,7 @@
     {
       "cname": "ubuntu-ports",
       "url": "/ubuntu-ports",
-      "status": "S1704173185X1704259320",
+      "status": "S1707629174X1707715320",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu-ports",
       "desc": "",
       "size": "-0.00 MiB",
@@ -459,7 +459,7 @@
     {
       "cname": "ubuntu-releases",
       "url": "/ubuntu-releases",
-      "status": "S1704195421X1704217020",
+      "status": "S1707651421X1707673020",
       "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu-releases",
       "desc": "",
       "size": "-0.00 MiB",
