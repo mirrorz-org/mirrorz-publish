@@ -1,6 +1,6 @@
 frontend: 4f4fd76 Bump some dependencies
 config: bb8eb42 Add lzu to mirrorz.d
-parser: 0791d77 Do parser dependencies installation within the repo
+parser: 52d211d Add package-lock.json
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: af66167 Delete cqupt.json (#6)
 json_legacy: 2024-02-20T13:21:44.108Z
