@@ -1,4 +1,4 @@
-frontend: 971b868 Replace deprecated wiki link
+frontend: a36d3bb feat: more detailed warning in MirrorzLoader
 config: bb8eb42 Add lzu to mirrorz.d
 parser: 52d211d Add package-lock.json
 i18n: fc9633e Add dependencies for speedtest scripts
