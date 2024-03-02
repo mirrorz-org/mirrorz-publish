@@ -1,0 +1,366 @@
+{
+  "version": 1.7,
+  "site": {
+    "url": "https://mirrors.sdu.edu.cn",
+    "logo": "https://mirrors.sdu.edu.cn/favicon.svg",
+    "logo_darkmode": "https://mirrors.sdu.edu.cn/favicon.svg",
+    "abbr": "SDU",
+    "name": "山东大学镜像站",
+    "issue": "https://github.com/SDU-Mirrors/issues/issues",
+    "request": "https://github.com/SDU-Mirrors/issues/issues",
+    "group": "QQ Group 782809018",
+    "disk": "5.5TB/47.1TB",
+    "note": "",
+    "big": "/archlinux/iso/latest/arch/x86_64/airootfs.sfs",
+    "disable": false
+  },
+  "info": [
+    {
+      "distro": "archlinux",
+      "category": "os",
+      "urls": [
+        {
+          "name": "2024.02.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/latest/archlinux-2024.02.01-x86_64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "debian",
+      "category": "os",
+      "urls": [
+        {
+          "name": "12.5.0 (i386, Network installer)",
+          "url": "/debian-iso/current/i386/iso-cd/debian-12.5.0-i386-netinst.iso"
+        },
+        {
+          "name": "12.5.0 (i386, DVD installer (Part 1))",
+          "url": "/debian-iso/current/i386/iso-dvd/debian-12.5.0-i386-DVD-1.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Network installer)",
+          "url": "/debian-iso/current/amd64/iso-cd/debian-12.5.0-amd64-netinst.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with xfce)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-xfce.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with standard)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-standard.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with mate)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-mate.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with lxqt)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with lxde)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxde.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with kde)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-kde.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with gnome)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-gnome.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with cinnamon)",
+          "url": "/debian-iso/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-cinnamon.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, DVD installer (Part 1))",
+          "url": "/debian-iso/current/amd64/iso-dvd/debian-12.5.0-amd64-DVD-1.iso"
+        }
+      ]
+    },
+    {
+      "distro": "RHEL 衍生版",
+      "category": "os",
+      "urls": [
+        {
+          "name": "9.3 (x86_64, minimal)",
+          "url": "/rocky/9.3/isos/x86_64/Rocky-9.3-x86_64-minimal.iso"
+        },
+        {
+          "name": "9.3 (x86_64, dvd)",
+          "url": "/rocky/9.3/isos/x86_64/Rocky-9.3-x86_64-dvd.iso"
+        },
+        {
+          "name": "9.3 (x86_64, boot)",
+          "url": "/rocky/9.3/isos/x86_64/Rocky-9.3-x86_64-boot.iso"
+        },
+        {
+          "name": "9.3 (s390x, minimal)",
+          "url": "/rocky/9.3/isos/s390x/Rocky-9.3-s390x-minimal.iso"
+        },
+        {
+          "name": "9.3 (s390x, dvd)",
+          "url": "/rocky/9.3/isos/s390x/Rocky-9.3-s390x-dvd.iso"
+        },
+        {
+          "name": "9.3 (s390x, boot)",
+          "url": "/rocky/9.3/isos/s390x/Rocky-9.3-s390x-boot.iso"
+        },
+        {
+          "name": "9.3 (ppc64le, minimal)",
+          "url": "/rocky/9.3/isos/ppc64le/Rocky-9.3-ppc64le-minimal.iso"
+        },
+        {
+          "name": "9.3 (ppc64le, dvd)",
+          "url": "/rocky/9.3/isos/ppc64le/Rocky-9.3-ppc64le-dvd.iso"
+        },
+        {
+          "name": "9.3 (ppc64le, boot)",
+          "url": "/rocky/9.3/isos/ppc64le/Rocky-9.3-ppc64le-boot.iso"
+        },
+        {
+          "name": "9.3 (aarch64, minimal)",
+          "url": "/rocky/9.3/isos/aarch64/Rocky-9.3-aarch64-minimal.iso"
+        },
+        {
+          "name": "9.3 (aarch64, dvd)",
+          "url": "/rocky/9.3/isos/aarch64/Rocky-9.3-aarch64-dvd.iso"
+        },
+        {
+          "name": "9.3 (aarch64, boot)",
+          "url": "/rocky/9.3/isos/aarch64/Rocky-9.3-aarch64-boot.iso"
+        },
+        {
+          "name": "8.9 (x86_64, minimal)",
+          "url": "/rocky/8.9/isos/x86_64/Rocky-8.9-x86_64-minimal.iso"
+        },
+        {
+          "name": "8.9 (x86_64, dvd1)",
+          "url": "/rocky/8.9/isos/x86_64/Rocky-8.9-x86_64-dvd1.iso"
+        },
+        {
+          "name": "8.9 (x86_64, boot)",
+          "url": "/rocky/8.9/isos/x86_64/Rocky-8.9-x86_64-boot.iso"
+        },
+        {
+          "name": "8.9 (aarch64, minimal)",
+          "url": "/rocky/8.9/isos/aarch64/Rocky-8.9-aarch64-minimal.iso"
+        },
+        {
+          "name": "8.9 (aarch64, dvd1)",
+          "url": "/rocky/8.9/isos/aarch64/Rocky-8.9-aarch64-dvd1.iso"
+        },
+        {
+          "name": "8.9 (aarch64, boot)",
+          "url": "/rocky/8.9/isos/aarch64/Rocky-8.9-aarch64-boot.iso"
+        }
+      ]
+    },
+    {
+      "distro": "TeX 排版系统",
+      "category": "app",
+      "urls": [
+        {
+          "name": "TeX Live 2023 (Windows & Linux)",
+          "url": "/CTAN/systems/texlive/Images/texlive2023-20230313.iso"
+        },
+        {
+          "name": "MikTeX 24.1 (Windows, x64)",
+          "url": "/CTAN/systems/win32/miktex/setup/windows-x64/basic-miktex-24.1-x64.exe"
+        },
+        {
+          "name": "MikTeX 22.1 (macOS, x86_64)",
+          "url": "/CTAN/systems/win32/miktex/setup/darwin-x86_64/miktex-22.1-darwin-x86_64.dmg"
+        },
+        {
+          "name": "MacTeX 20230314 (macOS)",
+          "url": "/CTAN/systems/mac/mactex/mactex-20230314.pkg"
+        }
+      ]
+    },
+    {
+      "distro": "ubuntu",
+      "category": "os",
+      "urls": [
+        {
+          "name": "23.10.1 (amd64, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/mantic/ubuntu-23.10.1-desktop-amd64.iso"
+        },
+        {
+          "name": "23.10 (amd64, Server)",
+          "url": "/ubuntu-releases/mantic/ubuntu-23.10-live-server-amd64.iso"
+        },
+        {
+          "name": "22.04.4 (amd64, Server)",
+          "url": "/ubuntu-releases/jammy/ubuntu-22.04.4-live-server-amd64.iso"
+        },
+        {
+          "name": "22.04.4 (amd64, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/jammy/ubuntu-22.04.4-desktop-amd64.iso"
+        },
+        {
+          "name": "20.04.6 (amd64, Server)",
+          "url": "/ubuntu-releases/focal/ubuntu-20.04.6-live-server-amd64.iso"
+        },
+        {
+          "name": "20.04.6 (amd64, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/focal/ubuntu-20.04.6-desktop-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, Server)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-live-server-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-desktop-amd64.iso"
+        },
+        {
+          "name": "16.04.7 (amd64, Server)",
+          "url": "/ubuntu-releases/xenial/ubuntu-16.04.7-server-amd64.iso"
+        },
+        {
+          "name": "16.04.6 (i386, Server)",
+          "url": "/ubuntu-releases/xenial/ubuntu-16.04.6-server-i386.iso"
+        },
+        {
+          "name": "14.04.6 (i386, Server)",
+          "url": "/ubuntu-releases/trusty/ubuntu-14.04.6-server-i386.iso"
+        },
+        {
+          "name": "14.04.6 (amd64, Server)",
+          "url": "/ubuntu-releases/trusty/ubuntu-14.04.6-server-amd64.iso"
+        }
+      ]
+    }
+  ],
+  "mirrors": [
+    {
+      "cname": "archlinux",
+      "desc": "Arch Linux",
+      "url": "/archlinux",
+      "status": "S1708863930",
+      "help": "/docs/guide/ArchLinux",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinux",
+      "size": "98433M"
+    },
+    {
+      "cname": "bioarchlinux",
+      "desc": "BioArchLinux",
+      "url": "/bioarchlinux",
+      "status": "S1708854627",
+      "help": "",
+      "upstream": "bioarchlinux.org::sync",
+      "size": "36159M"
+    },
+    {
+      "cname": "CTAN",
+      "desc": "Comprehensive TEX Archive Network",
+      "url": "/CTAN",
+      "status": "S1708852818",
+      "help": "https://help.mirrorz.org/CTAN/?mirror=SDU",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/CTAN",
+      "size": "55484M"
+    },
+    {
+      "cname": "debian",
+      "desc": "Debian",
+      "url": "/debian",
+      "status": "S1708863930",
+      "help": "/docs/guide/Debian",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian",
+      "size": "1240381M"
+    },
+    {
+      "cname": "debian-iso",
+      "desc": "Debian - CD Images",
+      "url": "/debian-iso",
+      "status": "S1708856121",
+      "help": "",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-cd",
+      "size": "220883M"
+    },
+    {
+      "cname": "debian-security",
+      "desc": "Debian - Security Updates",
+      "url": "/debian-security",
+      "status": "S1708860326",
+      "help": "/docs/guide/Debian",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-security",
+      "size": "118247M"
+    },
+    {
+      "cname": "github-release",
+      "desc": "常用 GitHub 软件",
+      "url": "/github-release",
+      "status": "S1708832977",
+      "help": "https://github.com/SDU-Mirrors/wonderful-github-releases",
+      "upstream": "",
+      "size": "24411M"
+    },
+    {
+      "cname": "manjaro",
+      "desc": "Manjaro Linux",
+      "url": "/manjaro",
+      "status": "S1708863643",
+      "help": "https://help.mirrors.cernet.edu.cn/manjaro/?mirror=SDU",
+      "upstream": "rsync://ftp.halifax.rwth-aachen.de/manjaro/",
+      "size": "180929M"
+    },
+    {
+      "cname": "rocky",
+      "desc": "Rocky Linux",
+      "url": "/rocky",
+      "status": "S1708854334",
+      "help": "https://help.mirrors.cernet.edu.cn/rocky/?mirror=SDU",
+      "upstream": "rsync://msync.rockylinux.org/rocky-linux",
+      "size": "752567M"
+    },
+    {
+      "cname": "termux",
+      "desc": "Termux",
+      "url": "/termux",
+      "status": "S1708859433",
+      "help": "https://help.mirrorz.org/termux/?mirror=SDU",
+      "upstream": "rsync://packages.termux.dev/termux",
+      "size": "26292M"
+    },
+    {
+      "cname": "ubuntu",
+      "desc": "Ubuntu",
+      "url": "/ubuntu",
+      "status": "S1708865148",
+      "help": "https://help.mirrors.cernet.edu.cn/ubuntu/?mirror=SDU",
+      "upstream": "rsync://archive.ubuntu.com/ubuntu/",
+      "size": "2565031M"
+    },
+    {
+      "cname": "ubuntu-releases",
+      "desc": "Ubuntu - CD Images",
+      "url": "/ubuntu-releases",
+      "status": "S1708855520",
+      "help": "",
+      "upstream": "rsync://releases.ubuntu.com/releases/",
+      "size": "32199M"
+    }
+  ],
+  "extension": "D",
+  "endpoints": [
+    {
+      "label": "sdu",
+      "public": true,
+      "resolve": "mirrors.sdu.edu.cn",
+      "filter": [
+        "V4",
+        "V6",
+        "SSL",
+        "NOSSL"
+      ],
+      "range": [
+        "AS4538",
+        "AS23910",
+        "REGION:SD"
+      ]
+    }
+  ]
+}

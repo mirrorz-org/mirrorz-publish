@@ -1,0 +1,785 @@
+{
+  "site": {
+    "url": "https://mirrors.cqu.edu.cn",
+    "logo": "https://mirrors.cqu.edu.cn/static/img/favicon.png",
+    "abbr": "CQU",
+    "name": "重庆大学开源软件镜像站",
+    "homepage": "https://mirrors.cqu.edu.cn",
+    "email": "cqumirror (at) gmail dot com",
+    "issue": "https://github.com/cqumirror/feedback",
+    "request": "https://github.com/cqumirror/feedback",
+    "group": "Telegram @cqumirror",
+    "big": "/speedtest/1000mb.bin"
+  },
+  "info": [
+    {
+      "distro": "alpine",
+      "category": "os",
+      "urls": [
+        {
+          "name": "3.19.0 (aarch64, standard)",
+          "url": "/alpine/latest-stable/releases/aarch64/alpine-standard-3.19.0-aarch64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "archlinux",
+      "category": "os",
+      "urls": [
+        {
+          "name": "2024.02.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/latest/archlinux-2024.02.01-x86_64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "centos",
+      "category": "os",
+      "urls": [
+        {
+          "name": "7 (x86_64, DVD)",
+          "url": "/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso"
+        },
+        {
+          "name": "7 (x86_64, Everything)",
+          "url": "/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-Everything-2009.iso"
+        },
+        {
+          "name": "7 (x86_64, Minimal)",
+          "url": "/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-Minimal-2009.iso"
+        },
+        {
+          "name": "7 (x86_64, NetInstall)",
+          "url": "/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-NetInstall-2009.iso"
+        }
+      ]
+    },
+    {
+      "distro": "debian",
+      "category": "os",
+      "urls": [
+        {
+          "name": "12.5.0 (amd64, DVD installer (Part 1))",
+          "url": "/debian-cd/current/amd64/iso-dvd/debian-12.5.0-amd64-DVD-1.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with cinnamon)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-cinnamon.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with gnome)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-gnome.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with kde)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-kde.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with lxde)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxde.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with lxqt)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with mate)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-mate.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with standard)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-standard.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Live CD with xfce)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-xfce.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, Network installer)",
+          "url": "/debian-cd/current/amd64/iso-cd/debian-12.5.0-amd64-netinst.iso"
+        },
+        {
+          "name": "12.5.0 (i386, DVD installer (Part 1))",
+          "url": "/debian-cd/current/i386/iso-dvd/debian-12.5.0-i386-DVD-1.iso"
+        },
+        {
+          "name": "12.5.0 (i386, Network installer)",
+          "url": "/debian-cd/current/i386/iso-cd/debian-12.5.0-i386-netinst.iso"
+        }
+      ]
+    },
+    {
+      "distro": "deepin",
+      "category": "os",
+      "urls": [
+        {
+          "name": "20 (amd64, desktop-community-1002)",
+          "url": "/deepin-cd/20/deepin-desktop-community-1002-amd64.iso"
+        },
+        {
+          "name": "20 (amd64, desktop-community-1003)",
+          "url": "/deepin-cd/20/deepin-desktop-community-1003-amd64.iso"
+        },
+        {
+          "name": "20.2.1 (amd64, desktop-community-20.2.1)",
+          "url": "/deepin-cd/20.2.1/deepin-desktop-community-20.2.1-amd64.iso"
+        },
+        {
+          "name": "20.2.2 (amd64, desktop-community-20.2.2)",
+          "url": "/deepin-cd/20.2.2/deepin-desktop-community-20.2.2-amd64.iso"
+        },
+        {
+          "name": "20.3 (amd64, desktop-community-20.3)",
+          "url": "/deepin-cd/20.3/deepin-desktop-community-20.3-amd64.iso"
+        },
+        {
+          "name": "20.4 (amd64, desktop-community-20.4)",
+          "url": "/deepin-cd/20.4/deepin-desktop-community-20.4-amd64.iso"
+        },
+        {
+          "name": "20.7 (amd64, desktop-community-20.7)",
+          "url": "/deepin-cd/20.7/deepin-desktop-community-20.7-amd64.iso"
+        },
+        {
+          "name": "20.9 (amd64, desktop-community-20.9)",
+          "url": "/deepin-cd/20.9/deepin-desktop-community-20.9-amd64.iso"
+        },
+        {
+          "name": "23-Alpha (amd64, desktop-community-23-Alpha)",
+          "url": "/deepin-cd/23-Alpha/deepin-desktop-community-23-Alpha-amd64.iso"
+        },
+        {
+          "name": "23-Beta (amd64, desktop-community-23-Beta)",
+          "url": "/deepin-cd/23-Beta/deepin-desktop-community-23-Beta-amd64.iso"
+        },
+        {
+          "name": "23-Beta3 (amd64, desktop-community-23-Beta3)",
+          "url": "/deepin-cd/23-Beta3/deepin-desktop-community-23-Beta3-amd64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "fedora",
+      "category": "os",
+      "urls": [
+        {
+          "name": "37 (x86_64, Workstation)",
+          "url": "/fedora/releases/37/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-37-1.7.iso"
+        },
+        {
+          "name": "37 (aarch64, Workstation)",
+          "url": "/fedora/releases/37/Workstation/aarch64/iso/Fedora-Workstation-Live-aarch64-37-1.7.iso"
+        },
+        {
+          "name": "39 (x86_64, Workstation)",
+          "url": "/fedora/releases/39/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-39-1.5.iso"
+        }
+      ]
+    },
+    {
+      "distro": "kali",
+      "category": "os",
+      "urls": [
+        {
+          "name": "2024.1 (amd64, installer)",
+          "url": "/kali-images/current/kali-linux-2024.1-installer-amd64.iso"
+        },
+        {
+          "name": "2024.1 (amd64, installer-netinst)",
+          "url": "/kali-images/current/kali-linux-2024.1-installer-netinst-amd64.iso"
+        },
+        {
+          "name": "2024.1 (amd64, installer-purple)",
+          "url": "/kali-images/current/kali-linux-2024.1-installer-purple-amd64.iso"
+        },
+        {
+          "name": "2024.1 (amd64, live)",
+          "url": "/kali-images/current/kali-linux-2024.1-live-amd64.iso"
+        },
+        {
+          "name": "2024.1 (i386, installer)",
+          "url": "/kali-images/current/kali-linux-2024.1-installer-i386.iso"
+        },
+        {
+          "name": "2024.1 (i386, installer-netinst)",
+          "url": "/kali-images/current/kali-linux-2024.1-installer-netinst-i386.iso"
+        },
+        {
+          "name": "2024.1 (i386, live)",
+          "url": "/kali-images/current/kali-linux-2024.1-live-i386.iso"
+        },
+        {
+          "name": "2024.1 (arm64, installer)",
+          "url": "/kali-images/current/kali-linux-2024.1-installer-arm64.iso"
+        },
+        {
+          "name": "2024.1 (arm64, installer-netinst)",
+          "url": "/kali-images/current/kali-linux-2024.1-installer-netinst-arm64.iso"
+        },
+        {
+          "name": "2024.1 (arm64, live)",
+          "url": "/kali-images/current/kali-linux-2024.1-live-arm64.iso"
+        }
+      ]
+    },
+    {
+      "distro": "KiCad",
+      "category": "app",
+      "urls": [
+        {
+          "name": "5.1.5_1 (Windows, x86_64)",
+          "url": "/kicad/windows/stable/kicad-5.1.5_1-x86_64.exe"
+        },
+        {
+          "name": "5.1.6-0-10_14 (macOS, x86_64)",
+          "url": "/kicad/osx/stable/kicad-unified-5.1.6-0-10_14.dmg"
+        },
+        {
+          "name": "5.1.9-0-10_14 (macOS, x86_64)",
+          "url": "/kicad/osx/stable/kicad-unified-5.1.9-0-10_14.dmg"
+        },
+        {
+          "name": "6.0.4-0 (macOS, x86_64)",
+          "url": "/kicad/osx/stable/kicad-unified-6.0.4-0.dmg"
+        },
+        {
+          "name": "6.0.5 (Windows, i686)",
+          "url": "/kicad/windows/stable/kicad-6.0.5-i686.exe"
+        },
+        {
+          "name": "6.0.6-1 (macOS, x86_64)",
+          "url": "/kicad/osx/stable/kicad-unified-6.0.6-1.dmg"
+        }
+      ]
+    },
+    {
+      "distro": "opensuse",
+      "category": "os",
+      "urls": [
+        {
+          "name": "Tumbleweed (x86_64, DVD)",
+          "url": "/opensuse/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso"
+        },
+        {
+          "name": "Tumbleweed (x86_64, GNOME-Live)",
+          "url": "/opensuse/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso"
+        },
+        {
+          "name": "Tumbleweed (x86_64, KDE-Live)",
+          "url": "/opensuse/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-x86_64-Current.iso"
+        }
+      ]
+    },
+    {
+      "distro": "TeX 排版系统",
+      "category": "app",
+      "urls": [
+        {
+          "name": "MacTeX 20230314 (macOS)",
+          "url": "/CTAN/systems/mac/mactex/mactex-20230314.pkg"
+        },
+        {
+          "name": "MikTeX 22.1 (macOS, x86_64)",
+          "url": "/CTAN/systems/win32/miktex/setup/darwin-x86_64/miktex-22.1-darwin-x86_64.dmg"
+        },
+        {
+          "name": "MikTeX 23.10 (Windows, x64)",
+          "url": "/CTAN/systems/win32/miktex/setup/windows-x64/basic-miktex-23.10-x64.exe"
+        },
+        {
+          "name": "TeX Live 2023 (Windows & Linux)",
+          "url": "/CTAN/systems/texlive/Images/texlive2023-20230313.iso"
+        }
+      ]
+    },
+    {
+      "distro": "ubuntu",
+      "category": "os",
+      "urls": [
+        {
+          "name": "14.04.6 (amd64, Server)",
+          "url": "/ubuntu-releases/trusty/ubuntu-14.04.6-server-amd64.iso"
+        },
+        {
+          "name": "14.04.6 (i386, Server)",
+          "url": "/ubuntu-releases/trusty/ubuntu-14.04.6-server-i386.iso"
+        },
+        {
+          "name": "16.04.6 (i386, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/xenial/ubuntu-16.04.6-desktop-i386.iso"
+        },
+        {
+          "name": "16.04.6 (i386, Server)",
+          "url": "/ubuntu-releases/xenial/ubuntu-16.04.6-server-i386.iso"
+        },
+        {
+          "name": "16.04.7 (amd64, Server)",
+          "url": "/ubuntu-releases/xenial/ubuntu-16.04.7-server-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-desktop-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, Server)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-live-server-amd64.iso"
+        },
+        {
+          "name": "20.04.6 (amd64, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/focal/ubuntu-20.04.6-desktop-amd64.iso"
+        },
+        {
+          "name": "20.04.6 (amd64, Server)",
+          "url": "/ubuntu-releases/focal/ubuntu-20.04.6-live-server-amd64.iso"
+        },
+        {
+          "name": "22.04.4 (amd64, Server)",
+          "url": "/ubuntu-releases/jammy/ubuntu-22.04.4-live-server-amd64.iso"
+        },
+        {
+          "name": "23.10 (amd64, Server)",
+          "url": "/ubuntu-releases/mantic/ubuntu-23.10-live-server-amd64.iso"
+        },
+        {
+          "name": "23.10.1 (amd64, Desktop LiveDVD)",
+          "url": "/ubuntu-releases/mantic/ubuntu-23.10.1-desktop-amd64.iso"
+        },
+        {
+          "name": "bionic-proposed (amd64, network installer directory)",
+          "url": "/ubuntu/dists/bionic-proposed/main/installer-amd64/current/images/netboot"
+        },
+        {
+          "name": "bionic-proposed (i386, network installer directory)",
+          "url": "/ubuntu/dists/bionic-proposed/main/installer-i386/current/images/netboot"
+        },
+        {
+          "name": "trusty (amd64, network installer directory)",
+          "url": "/ubuntu/dists/trusty/main/installer-amd64/current/images/netboot"
+        },
+        {
+          "name": "trusty (i386, network installer directory)",
+          "url": "/ubuntu/dists/trusty/main/installer-i386/current/images/netboot"
+        },
+        {
+          "name": "trusty-updates (amd64, network installer directory)",
+          "url": "/ubuntu/dists/trusty-updates/main/installer-amd64/current/images/netboot"
+        },
+        {
+          "name": "trusty-updates (i386, network installer directory)",
+          "url": "/ubuntu/dists/trusty-updates/main/installer-i386/current/images/netboot"
+        }
+      ]
+    }
+  ],
+  "mirrors": [
+    {
+      "cname": "alpine",
+      "options_name": "alpine",
+      "url": "/alpine",
+      "status": "S1709123096X1709128436",
+      "upstream": "rsync://rsync.alpinelinux.org/alpine/",
+      "size": "2.36T"
+    },
+    {
+      "cname": "archlinux",
+      "options_name": "archlinux",
+      "url": "/archlinux",
+      "status": "S1709123580X1709128920",
+      "upstream": "rsync://america.mirror.pkgbuild.com/packages/",
+      "size": "102.40G"
+    },
+    {
+      "cname": "archlinuxcn",
+      "options_name": "archlinuxcn",
+      "url": "/archlinuxcn",
+      "status": "S1709121518X1709126858",
+      "upstream": "rsync://sync.repo.archlinuxcn.org/repo/",
+      "size": "unknown"
+    },
+    {
+      "cname": "centos",
+      "options_name": "centos",
+      "url": "/centos",
+      "status": "S1709122931X1709128271",
+      "upstream": "rsync://ftp.osuosl.org/centos/",
+      "size": "unknown"
+    },
+    {
+      "cname": "ceph",
+      "options_name": "ceph",
+      "url": "/ceph",
+      "status": "S1709121152X1709126492",
+      "upstream": "rsync://download.ceph.com/ceph/",
+      "size": "277.24G"
+    },
+    {
+      "cname": "CPAN",
+      "options_name": "CPAN",
+      "url": "/CPAN",
+      "status": "S1709121897X1709127237",
+      "upstream": "rsync://cpan-rsync.perl.org/CPAN/",
+      "size": "32.65G"
+    },
+    {
+      "cname": "CRAN",
+      "options_name": "CRAN",
+      "url": "/CRAN",
+      "status": "Y1707108484O1707103142",
+      "upstream": "https://cran.r-project.org",
+      "size": "unknown"
+    },
+    {
+      "cname": "crates.io-index",
+      "options_name": "crates.io-index",
+      "url": "/crates.io-index",
+      "status": "S1709122825X1709128165",
+      "upstream": "https://github.com/rust-lang/crates.io-index.git",
+      "size": "unknown"
+    },
+    {
+      "cname": "CTAN",
+      "options_name": "CTAN",
+      "url": "/CTAN",
+      "status": "S1709121709X1709127049",
+      "upstream": "rsync://rsync.dante.ctan.org/CTAN/",
+      "size": "57.29G"
+    },
+    {
+      "cname": "cygwin",
+      "options_name": "cygwin",
+      "url": "/cygwin",
+      "status": "S1709122963X1709128303",
+      "upstream": "rsync://rsync.osuosl.org/cygwin/",
+      "size": "111.00G"
+    },
+    {
+      "cname": "deb-multimedia",
+      "options_name": "debian-multimedia",
+      "url": "/debian-multimedia",
+      "status": "S1709124080X1709129420",
+      "upstream": "rsync://mirror.mephi.ru/debian-multimedia/",
+      "size": "15.14G"
+    },
+    {
+      "cname": "debian",
+      "options_name": "debian",
+      "url": "/debian",
+      "status": "S1709121773X1709127113",
+      "upstream": "rsync://mirrors.ustc.edu.cn/debian/",
+      "size": "2.12T"
+    },
+    {
+      "cname": "debian-cd",
+      "options_name": "debian-cd",
+      "url": "/debian-cd",
+      "status": "S1709123586X1709128926",
+      "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-cd/",
+      "size": "231.61G"
+    },
+    {
+      "cname": "debian-security",
+      "options_name": "debian-security",
+      "url": "/debian-security",
+      "status": "S1709121134X1709126474",
+      "upstream": "rsync://rsync.security.debian.org/debian-security/",
+      "size": "195.55G"
+    },
+    {
+      "cname": "deepin",
+      "options_name": "deepin",
+      "url": "/deepin",
+      "status": "Y1709107175O1709100269",
+      "upstream": "rsync://rsync.deepin.com/deepin/",
+      "size": "674.36G"
+    },
+    {
+      "cname": "deepin-cd",
+      "options_name": "deepin-cd",
+      "url": "/deepin-cd",
+      "status": "S1709124089X1709129429",
+      "upstream": "rsync://rsync.deepin.com/releases/",
+      "size": "unknown"
+    },
+    {
+      "cname": "epel",
+      "options_name": "epel",
+      "url": "/epel",
+      "status": "S1709122771X1709128111",
+      "upstream": "rsync://dl.fedoraproject.org/fedora-epel",
+      "size": "unknown"
+    },
+    {
+      "cname": "fedora",
+      "options_name": "fedora",
+      "url": "/fedora",
+      "status": "S1709123222X1709128562",
+      "upstream": "rsync://ftp.linux.cz/pub/linux/fedora/linux/",
+      "size": "unknown"
+    },
+    {
+      "cname": "gentoo-portage.git",
+      "options_name": "gentoo-portage.git",
+      "url": "/git/gentoo-portage.git",
+      "status": "S1709123469X1709128809",
+      "upstream": "rsync://rsync.jp.gentoo.org/gentoo-portage/",
+      "size": "unknown"
+    },
+    {
+      "cname": "gentoo-zh.git",
+      "options_name": "gentoo-zh.git",
+      "url": "/git/gentoo-zh.git",
+      "status": "S1709123488X1709128828",
+      "upstream": "https://github.com/microcai/gentoo-zh",
+      "size": "unknown"
+    },
+    {
+      "cname": "gnu",
+      "options_name": "gnu",
+      "url": "/gnu",
+      "status": "S1709121115X1709126455",
+      "upstream": "rsync://mirrors.ocf.berkeley.edu/gnu/",
+      "size": "177.69G"
+    },
+    {
+      "cname": "hackage",
+      "options_name": "hackage",
+      "url": "/hackage",
+      "status": "S1709123487X1709128827",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/hackage/",
+      "size": "17.18G"
+    },
+    {
+      "cname": "homebrew",
+      "options_name": "homebrew",
+      "url": "/homebrew",
+      "status": "S1709123619X1709128959",
+      "upstream": "https://github.com/Homebrew/homebrew-core.git",
+      "size": "unknown"
+    },
+    {
+      "cname": "kali",
+      "options_name": "kali",
+      "url": "/kali",
+      "status": "S1709123967X1709129307",
+      "upstream": "rsync://repo.jing.rocks/kali/",
+      "size": "878.85G"
+    },
+    {
+      "cname": "kali-images",
+      "options_name": "kali-images",
+      "url": "/kali-images",
+      "status": "S1709123154X1709128494",
+      "upstream": "rsync://archive-4.kali.org/kali-images/",
+      "size": "178.89G"
+    },
+    {
+      "cname": "kernel",
+      "options_name": "kernel",
+      "url": "/kernel",
+      "status": "S1709123580X1709128920",
+      "upstream": "rsync://rsync.kernel.org/pub/linux/kernel/",
+      "size": "1.16T"
+    },
+    {
+      "cname": "kicad",
+      "options_name": "kicad",
+      "url": "/kicad",
+      "status": "S1709121641X1709126981",
+      "upstream": "",
+      "size": "unknown"
+    },
+    {
+      "cname": "linux-stable.git",
+      "options_name": "linux-stable.git",
+      "url": "/git/linux-stable.git",
+      "status": "S1709122370X1709127710",
+      "upstream": "git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git",
+      "size": "unknown"
+    },
+    {
+      "cname": "linux.git",
+      "options_name": "linux.git",
+      "url": "/git/linux.git",
+      "status": "S1709122798X1709128138",
+      "upstream": "git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git",
+      "size": "unknown"
+    },
+    {
+      "cname": "linuxmint",
+      "options_name": "linuxmint",
+      "url": "/linuxmint",
+      "status": "S1709124085X1709129425",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/linuxmint/",
+      "size": "41.21G"
+    },
+    {
+      "cname": "manjaro",
+      "options_name": "manjaro",
+      "url": "/manjaro",
+      "status": "S1709123292X1709128632",
+      "upstream": "rsync://mirrors.ocf.berkeley.edu/manjaro/",
+      "size": "192.19G"
+    },
+    {
+      "cname": "mxlinux",
+      "options_name": "MX_Linux",
+      "url": "/MX_Linux",
+      "status": "S1709123198X1709128538",
+      "upstream": "rsync://iso.mxrepo.com/workspace/",
+      "size": "238.81G"
+    },
+    {
+      "cname": "mxlinux-isos",
+      "options_name": "MX_ISOs",
+      "url": "/MX_ISOs",
+      "status": "S1709123473X1709128813",
+      "upstream": "rsync://rsync-mxlinux.org/MX-Linux/",
+      "size": "38.55G"
+    },
+    {
+      "cname": "openkylin",
+      "options_name": "openkylin",
+      "url": "/openkylin",
+      "status": "S1709123465X1709128805",
+      "upstream": "rsync://archive.openkylin.top/openkylin/",
+      "size": "145.11G"
+    },
+    {
+      "cname": "openkylin-cdimage",
+      "options_name": "openkylin-cdimage",
+      "url": "/openkylin-cdimage",
+      "status": "S1709123237X1709128577",
+      "upstream": "rsync://releases.openkylin.top/releases/",
+      "size": "70.10G"
+    },
+    {
+      "cname": "opensuse",
+      "options_name": "opensuse",
+      "url": "/opensuse",
+      "status": "S1709124227X1709129567",
+      "upstream": "rsync://ftp.riken.jp/opensuse/",
+      "size": "2.80T"
+    },
+    {
+      "cname": "raspbian",
+      "options_name": "raspbian",
+      "url": "/raspbian",
+      "status": "S1709123124X1709128464",
+      "upstream": "rsync://rsync.mirrors.ustc.edu.cn/raspbian/",
+      "size": "609.48G"
+    },
+    {
+      "cname": "rocky",
+      "options_name": "rockylinux",
+      "url": "/rockylinux",
+      "status": "S1709122032X1709127372",
+      "upstream": "msync.rockylinux.org",
+      "size": "unknown"
+    },
+    {
+      "cname": "ros",
+      "options_name": "ros",
+      "url": "/ros",
+      "status": "S1709121472X1709132212",
+      "upstream": "https://packages.ros.org/ros/",
+      "size": "97.31G"
+    },
+    {
+      "cname": "ros2",
+      "options_name": "ros2",
+      "url": "/ros2",
+      "status": "S1709116543X1709127283",
+      "upstream": "https://packages.ros.org/ros2/",
+      "size": "84.12G"
+    },
+    {
+      "cname": "ubuntu",
+      "options_name": "ubuntu",
+      "url": "/ubuntu",
+      "status": "S1709121106X1709126446",
+      "upstream": "rsync://archive.ubuntu.com/ubuntu/",
+      "size": "2.73T"
+    },
+    {
+      "cname": "ubuntu-releases",
+      "options_name": "ubuntu-releases",
+      "url": "/ubuntu-releases",
+      "status": "S1709123592X1709128932",
+      "upstream": "rsync://rsync.releases.ubuntu.com/releases/",
+      "size": "33.76G"
+    },
+    {
+      "cname": "ubuntukylin",
+      "options_name": "UbuntuKylin_release",
+      "url": "/UbuntuKylin_release",
+      "status": "Y1703451484O1703446143",
+      "upstream": "rsync://service.ubuntukylin.com",
+      "size": "unknown"
+    }
+  ],
+  "endpoints": [
+    {
+      "label": "cqu",
+      "public": true,
+      "resolve": "mirrors.cqu.edu.cn",
+      "filter": [
+        "V4",
+        "V6",
+        "SSL",
+        "NOSSL"
+      ],
+      "range": [
+        "COUNTRY:CN",
+        "REGION:CQ",
+        "ISP:CERNET",
+        "2001:da8:c800::/48",
+        "2001:250:2401::/48",
+        "218.70.255.0/24",
+        "222.178.10.0/24",
+        "42.247.1.192/29",
+        "42.247.2.248/29",
+        "42.247.3.0/27",
+        "42.247.3.120/29",
+        "42.247.5.168/29",
+        "42.247.7.0/25",
+        "42.247.8.128/26",
+        "42.247.8.192/27",
+        "42.247.8.224/29",
+        "42.247.9.72/29",
+        "42.247.9.80/29",
+        "42.247.9.192/28",
+        "42.247.11.96/28",
+        "120.94.128.0/18",
+        "121.49.0.0/21",
+        "121.49.8.0/22",
+        "121.49.16.0/20",
+        "121.49.32.0/21",
+        "180.84.64.0/20",
+        "180.84.80.0/21",
+        "180.84.192.0/18",
+        "180.85.128.0/17",
+        "202.202.0.0/19",
+        "202.202.32.0/20",
+        "202.202.64.0/18",
+        "202.202.128.0/17",
+        "210.41.32.0/19",
+        "211.83.16.0/20",
+        "211.83.192.0/19",
+        "218.194.128.0/18",
+        "219.221.0.0/19",
+        "219.221.32.0/20",
+        "219.221.48.0/23",
+        "219.221.50.0/24",
+        "219.221.64.0/18",
+        "222.196.16.0/20",
+        "222.198.0.0/20",
+        "222.198.32.0/19",
+        "222.198.64.0/18",
+        "222.198.128.0/19",
+        "222.198.160.0/20",
+        "222.198.176.0/22"
+      ]
+    }
+  ],
+  "extension": "D"
+}

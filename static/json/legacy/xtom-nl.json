@@ -1,0 +1,469 @@
+{
+  "site": {
+    "url": "https://mirrors.xtom.nl",
+    "logo": "https://xtom.com/logo.svg",
+    "logo_darkmode": "https://xtom.com/logo_dark.svg",
+    "abbr": "XTOM (NL)",
+    "name": "XTOM 开源软件镜像站（荷兰）",
+    "email": "mirror AT xtom DOT com",
+    "request": "https://github.com/xtomcom/mirrorrequest"
+  },
+  "info": [
+    {
+      "distro": "archlinux",
+      "urls": [
+        {
+          "name": "2024.02.01 (x86_64, CLI-only)",
+          "url": "/archlinux/iso/latest/archlinux-2024.02.01-x86_64.iso"
+        }
+      ],
+      "category": "os"
+    },
+    {
+      "distro": "centos",
+      "urls": [
+        {
+          "name": "7 (x86_64, NetInstall)",
+          "url": "/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-NetInstall-2009.iso"
+        },
+        {
+          "name": "7 (x86_64, Minimal)",
+          "url": "/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-Minimal-2009.iso"
+        }
+      ],
+      "category": "os"
+    },
+    {
+      "distro": "debian",
+      "urls": [
+        {
+          "name": "12.5.0 (amd64, DVD installer)",
+          "url": "/debian-cd/current/amd64/iso-dvd/debian-12.5.0-amd64-DVD-1.iso"
+        },
+        {
+          "name": "12.5.0 (i386, DVD installer)",
+          "url": "/debian-cd/current/i386/iso-dvd/debian-12.5.0-i386-DVD-1.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, xfce live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-xfce.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, standard live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-standard.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, mate live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-mate.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, lxqt live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxqt.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, lxde live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-lxde.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, kde live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-kde.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, gnome live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-gnome.iso"
+        },
+        {
+          "name": "12.5.0 (amd64, cinnamon live)",
+          "url": "/debian-cd/current-live/amd64/iso-hybrid/debian-live-12.5.0-amd64-cinnamon.iso"
+        }
+      ],
+      "category": "os"
+    },
+    {
+      "distro": "fedora",
+      "urls": [
+        {
+          "name": "34 (x86_64, Xfce)",
+          "url": "/fedora/releases/34/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-34-1.2.iso"
+        },
+        {
+          "name": "34 (x86_64, Workstation)",
+          "url": "/fedora/releases/34/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-34-1.2.iso"
+        },
+        {
+          "name": "34 (x86_64, KDE)",
+          "url": "/fedora/releases/34/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-34-1.2.iso"
+        },
+        {
+          "name": "34 (aarch64, Workstation)",
+          "url": "/fedora/releases/34/Workstation/aarch64/iso/Fedora-Workstation-Live-aarch64-34-1.2.iso"
+        },
+        {
+          "name": "33 (x86_64, Xfce)",
+          "url": "/fedora/releases/33/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-33-1.2.iso"
+        },
+        {
+          "name": "33 (x86_64, Workstation)",
+          "url": "/fedora/releases/33/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-33-1.2.iso"
+        },
+        {
+          "name": "33 (x86_64, KDE)",
+          "url": "/fedora/releases/33/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-33-1.2.iso"
+        },
+        {
+          "name": "33 (aarch64, Workstation)",
+          "url": "/fedora/releases/33/Workstation/aarch64/iso/Fedora-Workstation-Live-aarch64-33-1.2.iso"
+        }
+      ],
+      "category": "os"
+    },
+    {
+      "distro": "ubuntu",
+      "urls": [
+        {
+          "name": "23.10.1 (amd64, LiveCD)",
+          "url": "/ubuntu-releases/mantic/ubuntu-23.10.1-desktop-amd64.iso"
+        },
+        {
+          "name": "22.04.4 (amd64, LiveCD)",
+          "url": "/ubuntu-releases/jammy/ubuntu-22.04.4-desktop-amd64.iso"
+        },
+        {
+          "name": "20.04.6 (amd64, LiveCD)",
+          "url": "/ubuntu-releases/focal/ubuntu-20.04.6-desktop-amd64.iso"
+        },
+        {
+          "name": "18.04.6 (amd64, LiveCD)",
+          "url": "/ubuntu-releases/bionic/ubuntu-18.04.6-desktop-amd64.iso"
+        }
+      ],
+      "category": "os"
+    }
+  ],
+  "mirrors": [
+    {
+      "cname": "almalinux",
+      "url": "/almalinux",
+      "status": "S1708858988X1708869780",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/almalinux",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.repo.almalinux.org/almalinux/"
+    },
+    {
+      "cname": "alpine",
+      "url": "/alpine",
+      "status": "S1708832312X1708918500",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/alpine",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.alpinelinux.org/alpine/"
+    },
+    {
+      "cname": "anthon",
+      "url": "/anthon",
+      "status": "S1708812148X1708897020",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/anthon",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://repo.aosc.io/anthon/"
+    },
+    {
+      "cname": "archlinux",
+      "url": "/archlinux",
+      "status": "S1708864204X1708867800",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/archlinux",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://mirrors.xtom.de/archlinux/"
+    },
+    {
+      "cname": "archlinuxcn",
+      "url": "/archlinuxcn",
+      "status": "S1708864808X1708868400",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/archlinuxcn",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://sync.repo.archlinuxcn.org/repo/"
+    },
+    {
+      "cname": "bioarchlinux",
+      "url": "/bioarchlinux",
+      "status": "S1708845729X1708932120",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/bioarchlinux",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://bioarchlinux.org/sync/"
+    },
+    {
+      "cname": "centos",
+      "url": "/centos",
+      "status": "S1708856226X1708870620",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/centos",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://msync.centos.org/CentOS/"
+    },
+    {
+      "cname": "centos-altarch",
+      "url": "/centos-altarch",
+      "status": "S1708858624X1708873020",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/centos-altarch",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://msync.centos.org/altarch/"
+    },
+    {
+      "cname": "centos-stream",
+      "url": "/centos-stream",
+      "status": "S1708827850X1708914000",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/centos-stream",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://centos.osuosl.org/centos-stream/"
+    },
+    {
+      "cname": "debian",
+      "url": "/debian",
+      "status": "S1708861982X1708869120",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/debian",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://syncproxy2.wna.debian.org/debian/"
+    },
+    {
+      "cname": "debian-archive",
+      "url": "/debian-archive",
+      "status": "S1708840202X1708925520",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/debian-archive",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.archive.debian.org/debian-archive/"
+    },
+    {
+      "cname": "debian-cd",
+      "url": "/debian-cd",
+      "status": "S1708828382X1708914780",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/debian-cd",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://cdimage.debian.org/debian-cd/"
+    },
+    {
+      "cname": "debian-security",
+      "url": "/debian-security",
+      "status": "S1708839633X1708926000",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/debian-security",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.security.debian.org/debian-security/"
+    },
+    {
+      "cname": "deepin",
+      "url": "/deepin",
+      "status": "S1708831268X1708917600",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/deepin",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.deepin.com/deepin/"
+    },
+    {
+      "cname": "docker-ce",
+      "url": "/docker-ce",
+      "status": "S1708839071X1708925400",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/docker-ce",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "https://download.docker.com/"
+    },
+    {
+      "cname": "epel",
+      "url": "/epel",
+      "status": "S1708839041X1708924320",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/epel",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://mirror.ams1.nl.leaseweb.net/epel/"
+    },
+    {
+      "cname": "fedora",
+      "url": "/fedora",
+      "status": "S1708837349X1708923360",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/fedora",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://mirror.ams1.nl.leaseweb.net/fedora/"
+    },
+    {
+      "cname": "gentoo",
+      "url": "/gentoo",
+      "status": "S1708817455X1708895460",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/gentoo",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://mirror.ams1.nl.leaseweb.net/gentoo/"
+    },
+    {
+      "cname": "kde",
+      "url": "/kde",
+      "status": "S1708867323X1708874520",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/kde",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.kde.org/kdeftp/"
+    },
+    {
+      "cname": "kde-application",
+      "url": "/kde-application",
+      "status": "S1708861479X1708868640",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/kde-application",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.kde.org/applicationdata/"
+    },
+    {
+      "cname": "m.ac",
+      "url": "/m.ac",
+      "status": "S1708867443X1708871040",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/m.ac",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.m.ac/repo/"
+    },
+    {
+      "cname": "manjaro",
+      "url": "/manjaro",
+      "status": "S1708836987X1708923360",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/manjaro",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://ftp.halifax.rwth-aachen.de/manjaro/"
+    },
+    {
+      "cname": "mariadb",
+      "url": "/mariadb",
+      "status": "S1708836012X1708922400",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/mariadb",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.osuosl.org/mariadb/"
+    },
+    {
+      "cname": "nginx",
+      "url": "/nginx",
+      "status": "F1708838700O1696911907X1708925100",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/nginx",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "unknown"
+    },
+    {
+      "cname": "percona",
+      "url": "/percona",
+      "status": "S1708832364X1708918680",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/percona",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.percona.com/rsync/"
+    },
+    {
+      "cname": "postgresql",
+      "url": "/postgresql",
+      "status": "S1708837021X1708923300",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/postgresql",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://ftp.postgresql.org/pgsql-ftp/"
+    },
+    {
+      "cname": "powerdns",
+      "url": "/powerdns",
+      "status": "F1708828380O1696469584X1708914780",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/powerdns",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "unknown"
+    },
+    {
+      "cname": "proxmox",
+      "url": "/proxmox",
+      "status": "S1708827214X1708913520",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/proxmox",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "http://download.proxmox.com/"
+    },
+    {
+      "cname": "putty",
+      "url": "/putty",
+      "status": "S1708828081X1708914480",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/putty",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.chiark.greenend.org.uk/ftp/users/sgtatham/putty-website-mirror/"
+    },
+    {
+      "cname": "rocky",
+      "url": "/rocky",
+      "status": "S1708857793X1708872180",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/rocky",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://mirrors.xtom.de/rocky/"
+    },
+    {
+      "cname": "sb",
+      "url": "/sb",
+      "status": "S1708821904X1708908300",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/sb",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://mirrors.xtom.com/repo/sb/"
+    },
+    {
+      "cname": "solusvm",
+      "url": "/solusvm",
+      "status": "S1708837922X1708924320",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/solusvm",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "http://templates.solusvm.com/"
+    },
+    {
+      "cname": "sury",
+      "url": "/sury",
+      "status": "S1708836915X1708923300",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/sury",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.sury.org/repositories/"
+    },
+    {
+      "cname": "ubuntu",
+      "url": "/ubuntu",
+      "status": "Y1708867680O1708846301X1708889280",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://archive.ubuntu.com/ubuntu/"
+    },
+    {
+      "cname": "ubuntu-ports",
+      "url": "/ubuntu-ports",
+      "status": "S1708840323X1708924920",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu-ports",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://ports.ubuntu.com/ubuntu-ports/"
+    },
+    {
+      "cname": "ubuntu-releases",
+      "url": "/ubuntu-releases",
+      "status": "S1708861020X1708882620",
+      "help": "https://lug.ustc.edu.cn/wiki/mirrors/help/ubuntu-releases",
+      "desc": "",
+      "size": "-0.00 MiB",
+      "upstream": "rsync://rsync.releases.ubuntu.com/releases/"
+    }
+  ]
+}
