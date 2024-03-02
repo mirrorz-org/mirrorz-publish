@@ -1,4 +1,4 @@
-frontend: 3309773 test: remove if in deploy
+frontend: d6abb1a test: remove if in deploy
 config: bb8eb42 Add lzu to mirrorz.d
 parser: 52d211d Add package-lock.json
 i18n: fc9633e Add dependencies for speedtest scripts
