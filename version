@@ -1,4 +1,4 @@
-frontend: d6abb1a test: remove if in deploy
+frontend: b2182c6 feat: build for cernet with matrix
 config: bb8eb42 Add lzu to mirrorz.d
 parser: 52d211d Add package-lock.json
 i18n: fc9633e Add dependencies for speedtest scripts
