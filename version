@@ -1,6 +1,6 @@
 frontend: b2182c6 feat: build for cernet with matrix
 config: bb8eb42 Add lzu to mirrorz.d
-parser: 52d211d Add package-lock.json
+parser: c4bc45b nyist: Add config support for siteUrl (#9)
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: af66167 Delete cqupt.json (#6)
 json_legacy: 2024-03-05T13:20:18.983Z
