@@ -3,6 +3,6 @@ config: bb8eb42 Add lzu to mirrorz.d
 parser: 2deb115 isoinfo: allow empty "JSON" isoinfo files
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: af66167 Delete cqupt.json (#6)
-json_legacy: 2024-03-28T13:20:48.509Z
+json_legacy: 2024-03-29T13:20:56.023Z
 legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency
