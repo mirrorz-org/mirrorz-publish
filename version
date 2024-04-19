@@ -3,6 +3,6 @@ config: 4ae8324 Add xtom-sg
 parser: 46fd28e Add xtom-sg
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 34c3ddb Add xtom-sg
-json_legacy: 2024-04-18T13:20:52.723Z
+json_legacy: 2024-04-19T13:21:35.058Z
 legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency
