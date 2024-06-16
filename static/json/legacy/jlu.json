@@ -10,7 +10,7 @@
     "request": "https://github.com/JLULUG/issues/issues/new/choose",
     "email": "mirrors@jlu.edu.cn",
     "group": "QQ 1026894631 / TG @JLULUG",
-    "disk": "14.62/40.97 TiB + 17.8/17.8 TiB",
+    "disk": "31.17/40.97 TiB + 17.8/17.8 TiB",
     "big": "/_static/speedtest.bin"
   },
   "extension": "D",
@@ -224,88 +224,6 @@
         {
           "name": "Arch Linux ARM latest (zedboard)",
           "url": "/archlinuxarm/os/ArchLinuxARM-zedboard-latest.tar.gz"
-        }
-      ]
-    },
-    {
-      "distro": "centos",
-      "category": "os",
-      "urls": [
-        {
-          "name": "CentOS 8 Stream (aarch64, boot)",
-          "url": "/centos/8-stream/isos/aarch64/CentOS-Stream-8-20240527.0-aarch64-boot.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (aarch64, dvd)",
-          "url": "/centos/8-stream/isos/aarch64/CentOS-Stream-8-20240527.0-aarch64-dvd1.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (ppc64le, boot)",
-          "url": "/centos/8-stream/isos/ppc64le/CentOS-Stream-8-20240527.0-ppc64le-boot.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (ppc64le, dvd)",
-          "url": "/centos/8-stream/isos/ppc64le/CentOS-Stream-8-20240527.0-ppc64le-dvd1.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (x86_64, boot)",
-          "url": "/centos/8-stream/isos/x86_64/CentOS-Stream-8-20240527.0-x86_64-boot.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (x86_64, dvd)",
-          "url": "/centos/8-stream/isos/x86_64/CentOS-Stream-8-20240527.0-x86_64-dvd1.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (aarch64, boot)",
-          "url": "/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-boot.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (aarch64, dvd)",
-          "url": "/centos/8-stream/isos/aarch64/CentOS-Stream-8-aarch64-latest-dvd1.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (ppc64le, boot)",
-          "url": "/centos/8-stream/isos/ppc64le/CentOS-Stream-8-ppc64le-latest-boot.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (ppc64le, dvd)",
-          "url": "/centos/8-stream/isos/ppc64le/CentOS-Stream-8-ppc64le-latest-dvd1.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (x86_64, boot)",
-          "url": "/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-boot.iso"
-        },
-        {
-          "name": "CentOS 8 Stream (x86_64, dvd)",
-          "url": "/centos/8-stream/isos/x86_64/CentOS-Stream-8-x86_64-latest-dvd1.iso"
-        },
-        {
-          "name": "CentOS 7 (x86_64, DVD)",
-          "url": "/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-2009.iso"
-        },
-        {
-          "name": "CentOS 7 (x86_64, Everything)",
-          "url": "/centos/7/isos/x86_64/CentOS-7-x86_64-Everything-2009.iso"
-        },
-        {
-          "name": "CentOS 7 (x86_64, Minimal)",
-          "url": "/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-2009.iso"
-        },
-        {
-          "name": "CentOS 7 (x86_64, NetInstall)",
-          "url": "/centos/7/isos/x86_64/CentOS-7-x86_64-NetInstall-2009.iso"
-        },
-        {
-          "name": "CentOS 7 (x86_64, DVD-2207-02)",
-          "url": "/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-2207-02.iso"
-        },
-        {
-          "name": "CentOS 7 (x86_64, Everything-2207-02)",
-          "url": "/centos/7/isos/x86_64/CentOS-7-x86_64-Everything-2207-02.iso"
-        },
-        {
-          "name": "CentOS 7 (x86_64, Minimal-2207-02)",
-          "url": "/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-2207-02.iso"
         }
       ]
     },
@@ -638,94 +556,6 @@
         {
           "name": "Fedora 39 (x86_64, silverblue)",
           "url": "/fedora/releases/39/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-39-1.5.iso"
-        },
-        {
-          "name": "Fedora 38 (aarch64, workstation)",
-          "url": "/fedora/releases/38/Workstation/aarch64/iso/Fedora-Workstation-Live-aarch64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, workstation)",
-          "url": "/fedora/releases/38/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, Budgie)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-Budgie-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, Cinnamon)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-Cinnamon-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, KDE)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-KDE-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, LXDE)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-LXDE-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, LXQt)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-LXQt-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, MATE_Compiz)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-MATE_Compiz-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, SoaS)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-SoaS-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, Sway)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-Sway-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, Xfce)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-Xfce-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, spins, i3)",
-          "url": "/fedora/releases/38/Spins/x86_64/iso/Fedora-i3-Live-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (aarch64, server, dvd)",
-          "url": "/fedora/releases/38/Server/aarch64/iso/Fedora-Server-dvd-aarch64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, server, dvd)",
-          "url": "/fedora/releases/38/Server/x86_64/iso/Fedora-Server-dvd-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (aarch64, server, netinst)",
-          "url": "/fedora/releases/38/Server/aarch64/iso/Fedora-Server-netinst-aarch64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, server, netinst)",
-          "url": "/fedora/releases/38/Server/x86_64/iso/Fedora-Server-netinst-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (aarch64, everything)",
-          "url": "/fedora/releases/38/Everything/aarch64/iso/Fedora-Everything-netinst-aarch64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, everything)",
-          "url": "/fedora/releases/38/Everything/x86_64/iso/Fedora-Everything-netinst-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (aarch64, kinoite)",
-          "url": "/fedora/releases/38/Kinoite/aarch64/iso/Fedora-Kinoite-ostree-aarch64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, kinoite)",
-          "url": "/fedora/releases/38/Kinoite/x86_64/iso/Fedora-Kinoite-ostree-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, sericea)",
-          "url": "/fedora/releases/38/Sericea/x86_64/iso/Fedora-Sericea-ostree-x86_64-38-1.6.iso"
-        },
-        {
-          "name": "Fedora 38 (x86_64, silverblue)",
-          "url": "/fedora/releases/38/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-38-1.6.iso"
         }
       ]
     },
@@ -979,88 +809,88 @@
   "mirrors": [
     {
       "cname": "anthon",
-      "status": "S1717230562X1717269969",
+      "status": "S1718538178X1718582717",
       "desc": "「官方镜像」以简化精制为目标的日常向发行版",
-      "size": "1.75 TiB",
+      "size": "1.8 TiB",
       "url": "/anthon",
       "help": "",
       "upstream": "rsync://repo.aosc.io/anthon/"
     },
     {
       "cname": "apache",
-      "status": "S1717242541X1717265285",
+      "status": "S1718530298X1718552189",
       "desc": "Apache 基金会支持的开源项目",
-      "size": "206.2 GiB",
+      "size": "209.73 GiB",
       "url": "/apache",
       "help": "",
       "upstream": "rsync://rsync.apache.org/apache-dist/"
     },
     {
       "cname": "archlinux",
-      "status": "S1717245832X1717249631",
+      "status": "S1718541114X1718544889",
       "desc": "「官方镜像」独立开发的通用 GNU/Linux 滚动发行版",
-      "size": "100.23 GiB",
+      "size": "100.74 GiB",
       "url": "/archlinux",
       "help": "",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinux/"
     },
     {
       "cname": "archlinuxarm",
-      "status": "S1717238425X1717252904",
+      "status": "S1718541419X1718555091",
       "desc": "Arch Linux 的 ARM 平台移植",
-      "size": "109.87 GiB",
+      "size": "111.08 GiB",
       "url": "/archlinuxarm",
       "help": "",
       "upstream": "rsync://ftp.halifax.rwth-aachen.de/archlinux-arm/"
     },
     {
       "cname": "archlinuxcn",
-      "status": "S1717230560X1717263140",
+      "status": "S1718527357X1718559157",
       "desc": "「官方镜像」由 Arch Linux 中文社区维护的非官方软件仓库",
-      "size": "125.84 GiB",
+      "size": "127.76 GiB",
       "url": "/archlinuxcn",
       "help": "",
       "upstream": "rsync://jlu@sync.repo.archlinuxcn.org/repo/"
     },
     {
       "cname": "centos",
-      "status": "S1717237281X1717252068",
-      "desc": "「计划淘汰」基于 RHEL 源码的免费起夜级发行版（即将结束支持）「注意！」即将停止服务，详见公告 / See news for more",
-      "size": "432.54 GiB",
+      "status": "S1718537409X1718551378",
+      "desc": "「即将移除」基于 RHEL 源码的免费起夜急发行版（即将结束支持）「注意！」即将停止服务，详见公告 / See news for more",
+      "size": "142.83 GiB",
       "url": "/centos",
       "help": "",
       "upstream": "rsync://msync.centos.org/CentOS/"
     },
     {
       "cname": "CTAN",
-      "status": "S1717216420X1717256515",
+      "status": "S1718532288X1718574641",
       "desc": "「官方镜像」TeX 的发行版、软件包等资源的集散地",
-      "size": "58.19 GiB",
+      "size": "58.17 GiB",
       "url": "/CTAN",
       "help": "",
       "upstream": "rsync://rsync.dante.ctan.org/CTAN/"
     },
     {
       "cname": "deb-multimedia",
-      "status": "S1717203890X1717285021",
+      "status": "S1718510748X1718601411",
       "desc": "「官方镜像」用于 Debian 的第三方多媒体软件源",
-      "size": "16.4 GiB",
+      "size": "15.43 GiB",
       "url": "/deb-multimedia",
       "help": "",
       "upstream": "rsync://www.deb-multimedia.org/deb/"
     },
     {
       "cname": "debian",
-      "status": "S1717246477X1717259962",
+      "status": "S1718535156X1718548267",
       "desc": "「官方镜像」完全由自由软件组成的 GNU/Linux 发行版",
-      "size": "1.91 TiB",
+      "size": "1.97 TiB",
       "url": "/debian",
       "help": "",
       "upstream": "rsync://mirrors6.tuna.tsinghua.edu.cn/debian/"
     },
     {
       "cname": "debian-cd",
-      "status": "S1717238339X1717282629",
+      "status": "S1718526813X1718568187",
       "desc": "Debian GNU/Linux 的 ISO 安装镜像",
       "size": "214.31 GiB",
       "url": "/debian-cd",
@@ -1069,52 +899,52 @@
     },
     {
       "cname": "debian-security",
-      "status": "S1717244708X1717252051",
+      "status": "S1718537489X1718545324",
       "desc": "提供 Debian GNU/Linux 系统安全更新",
-      "size": "146.82 GiB",
+      "size": "163.43 GiB",
       "url": "/debian-security",
       "help": "",
       "upstream": "rsync://rsync.security.debian.org/debian-security/"
     },
     {
       "cname": "deepin",
-      "status": "S1717210824X1717256418",
+      "status": "S1718543308X1718587518",
       "desc": "「官方镜像」基于 Debian 开发的国产 GNU/Linux 发行版",
-      "size": "634.51 GiB",
+      "size": "647.23 GiB",
       "url": "/deepin",
       "help": "",
       "upstream": "rsync://rsync.deepin.com/deepin/"
     },
     {
       "cname": "deepin-cd",
-      "status": "S1717207243X1717287979",
+      "status": "S1718501084X1718579015",
       "desc": "「官方镜像」深度操作系统 Deepin Linux 的 ISO 安装镜像",
-      "size": "86.07 GiB",
+      "size": "97.97 GiB",
       "url": "/deepin-cd",
       "help": "",
       "upstream": "rsync://rsync.deepin.com/releases/"
     },
     {
       "cname": "endeavouros",
-      "status": "S1717235702X1717250324",
+      "status": "S1718531715X1718545418",
       "desc": "「官方镜像」新兴的社区驱动 Arch Linux 衍生版",
-      "size": "58.11 GiB",
+      "size": "58.09 GiB",
       "url": "/endeavouros",
       "help": "",
       "upstream": "rsync://alpix.eu.rsync.endeavouros.com/endeavouros/"
     },
     {
       "cname": "fedora",
-      "status": "S1717241386X1717248822",
+      "status": "S1718537231X1718544177",
       "desc": "「官方镜像」由 Fedora 项目社群开发的 GNU/Linux 发行版",
-      "size": "3.56 TiB",
+      "size": "1.93 TiB",
       "url": "/fedora",
       "help": "",
       "upstream": "rsync://download-ib01.fedoraproject.org"
     },
     {
       "cname": "garuda-linux",
-      "status": "S1717240953X1717261296",
+      "status": "S1718526475X1718546409",
       "desc": "「实验性镜像」",
       "size": "16.7 GiB",
       "url": "/garuda-linux",
@@ -1123,16 +953,16 @@
     },
     {
       "cname": "immortalwrt",
-      "status": "S1717186389X1717264349",
+      "status": "S1718478261X1718556975",
       "desc": "「实验性镜像」面向中国用户的 OpenWrt 衍生版",
-      "size": "885.04 GiB",
+      "size": "885.45 GiB",
       "url": "/immortalwrt",
       "help": "",
       "upstream": "rsync://firmwarepublic@rsync-mirror.infra.immortalwrt.org/firmware-public/"
     },
     {
       "cname": "knoppix",
-      "status": "S1717204878X1717297162",
+      "status": "S1718490040X1718583421",
       "desc": "「计划淘汰」基于 Debian 的光盘/闪存盘驱动的 GNU/Linux 发行版",
       "size": "6.85 GiB",
       "url": "/knoppix",
@@ -1141,7 +971,7 @@
     },
     {
       "cname": "knoppix-dvd",
-      "status": "S1717198511X1717287767",
+      "status": "S1718493623X1718578147",
       "desc": "「计划淘汰」基于 Debian 的光盘/闪存盘驱动的 GNU/Linux 发行版",
       "size": "17.4 GiB",
       "url": "/knoppix-dvd",
@@ -1150,16 +980,16 @@
     },
     {
       "cname": "linuxmint",
-      "status": "S1717235169X1717281804",
+      "status": "S1718523215X1718567102",
       "desc": "基于 Ubuntu 的 GNU/Linux 发行版",
-      "size": "39.76 GiB",
+      "size": "39.98 GiB",
       "url": "/linuxmint",
       "help": "",
       "upstream": "rsync://rsync-packages.linuxmint.com/packages/"
     },
     {
       "cname": "linuxmint-cd",
-      "status": "S1717232568X1717325582",
+      "status": "S1718501444X1718584863",
       "desc": "Linux Mint 的 ISO 安装镜像",
       "size": "104.25 GiB",
       "url": "/linuxmint-cd",
@@ -1168,52 +998,52 @@
     },
     {
       "cname": "manjaro",
-      "status": "S1717231748X1717255063",
+      "status": "S1718531388X1718553980",
       "desc": "用户友好的 Arch Linux 衍生版",
-      "size": "185.06 GiB",
+      "size": "203.17 GiB",
       "url": "/manjaro",
       "help": "",
       "upstream": "rsync://ftp.halifax.rwth-aachen.de/manjaro/"
     },
     {
       "cname": "pypi",
-      "status": "S1714941650X1717248469",
+      "status": "Y1718543511O1718542922",
       "desc": "Python 软件包索引",
-      "size": "17.8 TiB",
+      "size": "18.23 TiB",
       "url": "/pypi",
       "help": "",
       "upstream": "https://pypi.org"
     },
     {
       "cname": "raspbian",
-      "status": "S1717226412X1717249436",
+      "status": "S1718527667X1718551248",
       "desc": "为树莓派编译的 Debian 系统软件源",
-      "size": "597.67 GiB",
+      "size": "605.91 GiB",
       "url": "/raspbian",
       "help": "",
       "upstream": "rsync://archive.raspbian.org/archive/"
     },
     {
       "cname": "rocky",
-      "status": "S1717234707X1717248459",
+      "status": "S1718539516X1718552894",
       "desc": "「官方镜像」与 RHEL 保持 Bug 级兼容的社区开源 Linux 发行版",
-      "size": "630.73 GiB",
+      "size": "644.82 GiB",
       "url": "/rocky",
       "help": "",
       "upstream": "rsync://msync.rockylinux.org/rocky-linux/"
     },
     {
       "cname": "ubuntu",
-      "status": "S1717245009X1717264811",
+      "status": "S1718537701X1718559393",
       "desc": "「官方镜像」Canonical 公司基于 Debian 维护的 GNU/Linux 发行版",
-      "size": "2.79 TiB",
+      "size": "2.82 TiB",
       "url": "/ubuntu",
       "help": "",
       "upstream": "rsync://rsync.archive.ubuntu.com/ubuntu/"
     },
     {
       "cname": "ubuntu-releases",
-      "status": "S1717243608X1717259014",
+      "status": "S1718538522X1718554134",
       "desc": "「官方镜像」Ubuntu 的 ISO 安装镜像",
       "size": "39.8 GiB",
       "url": "/ubuntu-releases",

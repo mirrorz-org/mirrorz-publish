@@ -429,143 +429,143 @@
       "cname": "anaconda",
       "options_name": "anaconda",
       "url": "/anaconda",
-      "status": "S1681013557X1681035157",
+      "status": "Y1717419616O1682799903",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/anaconda/",
-      "size": "10.78T"
+      "size": "10.99T"
     },
     {
       "cname": "archlinux",
       "options_name": "archlinux",
       "url": "/archlinux",
-      "status": "S1681016954X1681038554",
+      "status": "S1717410520X1717432120",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinux/",
-      "size": "100.85G"
+      "size": "106.30G"
     },
     {
       "cname": "archlinuxarm",
       "options_name": "archlinuxarm",
       "url": "/archlinuxarm",
-      "status": "S1681018637X1681040237",
+      "status": "S1717418701X1717440301",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinuxarm/",
-      "size": "89.95G"
+      "size": "118.16G"
     },
     {
       "cname": "archlinuxcn",
       "options_name": "archlinuxcn",
       "url": "/archlinuxcn",
-      "status": "S1681008246X1681029846",
+      "status": "S1717415273X1717436873",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinuxcn/",
-      "size": "151.25G"
+      "size": "132.52G"
     },
     {
       "cname": "centos",
       "options_name": "centos",
       "url": "/centos",
-      "status": "S1681009332X1681030932",
+      "status": "S1717416721X1717438321",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/centos/",
-      "size": "598.21G"
+      "size": "193.54G"
     },
     {
       "cname": "centos-vault",
       "options_name": "centos-vault",
       "url": "/centos-vault",
-      "status": "S1681022038X1681043638",
+      "status": "S1717419635X1717441235",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/centos-vault/",
-      "size": "6.03T"
+      "size": "6.87T"
     },
     {
       "cname": "dart-pub",
       "options_name": "dart-pub",
       "url": "/dart-pub",
-      "status": "S1681019994X1681041594",
+      "status": "S1717407843X1717429443",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/dart-pub/",
-      "size": "541.47G"
+      "size": "803.57G"
     },
     {
       "cname": "debian",
       "options_name": "debian",
       "url": "/debian",
-      "status": "S1681022871X1681044471",
+      "status": "S1717407834X1717429434",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian/",
-      "size": "1.85T"
+      "size": "2.12T"
     },
     {
       "cname": "debian-cd",
       "options_name": "debian-cd",
       "url": "/debian-cd",
-      "status": "S1681007665X1681029265",
+      "status": "S1717399519X1717421119",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-cd/",
-      "size": "228.15G"
+      "size": "231.61G"
     },
     {
       "cname": "debian-security",
       "options_name": "debian-security",
       "url": "/debian-security",
-      "status": "S1681019998X1681041598",
+      "status": "S1717403364X1717424964",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian-security/",
-      "size": "316.61G"
+      "size": "171.71G"
     },
     {
       "cname": "deepin",
       "options_name": "deepin",
       "url": "/deepin",
-      "status": "S1681009806X1681031406",
+      "status": "S1717405053X1717426653",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/deepin/",
-      "size": "397.91G"
+      "size": "674.19G"
     },
     {
       "cname": "deepin-cd",
       "options_name": "deepin-cd",
       "url": "/deepin-cd",
-      "status": "S1681023522X1681045122",
+      "status": "S1717407047X1717428647",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/deepin-cd/",
-      "size": "63.85G"
+      "size": "92.61G"
     },
     {
       "cname": "docker-ce",
       "options_name": "docker-ce",
       "url": "/docker-ce",
-      "status": "S1681006645X1681028245",
+      "status": "S1717413125X1717434725",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/docker-ce/",
-      "size": "794.35G"
+      "size": "1.05T"
     },
     {
       "cname": "flutter",
       "options_name": "flutter",
       "url": "/flutter",
-      "status": "S1681024457X1681046057",
+      "status": "S1717407062X1717428662",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/flutter/",
-      "size": "2.25T"
+      "size": "4.48T"
     },
     {
       "cname": "grafana",
       "options_name": "grafana",
       "url": "/grafana",
-      "status": "S1681025343X1681046943",
+      "status": "S1717405457X1717427057",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/grafana/",
-      "size": "122.18G"
+      "size": "519.52G"
     },
     {
       "cname": "jenkins",
       "options_name": "jenkins",
       "url": "/jenkins",
-      "status": "S1681011619X1681033219",
+      "status": "S1717417218X1717438818",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/jenkins/",
-      "size": "161.94G"
+      "size": "172.80G"
     },
     {
       "cname": "openeuler",
       "options_name": "openeuler",
       "url": "/openeuler",
-      "status": "S1681013912X1681035512",
+      "status": "S1717410049X1717431649",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/openeuler/",
-      "size": "2.63T"
+      "size": "4.45T"
     },
     {
       "cname": "pypi",
       "options_name": "pypi",
       "url": "/pypi",
-      "status": "Y1680988195O1680987893",
+      "status": "F1717420863O1683239501X1717421163",
       "upstream": "https://mirrors.tuna.tsinghua.edu.cn/pypi/",
       "size": "unknown"
     },
@@ -573,49 +573,49 @@
       "cname": "raspberry-pi-os-images",
       "options_name": "raspberry-pi-os-images",
       "url": "/raspberry-pi-os-images",
-      "status": "S1681010268X1681031868",
+      "status": "S1717409191X1717430791",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspberry-pi-os-images/",
-      "size": "565.75G"
+      "size": "658.66G"
     },
     {
       "cname": "raspberrypi",
       "options_name": "raspberrypi",
       "url": "/raspberrypi",
-      "status": "S1681019104X1681040704",
+      "status": "S1717417647X1717439247",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspberrypi/",
-      "size": "302.35G"
+      "size": "453.99G"
     },
     {
       "cname": "raspbian",
       "options_name": "raspbian",
       "url": "/raspbian",
-      "status": "S1681024324X1681045924",
+      "status": "S1717406884X1717428484",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspbian/",
-      "size": "592.95G"
+      "size": "633.60G"
     },
     {
       "cname": "ubuntu",
       "options_name": "ubuntu",
       "url": "/ubuntu",
-      "status": "S1681024713X1681046313",
+      "status": "S1717407695X1717429295",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ubuntu/",
-      "size": "2.26T"
+      "size": "3.00T"
     },
     {
       "cname": "ubuntu-cdimage",
       "options_name": "ubuntu-cdimage",
       "url": "/ubuntu-cdimage",
-      "status": "S1681007900X1681029500",
+      "status": "S1717401048X1717422648",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ubuntu-cdimage/",
-      "size": "1.03T"
+      "size": "895.08G"
     },
     {
       "cname": "ubuntu-releases",
       "options_name": "ubuntu-releases",
       "url": "/ubuntu-releases",
-      "status": "S1681023787X1681045387",
+      "status": "S1717410267X1717431867",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/",
-      "size": "39.02G"
+      "size": "42.82G"
     }
   ]
 }

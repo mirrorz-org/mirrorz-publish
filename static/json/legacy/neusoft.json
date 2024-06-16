@@ -11,86 +11,86 @@
     {
       "cname": "almalinux",
       "url": "/almalinux",
-      "size": "1.24TiB",
-      "status": "S1708262052"
+      "size": "860.28GiB",
+      "status": "S1717766447"
     },
     {
       "cname": "alpine",
       "url": "/alpine",
-      "size": "2.51TiB",
-      "status": "S1708262187"
+      "size": "2.77TiB",
+      "status": "S1717765307"
     },
     {
       "cname": "archlinux",
       "url": "/archlinux",
-      "size": "95.38GiB",
-      "status": "S1708262227"
+      "size": "98.73GiB",
+      "status": "S1717766589"
     },
     {
       "cname": "centos-stream",
       "url": "/centos-stream",
-      "size": "2.10TiB",
-      "status": "S1708262080"
+      "size": "2.27TiB",
+      "status": "S1717766468"
     },
     {
       "cname": "CPAN",
       "url": "/cpan",
-      "size": "32.15GiB",
-      "status": "S1708238177"
+      "size": "30.92GiB",
+      "status": "S1717623752"
     },
     {
       "cname": "crates.io-index",
       "url": "/crates.io-index",
-      "size": "12.84GiB",
-      "status": "S1708238281"
+      "size": "2.68GiB",
+      "status": "S1717623847"
     },
     {
       "cname": "cygwin",
       "url": "/cygwin",
-      "size": "103.36GiB",
-      "status": "S1708260531"
+      "size": "104.78GiB",
+      "status": "S1717675665"
     },
     {
       "cname": "debian",
       "url": "/debian",
-      "size": "1.88TiB",
-      "status": "S1708259807"
+      "size": "1.91TiB",
+      "status": "S1716363112"
     },
     {
       "cname": "debian-cd",
       "url": "/debian-cd",
       "size": "215.70GiB",
-      "status": "S1708260412"
+      "status": "S1717675546"
     },
     {
       "cname": "eclipse",
       "url": "/eclipse",
-      "size": "1.59TiB",
-      "status": "S1708261993"
+      "size": "1.79TiB",
+      "status": "S1717677053"
     },
     {
       "cname": "elrepo",
       "url": "/elrepo",
-      "size": "85.53GiB",
-      "status": "S1708261935"
+      "size": "87.69GiB",
+      "status": "S1716363239"
     },
     {
       "cname": "epel",
       "url": "/epel",
-      "size": "495.17GiB",
-      "status": "S1708261945"
+      "size": "513.17GiB",
+      "status": "S1716363251"
     },
     {
       "cname": "fedora",
       "url": "/fedora",
-      "size": "1.56TiB",
-      "status": "S1708262149"
+      "size": "2.10TiB",
+      "status": "S1716363411"
     },
     {
       "cname": "gentoo",
       "url": "/gentoo",
-      "size": "785.76GiB",
-      "status": "S1708262308"
+      "size": "821.63GiB",
+      "status": "S1717765473"
     },
     {
       "cname": "gentoo-portage",
@@ -100,74 +100,74 @@
     {
       "cname": "kali",
       "url": "/kali",
-      "size": "929.80GiB",
-      "status": "S1708261040"
+      "size": "490.19GiB",
+      "status": "S1717764459"
     },
     {
       "cname": "kali-images",
       "url": "/kali-images",
-      "size": "170.38GiB",
-      "status": "S1708260417"
+      "size": "159.44GiB",
+      "status": "S1717675551"
     },
     {
       "cname": "mariadb",
       "url": "/mariadb",
-      "size": "872.60GiB",
-      "status": "S1708262030"
+      "size": "1.04TiB",
+      "status": "S1717677093"
     },
     {
       "cname": "postgresql",
       "url": "/postgresql",
-      "size": "414.66GiB",
-      "status": "S1708262175"
+      "size": "338.09GiB",
+      "status": "S1717677214"
     },
     {
       "cname": "pypi",
       "url": "/pypi",
-      "size": "18.12TiB",
-      "status": "S1708237564"
+      "size": "20.48TiB",
+      "status": "S1717621489"
     },
     {
       "cname": "qt",
       "url": "/qt",
-      "size": "882.02GiB",
-      "status": "S1708260380"
+      "size": "921.44GiB",
+      "status": "S1717671349"
     },
     {
       "cname": "raspbian",
       "url": "/raspbian",
-      "size": "562.54GiB",
-      "status": "S1708260424"
+      "size": "592.69GiB",
+      "status": "S1717761697"
     },
     {
       "cname": "rocky",
       "url": "/rocky",
-      "size": "1.21TiB",
-      "status": "S1708261933"
+      "size": "1.07TiB",
+      "status": "S1717766381"
     },
     {
       "cname": "rubygems",
       "url": "/rubygems",
-      "size": "799.47GiB",
-      "status": "S1708237788"
+      "size": "839.47GiB",
+      "status": "S1717623218"
     },
     {
       "cname": "ubuntu",
       "url": "/ubuntu",
-      "size": "2.44TiB",
-      "status": "S1708261304"
+      "size": "2.75TiB",
+      "status": "S1717762949"
     },
     {
       "cname": "ubuntu-releases",
       "url": "/ubuntu-releases",
-      "size": "31.49GiB",
-      "status": "S1708260421"
+      "size": "39.88GiB",
+      "status": "S1717675556"
     },
     {
       "cname": "videolan-ftp",
       "url": "/videolan",
-      "size": "100.11GiB",
-      "status": "S1708260405"
+      "size": "100.29GiB",
+      "status": "S1717675537"
     }
   ]
 }
