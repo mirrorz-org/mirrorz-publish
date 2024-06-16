@@ -1,6 +1,6 @@
 frontend: 6813762 Bump braces from 3.0.2 to 3.0.3 (#129)
 config: 4ae8324 Add xtom-sg
-parser: ea9726b utils.js: Add caching for fetch()
+parser: 67d043f utils.js: Make JavaScript transpiler happy
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 34c3ddb Add xtom-sg
 json_legacy: 2024-06-16T13:23:33.074Z
