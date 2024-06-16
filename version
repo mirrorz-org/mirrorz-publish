@@ -1,4 +1,4 @@
-frontend: 1387463 fix: ignore missing files when packing legacy
+frontend: 6813762 Bump braces from 3.0.2 to 3.0.3 (#129)
 config: 4ae8324 Add xtom-sg
 parser: ea9726b utils.js: Add caching for fetch()
 i18n: fc9633e Add dependencies for speedtest scripts
