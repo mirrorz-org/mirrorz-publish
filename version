@@ -1,4 +1,4 @@
-frontend: 6813762 Bump braces from 3.0.2 to 3.0.3 (#129)
+frontend: d8a85cb Bump ws from 7.5.6 to 7.5.10 (#130)
 config: ddb0269 nwafu: update to current configuration
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
