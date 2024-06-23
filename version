@@ -3,6 +3,6 @@ config: ddb0269 nwafu: update to current configuration
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 8f17419 nwafu: remove big
-json_legacy: 2024-06-22T13:24:45.585Z
+json_legacy: 2024-06-23T13:22:21.704Z
 legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency
