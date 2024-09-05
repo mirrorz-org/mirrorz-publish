@@ -1,4 +1,4 @@
-frontend: d8a85cb Bump ws from 7.5.6 to 7.5.10 (#130)
+frontend: 8f51e2a Bump micromatch from 4.0.5 to 4.0.8 (#131)
 config: 606dc58 jcut: Add to d_parser
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
