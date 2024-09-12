@@ -8,7 +8,7 @@ import json
 import os
 import argparse
 
-VERSION = '20240911'
+VERSION = '20240912'
 CURL_VERSION = ''
 UA_URL = 'https://mirrors.cernet.edu.cn'
 
