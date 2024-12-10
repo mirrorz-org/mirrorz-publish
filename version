@@ -1,4 +1,4 @@
-frontend: f6b0521 Bump path-to-regexp from 1.8.0 to 1.9.0 (#132)
+frontend: 80051bc Bump cross-spawn from 7.0.3 to 7.0.6 (#133)
 config: 606dc58 jcut: Add to d_parser
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
