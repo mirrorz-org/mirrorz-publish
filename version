@@ -1,4 +1,4 @@
-frontend: b2aa407 Bump @octokit/request-error from 5.0.1 to 5.1.1 (#135)
+frontend: 494fead Bump @octokit/request from 8.1.6 to 8.4.1 (#137)
 config: 606dc58 jcut: Add to d_parser
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
