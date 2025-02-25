@@ -1,4 +1,4 @@
-frontend: 494fead Bump @octokit/request from 8.1.6 to 8.4.1 (#137)
+frontend: 5cfdb4f Bump @octokit/plugin-paginate-rest from 9.1.5 to 9.2.2 (#136)
 config: 606dc58 jcut: Add to d_parser
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
