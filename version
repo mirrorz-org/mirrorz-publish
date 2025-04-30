@@ -1,4 +1,4 @@
-frontend: 5facd9b build(deps): bump base-x from 3.0.9 to 3.0.11 (#138)
+frontend: a14ddb3 build(deps-dev): bump @babel/runtime from 7.16.5 to 7.26.10 (#139)
 config: 606dc58 jcut: Add to d_parser
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
