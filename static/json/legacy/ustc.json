@@ -119,7 +119,7 @@
     "email": "lug@ustc.edu.cn",
     "group": "See https://lug.ustc.edu.cn/wiki/lug/contact/ for more information",
     "big": "/ustclug/1GB.bin",
-    "disk": "64.22 TiB / 72.37 TiB"
+    "disk": "64.30 TiB / 72.37 TiB"
   },
   "info": [
     {
@@ -5992,7 +5992,7 @@
       "cname": "Adoptium",
       "desc": "",
       "url": "/adoptium",
-      "status": "S1751579598X1751665800",
+      "status": "S1751838791X1751925000",
       "help": "",
       "upstream": "https://packages.adoptium.net/artifactory/rpm/",
       "size": "132.46 GiB"
@@ -6001,7 +6001,7 @@
       "cname": "alpine",
       "desc": "",
       "url": "/alpine",
-      "status": "S1751576803X1751662500",
+      "status": "S1751836303X1751921700",
       "help": "/help/alpine.html",
       "upstream": "rsync://rsync.alpinelinux.org/alpine/",
       "size": "4.16 TiB"
@@ -6018,16 +6018,16 @@
       "cname": "anthon",
       "desc": "",
       "url": "/anthon",
-      "status": "S1751568974X1751652780",
+      "status": "S1751825686X1751911980",
       "help": "/help/anthon.html",
       "upstream": "rsync://repo.aosc.io/anthon/",
-      "size": "1.92 TiB"
+      "size": "1.93 TiB"
     },
     {
       "cname": "AOSP",
       "desc": "",
       "url": "/aosp",
-      "status": "S1751591928X1751661000",
+      "status": "S1751852449X1751920200",
       "help": "/help/aosp.html",
       "upstream": "https://android.googlesource.com/mirror/manifest",
       "size": "1.42 TiB"
@@ -6036,7 +6036,7 @@
       "cname": "aosp-monthly",
       "desc": "",
       "url": "/aosp-monthly",
-      "status": "S1751573706X1751660100",
+      "status": "S1751832905X1751919300",
       "help": "",
       "upstream": "rsync://mirrors.bfsu.edu.cn/aosp-monthly/",
       "size": "89.37 GiB"
@@ -6045,52 +6045,52 @@
       "cname": "apache",
       "desc": "",
       "url": "/apache",
-      "status": "S1751567910X1751654100",
+      "status": "S1751826940X1751913300",
       "help": "",
       "upstream": "rsync://rsync.apache.org/apache-dist/",
-      "size": "336.55 GiB"
+      "size": "337.83 GiB"
     },
     {
       "cname": "archlinux",
       "desc": "",
       "url": "/archlinux",
-      "status": "S1751635400X1751638980",
+      "status": "S1751894602X1751898180",
       "help": "/help/archlinux.html",
       "upstream": "rsync://rsync.archlinux.org/ftp_tier1",
-      "size": "114.18 GiB"
+      "size": "115.07 GiB"
     },
     {
       "cname": "archlinuxarm",
       "desc": "",
       "url": "/archlinuxarm",
-      "status": "S1751623392X1751644980",
+      "status": "S1751882593X1751904180",
       "help": "/help/archlinuxarm.html",
       "upstream": "rsync://ftp.halifax.rwth-aachen.de/archlinux-arm/",
-      "size": "133.40 GiB"
+      "size": "133.43 GiB"
     },
     {
       "cname": "archlinuxcn",
       "desc": "",
       "url": "/archlinuxcn",
-      "status": "S1751634930X1751639220",
+      "status": "S1751894918X1751898420",
       "help": "/help/archlinuxcn.html",
       "upstream": "rsync://sync.repo.archlinuxcn.org/repo/",
-      "size": "121.38 GiB"
+      "size": "121.96 GiB"
     },
     {
       "cname": "armbian",
       "desc": "",
       "url": "/armbian",
-      "status": "S1751631010X1751715000",
+      "status": "S1751890155X1751974200",
       "help": "",
       "upstream": "rsync://rsync.armbian.com/apt",
-      "size": "166.33 GiB"
+      "size": "169.53 GiB"
     },
     {
       "cname": "armbian-releases",
       "desc": "",
       "url": "/armbian-dl",
-      "status": "S1751553011X1751639400",
+      "status": "S1751812218X1751898600",
       "help": "",
       "upstream": "rsync://rsync.armbian.com/dl/",
       "size": "768.67 GiB"
@@ -6099,16 +6099,16 @@
       "cname": "bioconductor",
       "desc": "",
       "url": "/bioc",
-      "status": "S1751570446X1751655300",
+      "status": "S1751829054X1751914500",
       "help": "",
       "upstream": "rsync://master.bioconductor.org//",
-      "size": "382.39 GiB"
+      "size": "382.42 GiB"
     },
     {
       "cname": "bjlx",
       "desc": "",
       "url": "/bjlx",
-      "status": "S1751571306X1751657700",
+      "status": "S1751830506X1751916900",
       "help": "",
       "upstream": "rsync://rsync.anheng.com.cn/bjlx/",
       "size": "4.71 GiB"
@@ -6117,43 +6117,43 @@
       "cname": "blackarch",
       "desc": "",
       "url": "/blackarch",
-      "status": "S1751570127X1751656500",
+      "status": "S1751829603X1751915700",
       "help": "/help/blackarch.html",
       "upstream": "rsync://www.blackarch.org/blackarch/",
-      "size": "90.79 GiB"
+      "size": "95.80 GiB"
     },
     {
       "cname": "bmclapi",
       "desc": "",
       "url": "/bmclapi",
-      "status": "S1751628912X1751643300",
+      "status": "S1751888108X1751902500",
       "help": "",
       "upstream": "rsync://s3p.933.moe/bmclapi/maven/",
-      "size": "95.52 GiB"
+      "size": "95.59 GiB"
     },
     {
       "cname": "brew.git",
       "desc": "",
       "url": "/brew.git",
-      "status": "S1751633594X1751637180",
+      "status": "S1751892794X1751896380",
       "help": "/help/brew.git.html",
       "upstream": "https://github.com/Homebrew/brew.git",
-      "size": "219.28 MiB"
+      "size": "155.27 MiB"
     },
     {
       "cname": "cachyos",
       "desc": "",
       "url": "/cachyos",
-      "status": "S1751633487X1751637060",
+      "status": "S1751892785X1751896260",
       "help": "/help/cachyos.html",
       "upstream": "rsync://cachyos-upstream/cachyos",
-      "size": "181.71 GiB"
+      "size": "181.79 GiB"
     },
     {
       "cname": "centos-cloud",
       "desc": "",
       "url": "/centos-cloud",
-      "status": "S1751572130X1751658480",
+      "status": "S1751831340X1751917680",
       "help": "",
       "upstream": "https://cloud.centos.org///",
       "size": "759.71 GiB"
@@ -6162,16 +6162,16 @@
       "cname": "centos-stream",
       "desc": "",
       "url": "/centos-stream",
-      "status": "S1751629580X1751643960",
+      "status": "S1751889479X1751903160",
       "help": "/help/centos-stream.html",
       "upstream": "rsync://rsync.stream.centos.org/CentOS-Stream-All",
-      "size": "1.93 TiB"
+      "size": "1.96 TiB"
     },
     {
       "cname": "centos-vault",
       "desc": "",
       "url": "/centos-vault",
-      "status": "S1751212093X1751643900",
+      "status": "S1751816886X1752248700",
       "help": "/help/centos-vault.html",
       "upstream": "rsync://mirrors.bfsu.edu.cn/centos-vault/",
       "size": "4.17 TiB"
@@ -6180,7 +6180,7 @@
       "cname": "ceph",
       "desc": "",
       "url": "/ceph",
-      "status": "S1751566514X1751652900",
+      "status": "S1751825715X1751912100",
       "help": "/help/ceph.html",
       "upstream": "rsync://download.ceph.com/ceph/",
       "size": "364.40 GiB"
@@ -6189,16 +6189,16 @@
       "cname": "clojars",
       "desc": "",
       "url": "/clojars",
-      "status": "S1751597558X1751672820",
+      "status": "F1751845624O1751770303X1751932020",
       "help": "/help/clojars.html",
       "upstream": "https://s3.us-east-2.amazonaws.com/clojars-repo-production",
-      "size": "164.01 GiB"
+      "size": "164.10 GiB"
     },
     {
       "cname": "CPAN",
       "desc": "",
       "url": "/CPAN",
-      "status": "F1751571424O1751312269X1751657820",
+      "status": "F1751830624O1751312269X1751917020",
       "help": "/help/CPAN.html",
       "upstream": "rsync://ftp.kddilabs.jp/cpan/",
       "size": "34.38 GiB"
@@ -6207,34 +6207,34 @@
       "cname": "CRAN",
       "desc": "",
       "url": "/CRAN",
-      "status": "S1751575164X1751658420",
+      "status": "S1751837536X1751917620",
       "help": "/help/CRAN.html",
       "upstream": "rsync://cran.r-project.org//",
-      "size": "565.44 GiB"
+      "size": "565.15 GiB"
     },
     {
       "cname": "crates.io-index",
       "desc": "",
       "url": "/crates.io-index",
-      "status": "S1751633145X1751636700",
+      "status": "S1751892351X1751895900",
       "help": "/help/crates.io-index.html",
       "upstream": "https://github.com/rust-lang/crates.io-index",
-      "size": "4.12 GiB"
+      "size": "4.22 GiB"
     },
     {
       "cname": "CTAN",
       "desc": "",
       "url": "/CTAN",
-      "status": "S1751633247X1751676420",
+      "status": "S1751892721X1751935620",
       "help": "",
       "upstream": "rsync://rsync.dante.ctan.org/CTAN",
-      "size": "61.77 GiB"
+      "size": "62.19 GiB"
     },
     {
       "cname": "ctex",
       "desc": "",
       "url": "/ctex",
-      "status": "S1751574365X1751660760",
+      "status": "S1751833565X1751919960",
       "help": "",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ctex/",
       "size": "15.46 GiB"
@@ -6243,34 +6243,34 @@
       "cname": "cygwin",
       "desc": "",
       "url": "/cygwin",
-      "status": "S1751572414X1751658780",
+      "status": "S1751831670X1751917980",
       "help": "",
       "upstream": "rsync://cygwin.com/cygwin-ftp/",
-      "size": "115.15 GiB"
+      "size": "115.55 GiB"
     },
     {
       "cname": "deb-multimedia",
       "desc": "",
       "url": "/deb-multimedia",
-      "status": "S1751568979X1751654700",
+      "status": "S1751827539X1751913900",
       "help": "/help/deb-multimedia.html",
       "upstream": "rsync://www.deb-multimedia.org/deb/",
-      "size": "14.87 GiB"
+      "size": "14.90 GiB"
     },
     {
       "cname": "debian",
       "desc": "",
       "url": "/debian",
-      "status": "S1751618463X1751637480",
+      "status": "S1751877140X1751896680",
       "help": "/help/debian.html",
       "upstream": "rsync://syncproxy2.wna.debian.org/debian/",
-      "size": "1.94 TiB"
+      "size": "1.96 TiB"
     },
     {
       "cname": "debian-cd",
       "desc": "",
       "url": "/debian-cd",
-      "status": "S1751559025X1751644500",
+      "status": "S1751818239X1751903700",
       "help": "/help/debian-cd.html",
       "upstream": "rsync://cdimage.debian.org/private/debian-cd/",
       "size": "225.70 GiB"
@@ -6288,16 +6288,16 @@
       "cname": "debian-security",
       "desc": "",
       "url": "/debian-security",
-      "status": "S1751633540X1751655120",
+      "status": "S1751892736X1751914320",
       "help": "/help/debian-security.html",
       "upstream": "rsync://rsync.security.debian.org/debian-security",
-      "size": "197.69 GiB"
+      "size": "199.03 GiB"
     },
     {
       "cname": "debiancn",
       "desc": "",
       "url": "/debiancn",
-      "status": "S1751564827X1751651220",
+      "status": "S1751824028X1751910420",
       "help": "/help/debiancn.html",
       "upstream": "rsync://repo.debiancn.org/debiancn/",
       "size": "5.79 GiB"
@@ -6306,7 +6306,7 @@
       "cname": "deepin",
       "desc": "",
       "url": "/deepin",
-      "status": "S1751550067X1751636400",
+      "status": "S1751809238X1751895600",
       "help": "",
       "upstream": "rsync://rsync.deepin.com/deepin/",
       "size": "1.11 TiB"
@@ -6315,7 +6315,7 @@
       "cname": "deepin-cd",
       "desc": "",
       "url": "/deepin-cd",
-      "status": "S1751562908X1751649300",
+      "status": "S1751822108X1751908500",
       "help": "",
       "upstream": "rsync://rsync.deepin.com/cdimage/",
       "size": "186.90 GiB"
@@ -6324,34 +6324,34 @@
       "cname": "docker-ce",
       "desc": "",
       "url": "/docker-ce",
-      "status": "S1751574473X1751659800",
+      "status": "S1751833392X1751919000",
       "help": "/help/docker-ce.html",
       "upstream": "https://download.docker.com/",
-      "size": "389.00 GiB"
+      "size": "386.76 GiB"
     },
     {
       "cname": "eclipse",
       "desc": "",
       "url": "/eclipse",
-      "status": "F1751555224O1751212552X1751641620",
+      "status": "S1751819358X1751900820",
       "help": "/help/eclipse.html",
       "upstream": "rsync://rsync2.osuosl.org/eclipse",
-      "size": "2.43 TiB"
+      "size": "2.44 TiB"
     },
     {
       "cname": "elpa",
       "desc": "",
       "url": "/elpa",
-      "status": "S1751573476X1751659500",
+      "status": "S1751833460X1751918700",
       "help": "/help/elpa.html",
       "upstream": "rsync://mirrors.bfsu.edu.cn/elpa/",
-      "size": "3.67 GiB"
+      "size": "3.35 GiB"
     },
     {
       "cname": "elrepo",
       "desc": "",
       "url": "/elrepo",
-      "status": "S1751585110X1751671500",
+      "status": "S1751844309X1751930700",
       "help": "",
       "upstream": "rsync://ftp.yz.yamagata-u.ac.jp/pub/linux/RPMS/elrepo/",
       "size": "92.72 GiB"
@@ -6360,25 +6360,25 @@
       "cname": "emacs.git",
       "desc": "",
       "url": "/emacs.git",
-      "status": "S1751571051X1751657400",
+      "status": "S1751830250X1751916600",
       "help": "",
       "upstream": "git://git.savannah.gnu.org/emacs.git",
-      "size": "984.60 MiB"
+      "size": "984.73 MiB"
     },
     {
       "cname": "epel",
       "desc": "",
       "url": "/epel",
-      "status": "S1751618976X1751636940",
+      "status": "S1751878157X1751896140",
       "help": "/help/epel.html",
       "upstream": "rsync://ftp-stud.hs-esslingen.de/fedora-epel",
-      "size": "659.73 GiB"
+      "size": "673.25 GiB"
     },
     {
       "cname": "epel-archive",
       "desc": "",
       "url": "/epel-archive",
-      "status": "S1751618950X1751636940",
+      "status": "S1751878151X1751896140",
       "help": "",
       "upstream": "rsync://ftp-stud.hs-esslingen.de/fedora-archive/epel/7",
       "size": "79.78 GiB"
@@ -6387,7 +6387,7 @@
       "cname": "fedora",
       "desc": "",
       "url": "/fedora",
-      "status": "S1751631320X1751645700",
+      "status": "S1751890525X1751904900",
       "help": "/help/fedora.html",
       "upstream": "rsync://ftp-stud.hs-esslingen.de/fedora-enchilada/linux/",
       "size": "1.16 TiB"
@@ -6396,25 +6396,25 @@
       "cname": "fedora-altarch",
       "desc": "",
       "url": "/fedora-altarch",
-      "status": "S1751618289X1751636280",
+      "status": "S1751877492X1751895480",
       "help": "",
       "upstream": "rsync://fr2.rpmfind.net/fedora-secondary",
-      "size": "51.41 GiB"
+      "size": "51.37 GiB"
     },
     {
       "cname": "flathub",
       "desc": "",
       "url": "/flathub",
-      "status": "S1751632928X1751636400",
+      "status": "S1751892078X1751895600",
       "help": "/help/flathub.html",
       "upstream": "https://dl.flathub.org/repo/",
-      "size": "526.34 GiB"
+      "size": "529.88 GiB"
     },
     {
       "cname": "FreeBSD",
       "desc": "",
       "url": "/freebsd",
-      "status": "S1751620989X1751642580",
+      "status": "S1751880190X1751901780",
       "help": "/help/freebsd.html",
       "upstream": "rsync://ftp.kr.freebsd.org/FreeBSD/",
       "size": "320.96 GiB"
@@ -6423,52 +6423,52 @@
       "cname": "FreeBSD-pkg",
       "desc": "",
       "url": "/freebsd-pkg",
-      "status": "S1751599108X1751649780",
+      "status": "S1751827338X1751908980",
       "help": "/help/freebsd-pkg.html",
       "upstream": "http://pkg0.kul.freebsd.org",
-      "size": "2.20 TiB"
+      "size": "2.07 TiB"
     },
     {
       "cname": "FreeBSD-ports",
       "desc": "",
       "url": "/freebsd-ports",
-      "status": "S1751570589X1751653380",
+      "status": "S1751829963X1751912580",
       "help": "/help/freebsd-ports.html",
       "upstream": "http://distcache.freebsd.org/ports-distfiles/",
-      "size": "261.27 GiB"
+      "size": "257.92 GiB"
     },
     {
       "cname": "gentoo",
       "desc": "",
       "url": "/gentoo",
-      "status": "S1751626517X1751640840",
+      "status": "S1751885900X1751900040",
       "help": "/help/gentoo.html",
       "upstream": "rsync://masterdistfiles.gentoo.org/gentoo/",
-      "size": "907.05 GiB"
+      "size": "915.40 GiB"
     },
     {
       "cname": "gentoo-portage",
       "desc": "",
       "url": "/gentoo-portage",
-      "status": "S1751627905X1751649480",
+      "status": "S1751887327X1751908680",
       "help": "/help/gentoo-portage.html",
       "upstream": "rsync://mirror.yandex.ru/gentoo-portage/",
-      "size": "341.46 MiB"
+      "size": "336.51 MiB"
     },
     {
       "cname": "gentoo.git",
       "desc": "",
       "url": "/gentoo.git",
-      "status": "S1751624174X1751645220",
+      "status": "S1751883361X1751904420",
       "help": "/help/gentoo.git.html",
       "upstream": "https://github.com/gentoo-mirror/gentoo.git",
-      "size": "10.15 GiB"
+      "size": "10.16 GiB"
     },
     {
       "cname": "ghcup",
       "desc": "",
       "url": "/ghcup",
-      "status": "S1751624483X1751710800",
+      "status": "S1751883621X1751970000",
       "help": "/help/ghcup.html",
       "upstream": "https://www.haskell.org/ghcup/",
       "size": "341.88 GiB"
@@ -6477,7 +6477,7 @@
       "cname": "gimp",
       "desc": "",
       "url": "/gimp",
-      "status": "S1751585590X1751671980",
+      "status": "S1751844791X1751931180",
       "help": "",
       "upstream": "rsync://rsync.mirrorservice.org/ftp.gimp.org/pub/gimp/",
       "size": "54.59 GiB"
@@ -6486,7 +6486,7 @@
       "cname": "github-release",
       "desc": "",
       "url": "/github-release",
-      "status": "S1751569309X1751655660",
+      "status": "S1751828487X1751914860",
       "help": "/help/github-release.html",
       "upstream": "https://github.com",
       "size": "31.57 GiB"
@@ -6495,7 +6495,7 @@
       "cname": "gmt",
       "desc": "",
       "url": "/gmt",
-      "status": "S1751582359X1751668740",
+      "status": "S1751841559X1751927940",
       "help": "",
       "upstream": "rsync://gmt.mirror.ac.za/gmt/",
       "size": "105.90 GiB"
@@ -6504,7 +6504,7 @@
       "cname": "gmtdata",
       "desc": "",
       "url": "/gmtdata",
-      "status": "S1751567954X1751654340",
+      "status": "S1751827155X1751913540",
       "help": "",
       "upstream": "rsync://oceania.generic-mapping-tools.org/gmtdata/",
       "size": "81.48 GiB"
@@ -6513,16 +6513,16 @@
       "cname": "gnu",
       "desc": "",
       "url": "/gnu",
-      "status": "S1751571910X1751658300",
+      "status": "S1751831111X1751917500",
       "help": "",
       "upstream": "rsync://ftp.jaist.ac.jp/pub/GNU/",
-      "size": "195.97 GiB"
+      "size": "195.99 GiB"
     },
     {
       "cname": "golang",
       "desc": "",
       "url": "/golang",
-      "status": "S1751565702X1751652060",
+      "status": "S1751824901X1751911260",
       "help": "",
       "upstream": "gs://golang/",
       "size": "1004.88 GiB"
@@ -6531,7 +6531,7 @@
       "cname": "hackage",
       "desc": "",
       "url": "/hackage",
-      "status": "S1751591489X1751677860",
+      "status": "S1751850694X1751937060",
       "help": "/help/hackage.html",
       "upstream": "https://hackage.haskell.org/",
       "size": "19.50 GiB"
@@ -6540,16 +6540,16 @@
       "cname": "homebrew-bottles",
       "desc": "",
       "url": "/homebrew-bottles",
-      "status": "S1751634097X1751637300",
+      "status": "S1751893812X1751896500",
       "help": "/help/homebrew-bottles.html",
       "upstream": "https://ghcr.io/v2/homebrew/",
-      "size": "541.44 GiB"
+      "size": "539.83 GiB"
     },
     {
       "cname": "homebrew-cask.git",
       "desc": "",
       "url": "/homebrew-cask.git",
-      "status": "S1751633870X1751637300",
+      "status": "S1751893071X1751896500",
       "help": "/help/homebrew-cask.git.html",
       "upstream": "https://github.com/Homebrew/homebrew-cask.git",
       "size": "1.01 GiB"
@@ -6558,25 +6558,25 @@
       "cname": "homebrew-core.git",
       "desc": "",
       "url": "/homebrew-core.git",
-      "status": "F1751633644O1751137330X1751637240",
+      "status": "F1751892844O1751137330X1751896440",
       "help": "/help/homebrew-core.git.html",
       "upstream": "https://github.com/Homebrew/homebrew-core.git",
-      "size": "2.08 GiB"
+      "size": "2.20 GiB"
     },
     {
       "cname": "homebrew-services.git",
       "desc": "",
       "url": "/homebrew-services.git",
-      "status": "S1751635447X1751639040",
+      "status": "S1751894645X1751898240",
       "help": "/help/homebrew-services.git.html",
       "upstream": "https://github.com/Homebrew/homebrew-services.git",
-      "size": "1.56 MiB"
+      "size": "1.57 MiB"
     },
     {
       "cname": "immortalwrt",
       "desc": "",
       "url": "/immortalwrt",
-      "status": "S1751555712X1751641980",
+      "status": "S1751817622X1751901180",
       "help": "/help/immortalwrt.html",
       "upstream": "rsync://rsync-mirror.infra.immortalwrt.org/firmware-public",
       "size": "1.37 TiB"
@@ -6585,7 +6585,7 @@
       "cname": "incus",
       "desc": "",
       "url": "/incus",
-      "status": "F1751565305O1751047021X1751651700",
+      "status": "F1751824505O1751047021X1751910900",
       "help": "",
       "upstream": "https://pkgs.zabbly.com/incus/",
       "size": "6.20 GiB"
@@ -6602,16 +6602,16 @@
       "cname": "jenkins",
       "desc": "",
       "url": "/jenkins",
-      "status": "S1751569910X1751656260",
+      "status": "S1751829083X1751915460",
       "help": "",
       "upstream": "rsync://rsync.osuosl.org/jenkins/",
-      "size": "175.03 GiB"
+      "size": "174.61 GiB"
     },
     {
       "cname": "julia-releases",
       "desc": "",
       "url": "/julia-releases",
-      "status": "S1751571906X1751658300",
+      "status": "S1751831106X1751917500",
       "help": "",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/julia-releases/",
       "size": "284.80 GiB"
@@ -6620,43 +6620,43 @@
       "cname": "kali",
       "desc": "",
       "url": "/kali",
-      "status": "S1751632100X1751641980",
+      "status": "S1751891057X1751901180",
       "help": "/help/kali.html",
       "upstream": "rsync://archive.kali.org/kali/",
-      "size": "518.37 GiB"
+      "size": "525.38 GiB"
     },
     {
       "cname": "kali-images",
       "desc": "",
       "url": "/kali-images",
-      "status": "S1751569993X1751656380",
+      "status": "S1751833067X1751915580",
       "help": "",
       "upstream": "rsync://archive.kali.org/kali-images/",
-      "size": "137.55 GiB"
+      "size": "137.66 GiB"
     },
     {
       "cname": "kde",
       "desc": "",
       "url": "/kde",
-      "status": "S1751581868X1751667900",
+      "status": "S1751840725X1751927100",
       "help": "",
       "upstream": "rsync://rsync.kde.org/kdeftp/",
-      "size": "913.50 GiB"
+      "size": "914.24 GiB"
     },
     {
       "cname": "kde-application",
       "desc": "",
       "url": "/kde-application",
-      "status": "S1751572814X1751655420",
+      "status": "S1751832293X1751914620",
       "help": "",
       "upstream": "rsync://rsync.kde.org/applicationdata/",
-      "size": "944.33 GiB"
+      "size": "913.04 GiB"
     },
     {
       "cname": "kernel.org",
       "desc": "",
       "url": "/kernel.org",
-      "status": "S1751632930X1751654340",
+      "status": "S1751892044X1751913540",
       "help": "",
       "upstream": "rsync://rsync.kernel.org/pub/",
       "size": "1.54 TiB"
@@ -6665,7 +6665,7 @@
       "cname": "knoppix",
       "desc": "",
       "url": "/knoppix",
-      "status": "S1751576710X1751663100",
+      "status": "S1751835910X1751922300",
       "help": "",
       "upstream": "rsync://ftp.uni-kl.de/knoppix/",
       "size": "6.84 GiB"
@@ -6674,7 +6674,7 @@
       "cname": "knoppix-dvd",
       "desc": "",
       "url": "/knoppix-dvd",
-      "status": "S1751577909X1751664300",
+      "status": "S1751837108X1751923500",
       "help": "",
       "upstream": "rsync://ftp.uni-kl.de/knoppix-dvd/",
       "size": "17.39 GiB"
@@ -6683,16 +6683,16 @@
       "cname": "kodi",
       "desc": "",
       "url": "/xbmc",
-      "status": "S1751567890X1751653620",
+      "status": "S1751826621X1751912820",
       "help": "/help/xbmc.html",
       "upstream": "rsync://mirror.yandex.ru/mirrors/xbmc/",
-      "size": "224.93 GiB"
+      "size": "223.12 GiB"
     },
     {
       "cname": "kubernetes",
       "desc": "",
       "url": "/kubernetes",
-      "status": "S1751570711X1751657100",
+      "status": "S1751829908X1751916300",
       "help": "/help/kubernetes.html",
       "upstream": "rsync://stage.opensuse.org/buildservice-repos-main/isv:/kubernetes:/",
       "size": "48.36 GiB"
@@ -6701,7 +6701,7 @@
       "cname": "lfs",
       "desc": "",
       "url": "/lfs",
-      "status": "S1751563511X1751649900",
+      "status": "S1751822769X1751909100",
       "help": "",
       "upstream": "rsync://ftp.osuosl.org/lfs/",
       "size": "40.61 GiB"
@@ -6710,7 +6710,7 @@
       "cname": "libnvidia-container",
       "desc": "",
       "url": "/libnvidia-container",
-      "status": "S1751586034X1751672400",
+      "status": "S1751845237X1751931600",
       "help": "/help/libnvidia-container.html",
       "upstream": "https://github.com/NVIDIA/libnvidia-container.git",
       "size": "7.28 GiB"
@@ -6719,7 +6719,7 @@
       "cname": "libreelec",
       "desc": "",
       "url": "/libreelec",
-      "status": "S1751570710X1751657100",
+      "status": "S1751829909X1751916300",
       "help": "",
       "upstream": "rsync://releases.libreelec.tv/releases/",
       "size": "69.21 GiB"
@@ -6728,7 +6728,7 @@
       "cname": "libreoffice",
       "desc": "",
       "url": "/tdf",
-      "status": "S1751571798X1751658180",
+      "status": "S1751830998X1751917380",
       "help": "",
       "upstream": "rsync://rsync.documentfoundation.org/tdf-pub/",
       "size": "139.95 GiB"
@@ -6737,25 +6737,25 @@
       "cname": "lineage-rom",
       "desc": "",
       "url": "/lineageos",
-      "status": "S1751564259X1751649180",
+      "status": "S1751822939X1751908380",
       "help": "",
       "upstream": "rsync://mirror.accum.se/mirror/lineageos/",
-      "size": "1.09 TiB"
+      "size": "1.10 TiB"
     },
     {
       "cname": "linux.git",
       "desc": "",
       "url": "/linux.git",
-      "status": "S1751581073X1751666820",
+      "status": "S1751840557X1751926020",
       "help": "/help/linux.git.html",
       "upstream": "git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git",
-      "size": "4.72 GiB"
+      "size": "4.71 GiB"
     },
     {
       "cname": "linuxmint",
       "desc": "",
       "url": "/linuxmint",
-      "status": "S1751629991X1751651580",
+      "status": "S1751889190X1751910780",
       "help": "/help/linuxmint.html",
       "upstream": "rsync://rsync-packages.linuxmint.com/packages/",
       "size": "40.44 GiB"
@@ -6764,7 +6764,7 @@
       "cname": "linuxmint-cd",
       "desc": "",
       "url": "/linuxmint-cd",
-      "status": "S1751565309X1751651700",
+      "status": "S1751824510X1751910900",
       "help": "",
       "upstream": "rsync://pub.linuxmint.com/pub/",
       "size": "115.43 GiB"
@@ -6773,7 +6773,7 @@
       "cname": "loongnix",
       "desc": "",
       "url": "/loongnix",
-      "status": "F1751555104O1722265540X1751641500",
+      "status": "F1751814304O1722265540X1751900700",
       "help": "",
       "upstream": "rsync://114.242.206.182/loongnix/",
       "size": "438.22 GiB"
@@ -6782,7 +6782,7 @@
       "cname": "loongnix-server",
       "desc": "",
       "url": "/loongnix-server",
-      "status": "F1751555105O1722265541X1751641500",
+      "status": "F1751814305O1722265541X1751900700",
       "help": "",
       "upstream": "rsync://114.242.206.182/loongnix-server/",
       "size": "162.11 GiB"
@@ -6791,7 +6791,7 @@
       "cname": "loongson",
       "desc": "",
       "url": "/loongson",
-      "status": "S1751146505X1751751300",
+      "status": "S1751751306X1752356100",
       "help": "",
       "upstream": "rsync://rsync.anheng.com.cn/loongson/",
       "size": "21.91 GiB"
@@ -6800,16 +6800,16 @@
       "cname": "manjaro",
       "desc": "",
       "url": "/manjaro",
-      "status": "Y1751617624O1751611678X1751639220",
+      "status": "S1751877009X1751898420",
       "help": "/help/manjaro.html",
       "upstream": "rsync://mirror.yandex.ru/mirrors/manjaro/",
-      "size": "226.84 GiB"
+      "size": "229.35 GiB"
     },
     {
       "cname": "mariadb",
       "desc": "",
       "url": "/mariadb",
-      "status": "S1751571191X1751657580",
+      "status": "S1751830389X1751916780",
       "help": "/help/mariadb.html",
       "upstream": "rsync://mirror.xtom.com/mariadb/",
       "size": "170.63 GiB"
@@ -6826,7 +6826,7 @@
       "cname": "monitoring-plugins",
       "desc": "",
       "url": "/monitoring-plugins",
-      "status": "S1751572390X1751658780",
+      "status": "S1751831592X1751917980",
       "help": "",
       "upstream": "rsync://rsync.monitoring-plugins.org/plugins/",
       "size": "103.58 MiB"
@@ -6835,34 +6835,34 @@
       "cname": "mozilla",
       "desc": "",
       "url": "/mozilla",
-      "status": "S1751581882X1751667900",
+      "status": "S1751840896X1751927100",
       "help": "/help/mozilla.html",
       "upstream": "https://packages.mozilla.org/",
-      "size": "10.20 GiB"
+      "size": "9.90 GiB"
     },
     {
       "cname": "msys2",
       "desc": "",
       "url": "/msys2",
-      "status": "S1751572516X1751658900",
+      "status": "S1751832058X1751918100",
       "help": "/help/msys2.html",
       "upstream": "rsync://repo.msys2.org/builds/",
-      "size": "1011.29 GiB"
+      "size": "999.25 GiB"
     },
     {
       "cname": "mysql",
       "desc": "",
       "url": "/mysql-repo",
-      "status": "S1751577777X1751663700",
+      "status": "S1751836787X1751922900",
       "help": "/help/mysql-repo.html",
       "upstream": "https://repo.mysql.com/",
-      "size": "873.43 GiB"
+      "size": "873.44 GiB"
     },
     {
       "cname": "neurodebian",
       "desc": "",
       "url": "/neurodebian",
-      "status": "S1751578512X1751664900",
+      "status": "S1751837713X1751924100",
       "help": "",
       "upstream": "rsync://neuro.debian.net/neurodebian/",
       "size": "77.46 GiB"
@@ -6871,7 +6871,7 @@
       "cname": "nginx",
       "desc": "",
       "url": "/nginx",
-      "status": "S1751580146X1751664300",
+      "status": "S1751839344X1751923500",
       "help": "",
       "upstream": "http://nginx.org/packages//./",
       "size": "91.23 GiB"
@@ -6880,16 +6880,16 @@
       "cname": "nix-channels",
       "desc": "",
       "url": "/nix-channels",
-      "status": "S1751623681X1751637000",
+      "status": "S1751884444X1751896200",
       "help": "/help/nix-channels.html",
       "upstream": "https://cache.nixos.org/",
-      "size": "823.74 GiB"
+      "size": "824.47 GiB"
     },
     {
       "cname": "nodejs-release",
       "desc": "",
       "url": "/node",
-      "status": "S1751584896X1751670420",
+      "status": "S1751844056X1751929620",
       "help": "/help/node.html",
       "upstream": "http://nodejs.org/dist/",
       "size": "544.53 GiB"
@@ -6898,16 +6898,16 @@
       "cname": "openeuler",
       "desc": "",
       "url": "/openeuler",
-      "status": "S1751568416X1751654700",
+      "status": "S1751827594X1751913900",
       "help": "/help/openeuler.html",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/openeuler/",
-      "size": "8.27 TiB"
+      "size": "8.31 TiB"
     },
     {
       "cname": "openresty",
       "desc": "",
       "url": "/openresty",
-      "status": "S1751577292X1751663580",
+      "status": "S1751836497X1751922780",
       "help": "",
       "upstream": "http://openresty.org/package/",
       "size": "59.03 GiB"
@@ -6916,16 +6916,16 @@
       "cname": "opensuse",
       "desc": "",
       "url": "/opensuse",
-      "status": "F1751573704O1750886125X1751660100",
+      "status": "S1751835704X1751919300",
       "help": "/help/opensuse.html",
       "upstream": "rsync://stage.opensuse.org/opensuse-full-with-factory/opensuse/",
-      "size": "2.11 TiB"
+      "size": "2.24 TiB"
     },
     {
       "cname": "openvz",
       "desc": "",
       "url": "/openvz",
-      "status": "S1751555833X1751642220",
+      "status": "S1751815032X1751901420",
       "help": "",
       "upstream": "rsync://download.openvz.org/openvz-download/",
       "size": "394.61 GiB"
@@ -6934,7 +6934,7 @@
       "cname": "openwrt",
       "desc": "",
       "url": "/openwrt",
-      "status": "S1751573088X1751653680",
+      "status": "S1751831469X1751912880",
       "help": "/help/openwrt.html",
       "upstream": "rsync://rsync.openwrt.org/downloads/",
       "size": "2.10 TiB"
@@ -6943,34 +6943,34 @@
       "cname": "packaging-gitea",
       "desc": "",
       "url": "/packaging-gitea",
-      "status": "S1751580732X1751667120",
+      "status": "S1751839931X1751926320",
       "help": "/help/packaging-gitea.html",
       "upstream": "https://packaging.gitlab.io/gitea/",
-      "size": "252.16 MiB"
+      "size": "252.15 MiB"
     },
     {
       "cname": "packman",
       "desc": "",
       "url": "/packman",
-      "status": "S1751575878X1751661900",
+      "status": "S1751834728X1751921100",
       "help": "/help/packman.html",
       "upstream": "rsync://mirror.karneval.cz/packman/",
-      "size": "180.85 GiB"
+      "size": "173.78 GiB"
     },
     {
       "cname": "parrot",
       "desc": "",
       "url": "/parrot",
-      "status": "S1751578375X1751663100",
+      "status": "S1751836195X1751922300",
       "help": "",
       "upstream": "rsync://rsync.parrot.sh/parrot/",
-      "size": "475.57 GiB"
+      "size": "481.15 GiB"
     },
     {
       "cname": "percona",
       "desc": "",
       "url": "/percona",
-      "status": "S1751568159X1751654280",
+      "status": "S1751827359X1751913480",
       "help": "",
       "upstream": "rsync://rsync.percona.com/rsync/",
       "size": "10.28 TiB"
@@ -6979,25 +6979,25 @@
       "cname": "postmarketOS",
       "desc": "",
       "url": "/postmarketos",
-      "status": "S1751583945X1751670300",
+      "status": "S1751843217X1751929500",
       "help": "",
       "upstream": "rsync://mirror.postmarketos.org/postmarketos",
-      "size": "45.30 GiB"
+      "size": "45.24 GiB"
     },
     {
       "cname": "proxmox",
       "desc": "",
       "url": "/proxmox",
-      "status": "S1751577699X1751663820",
+      "status": "S1751836747X1751923020",
       "help": "/help/proxmox.html",
       "upstream": "http://download.proxmox.com/",
-      "size": "189.58 GiB"
+      "size": "189.04 GiB"
     },
     {
       "cname": "puppy",
       "desc": "",
       "url": "/puppy",
-      "status": "F1751577784O1749245033X1751664180",
+      "status": "F1751836984O1749245033X1751923380",
       "help": "",
       "upstream": "rsync://rsync.ibiblio.org/puppylinux/",
       "size": "123.41 GiB"
@@ -7006,16 +7006,16 @@
       "cname": "pypi",
       "desc": "",
       "url": "/pypi",
-      "status": "S1751635342X1751638800",
+      "status": "S1751894604X1751898000",
       "help": "/help/pypi.html",
       "upstream": "https://nanomirrors.tuna.tsinghua.edu.cn/pypi/web/packages/",
-      "size": "524.83 GiB"
+      "size": "525.50 GiB"
     },
     {
       "cname": "python",
       "desc": "",
       "url": "/python",
-      "status": "S1751577115X1751663460",
+      "status": "S1751836313X1751922660",
       "help": "",
       "upstream": "https://www.python.org/ftp/python/",
       "size": "145.07 GiB"
@@ -7024,16 +7024,16 @@
       "cname": "qt",
       "desc": "",
       "url": "/qtproject",
-      "status": "S1751571666X1751653020",
+      "status": "S1751829307X1751912220",
       "help": "/help/qtproject.html",
       "upstream": "rsync://master.qt-project.org/qt-all/",
-      "size": "1.87 TiB"
+      "size": "1.91 TiB"
     },
     {
       "cname": "quantum-mobile-images",
       "desc": "",
       "url": "/quantum-mobile-images",
-      "status": "S1751575508X1751661900",
+      "status": "S1751834710X1751921100",
       "help": "",
       "upstream": "https://object.cscs.ch/v1/AUTH_b1d80408b3d340db9f03d373bbde5c1e/marvel-vms",
       "size": "37.24 GiB"
@@ -7042,7 +7042,7 @@
       "cname": "raspberry-pi-os-images",
       "desc": "",
       "url": "/raspberry-pi-os-images",
-      "status": "S1751569727X1751656020",
+      "status": "S1751828852X1751915220",
       "help": "/help/raspberry-pi-os-images.html",
       "upstream": "https://downloads.raspberrypi.org//./",
       "size": "485.53 GiB"
@@ -7059,25 +7059,25 @@
       "cname": "raspberrypi",
       "desc": "",
       "url": "/raspberrypi",
-      "status": "S1751580978X1751667300",
+      "status": "S1751840113X1751926500",
       "help": "/help/raspberrypi.html",
       "upstream": "rsync://apt-repo.raspberrypi.org/archive/",
-      "size": "647.88 GiB"
+      "size": "649.00 GiB"
     },
     {
       "cname": "raspbian",
       "desc": "",
       "url": "/raspbian",
-      "status": "S1751582109X1751668380",
+      "status": "S1751841232X1751927580",
       "help": "/help/raspbian.html",
       "upstream": "rsync://archive.raspbian.org/archive/",
-      "size": "633.50 GiB"
+      "size": "633.27 GiB"
     },
     {
       "cname": "raspbian-addons",
       "desc": "",
       "url": "/raspbian-addons",
-      "status": "S1751632630X1751719020",
+      "status": "S1751891843X1751978220",
       "help": "/help/raspbian-addons.html",
       "upstream": "rsync://ftp.iij.ad.jp/pub/osdn.jp/storage/g/r/ra/raspbian-addons/",
       "size": "35.59 GiB"
@@ -7086,25 +7086,25 @@
       "cname": "remi",
       "desc": "",
       "url": "/remi",
-      "status": "F1751572504O1751399784X1751658900",
+      "status": "S1751831730X1751918100",
       "help": "",
       "upstream": "rsync://remi.mirror.karneval.cz/remi",
-      "size": "227.20 GiB"
+      "size": "220.74 GiB"
     },
     {
       "cname": "rfc",
       "desc": "",
       "url": "/rfc",
-      "status": "S1751565315X1751651700",
+      "status": "S1751824514X1751910900",
       "help": "",
       "upstream": "rsync://ftp.rfc-editor.org/rfcs/",
-      "size": "4.51 GiB"
+      "size": "4.50 GiB"
     },
     {
       "cname": "rocky",
       "desc": "",
       "url": "/rocky",
-      "status": "S1751626229X1751640180",
+      "status": "S1751885339X1751899380",
       "help": "/help/rocky.html",
       "upstream": "rsync://msync.rockylinux.org/rocky-linux/",
       "size": "1.61 TiB"
@@ -7113,7 +7113,7 @@
       "cname": "ros",
       "desc": "",
       "url": "/ros",
-      "status": "S1751583921X1751670300",
+      "status": "S1751843124X1751929500",
       "help": "/help/ros.html",
       "upstream": "rsync://mirror.umd.edu/packages.ros.org/ros/",
       "size": "128.95 GiB"
@@ -7122,7 +7122,7 @@
       "cname": "ros2",
       "desc": "",
       "url": "/ros2",
-      "status": "F1751587504O1749773170X1751673900",
+      "status": "F1751846704O1749773170X1751933100",
       "help": "/help/ros2.html",
       "upstream": "http://packages.ros.org/ros2/",
       "size": "205.23 GiB"
@@ -7131,25 +7131,25 @@
       "cname": "rosdistro",
       "desc": "",
       "url": "/rosdistro",
-      "status": "S1751577790X1751664180",
+      "status": "S1751836990X1751923380",
       "help": "/help/rosdistro.html",
       "upstream": "https://github.com/ros/rosdistro.git",
-      "size": "49.35 MiB"
+      "size": "53.37 MiB"
     },
     {
       "cname": "rpmfusion",
       "desc": "",
       "url": "/rpmfusion",
-      "status": "S1751588507X1751673120",
+      "status": "S1751845933X1751932320",
       "help": "/help/rpmfusion.html",
       "upstream": "rsync://download1.rpmfusion.org/rpmfusion",
-      "size": "168.95 GiB"
+      "size": "157.25 GiB"
     },
     {
       "cname": "rubygems",
       "desc": "",
       "url": "/rubygems",
-      "status": "S1751580761X1751667060",
+      "status": "S1751839952X1751926260",
       "help": "/help/rubygems.html",
       "upstream": "http://rubygems.org/",
       "size": "1.05 TiB"
@@ -7166,10 +7166,10 @@
       "cname": "sagemath",
       "desc": "",
       "url": "/sagemath",
-      "status": "S1751574310X1751660700",
+      "status": "S1751833690X1751919900",
       "help": "/help/sagemath.html",
       "upstream": "rsync://rsync.mirrorservice.org/www.sagemath.org/",
-      "size": "219.66 GiB"
+      "size": "221.15 GiB"
     },
     {
       "cname": "saltstack",
@@ -7183,7 +7183,7 @@
       "cname": "sb",
       "desc": "",
       "url": "/sb",
-      "status": "S1751550968X1751637360",
+      "status": "S1751810169X1751896560",
       "help": "",
       "upstream": "rsync://mirror.xtom.com/repo/sb/",
       "size": "222.69 MiB"
@@ -7192,34 +7192,34 @@
       "cname": "slackware",
       "desc": "",
       "url": "/slackware",
-      "status": "S1751573041X1751659380",
+      "status": "S1751832223X1751918580",
       "help": "",
       "upstream": "rsync://rsync.osuosl.org/slackware/",
-      "size": "109.24 GiB"
+      "size": "108.02 GiB"
     },
     {
       "cname": "stackage",
       "desc": "",
       "url": "/stackage",
-      "status": "Y1751634664O1751573883X1751721060",
+      "status": "Y1751893864O1751835980X1751980260",
       "help": "/help/stackage.html",
       "upstream": "https://github.com/commercialhaskell/",
-      "size": "157.29 GiB"
+      "size": "157.20 GiB"
     },
     {
       "cname": "sury",
       "desc": "",
       "url": "/sury",
-      "status": "S1751583718X1751670060",
+      "status": "S1751842872X1751929260",
       "help": "",
       "upstream": "rsync://rsync.sury.org/repositories/",
-      "size": "3.61 GiB"
+      "size": "3.22 GiB"
     },
     {
       "cname": "tailscale",
       "desc": "",
       "url": "/tailscale",
-      "status": "S1751584737X1751671020",
+      "status": "S1751843935X1751930220",
       "help": "/help/tailscale.html",
       "upstream": "https://pkgs.tailscale.com/stable/",
       "size": "12.08 GiB"
@@ -7228,16 +7228,16 @@
       "cname": "termux",
       "desc": "",
       "url": "/termux",
-      "status": "S1751571994X1751658300",
+      "status": "S1751831148X1751917500",
       "help": "/help/termux.html",
       "upstream": "rsync://packages.termux.dev/termux",
-      "size": "37.08 GiB"
+      "size": "36.56 GiB"
     },
     {
       "cname": "termux-its-pointless",
       "desc": "",
       "url": "/termux-its-pointless",
-      "status": "S1751572045X1751658420",
+      "status": "S1751831247X1751917620",
       "help": "/help/termux-its-pointless.html",
       "upstream": "https://its-pointless.github.io/files/",
       "size": "4.62 GiB"
@@ -7246,7 +7246,7 @@
       "cname": "tldp",
       "desc": "",
       "url": "/tldp",
-      "status": "S1751582757X1751669100",
+      "status": "S1751841948X1751928300",
       "help": "",
       "upstream": "rsync://ftp.ibiblio.org/ldp_mirror/",
       "size": "4.89 GiB"
@@ -7255,7 +7255,7 @@
       "cname": "trisquel",
       "desc": "",
       "url": "/trisquel",
-      "status": "S1751564806X1751650500",
+      "status": "S1751823484X1751909700",
       "help": "/help/trisquel.html",
       "upstream": "rsync://rsync.trisquel.info/trisquel.packages",
       "size": "1.72 TiB"
@@ -7264,7 +7264,7 @@
       "cname": "trisquel-images",
       "desc": "",
       "url": "/trisquel-images",
-      "status": "S1751569514X1751655900",
+      "status": "S1751828714X1751915100",
       "help": "",
       "upstream": "rsync://rsync.trisquel.info/trisquel.iso",
       "size": "50.27 GiB"
@@ -7273,7 +7273,7 @@
       "cname": "turnkeylinux",
       "desc": "",
       "url": "/turnkeylinux",
-      "status": "S1751581211X1751667600",
+      "status": "S1751840411X1751926800",
       "help": "/help/turnkeylinux.html",
       "upstream": "rsync://mirror.turnkeylinux.org/turnkeylinux/",
       "size": "232.74 GiB"
@@ -7282,7 +7282,7 @@
       "cname": "ubuntu",
       "desc": "",
       "url": "/ubuntu",
-      "status": "S1751616746X1751637420",
+      "status": "S1751876056X1751896620",
       "help": "/help/ubuntu.html",
       "upstream": "rsync://us.rsync.archive.ubuntu.com/ubuntu",
       "size": "3.48 TiB"
@@ -7291,7 +7291,7 @@
       "cname": "ubuntu-cdimage",
       "desc": "",
       "url": "/ubuntu-cdimage",
-      "status": "S1751628611X1751650200",
+      "status": "S1751887811X1751909400",
       "help": "/help/ubuntu-cdimage.html",
       "upstream": "rsync://cdimage.ubuntu.com/cdimage/",
       "size": "906.16 GiB"
@@ -7300,16 +7300,16 @@
       "cname": "ubuntu-cloud-images",
       "desc": "",
       "url": "/ubuntu-cloud-images",
-      "status": "S1751581629X1751667300",
+      "status": "S1751840138X1751926500",
       "help": "/help/ubuntu-cloud-images.html",
       "upstream": "rsync://cloud-images.ubuntu.com/cloud-images/",
-      "size": "1.15 TiB"
+      "size": "1.12 TiB"
     },
     {
       "cname": "ubuntu-old-releases",
       "desc": "",
       "url": "/ubuntu-old-releases",
-      "status": "S1751155651X1751759100",
+      "status": "S1751760738X1752363900",
       "help": "/help/ubuntu-old-releases.html",
       "upstream": "rsync://old-releases.ubuntu.com/old-releases/",
       "size": "7.74 TiB"
@@ -7318,7 +7318,7 @@
       "cname": "ubuntu-ports",
       "desc": "",
       "url": "/ubuntu-ports",
-      "status": "S1751553988X1751637180",
+      "status": "S1751815442X1751896380",
       "help": "/help/ubuntu-ports.html",
       "upstream": "rsync://rsync.ports.ubuntu.com/ubuntu-ports/",
       "size": "4.19 TiB"
@@ -7327,7 +7327,7 @@
       "cname": "ubuntu-releases",
       "desc": "",
       "url": "/ubuntu-releases",
-      "status": "S1751571012X1751657400",
+      "status": "S1751830212X1751916600",
       "help": "/help/ubuntu-releases.html",
       "upstream": "rsync://us.rsync.releases.ubuntu.com/releases/",
       "size": "48.93 GiB"
@@ -7344,7 +7344,7 @@
       "cname": "videolan-ftp",
       "desc": "",
       "url": "/videolan-ftp",
-      "status": "S1751570595X1751656980",
+      "status": "S1751829793X1751916180",
       "help": "",
       "upstream": "rsync://rsync.videolan.org/videolan-ftp/",
       "size": "105.51 GiB"
@@ -7353,7 +7353,7 @@
       "cname": "vim",
       "desc": "",
       "url": "/vim",
-      "status": "S1751573115X1751659500",
+      "status": "S1751832313X1751918700",
       "help": "",
       "upstream": "rsync://ftp.ca.vim.org/vim/",
       "size": "5.86 GiB"
@@ -7362,7 +7362,7 @@
       "cname": "vyos",
       "desc": "",
       "url": "/vyos",
-      "status": "S1751577974X1751664300",
+      "status": "S1751837172X1751923500",
       "help": "",
       "upstream": "https://dev.packages.vyos.net/",
       "size": "2.83 GiB"
@@ -7371,7 +7371,7 @@
       "cname": "wine-builds",
       "desc": "",
       "url": "/wine-builds",
-      "status": "S1751582409X1751668800",
+      "status": "S1751841617X1751928000",
       "help": "",
       "upstream": "https://dl.winehq.org/wine-builds/",
       "size": "197.28 GiB"
@@ -7380,16 +7380,16 @@
       "cname": "winget-source",
       "desc": "",
       "url": "/winget-source",
-      "status": "S1751627145X1751655900",
+      "status": "S1751886346X1751915100",
       "help": "/help/winget-source.html",
       "upstream": "https://cdn.winget.microsoft.com/cache",
-      "size": "2.26 GiB"
+      "size": "2.27 GiB"
     },
     {
       "cname": "xorg",
       "desc": "",
       "url": "/Xorg",
-      "status": "F1751574304O1751315112X1751660700",
+      "status": "F1751833504O1751315112X1751919900",
       "help": "",
       "upstream": "rsync://ftp.kddilabs.jp/X11/ftp.x.org/",
       "size": "12.16 GiB"
@@ -7398,7 +7398,7 @@
       "cname": "zerotier",
       "desc": "",
       "url": "/zerotier",
-      "status": "S1751567638X1751653980",
+      "status": "S1751826824X1751913180",
       "help": "",
       "upstream": "https://download.zerotier.com/",
       "size": "4.24 GiB"
