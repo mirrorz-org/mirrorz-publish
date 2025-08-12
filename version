@@ -1,4 +1,4 @@
-frontend: a14ddb3 build(deps-dev): bump @babel/runtime from 7.16.5 to 7.26.10 (#139)
+frontend: 1f6ab18 build(deps): bump actions/checkout from 4 to 5 (#141)
 config: 606dc58 jcut: Add to d_parser
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
