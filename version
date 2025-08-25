@@ -1,5 +1,5 @@
 frontend: d95b792 build(deps): bump actions/download-artifact from 4 to 5 (#142)
-config: 606dc58 jcut: Add to d_parser
+config: 3ce5ab1 sdu: Move to d_parser
 parser: 481b365 Add nwafu
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 8f17419 nwafu: remove big
