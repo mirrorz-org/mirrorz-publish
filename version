@@ -1,4 +1,4 @@
-frontend: acfb727 build(deps): bump actions/setup-node from 5 to 6 (#145)
+frontend: 3a5f0a9 build(deps-dev): bump playwright from 1.50.1 to 1.55.1 (#146)
 config: d52e6cb sjtu: Move siyuan and zhiyuan to d_parser
 parser: 2b8c4d2 emerg fix
 i18n: fc9633e Add dependencies for speedtest scripts
