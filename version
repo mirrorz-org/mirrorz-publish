@@ -3,6 +3,6 @@ config: d52e6cb sjtu: Move siyuan and zhiyuan to d_parser
 parser: 2b8c4d2 emerg fix
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 8f17419 nwafu: remove big
-json_legacy: 2025-12-07T13:33:06.389Z
+json_legacy: 2025-12-08T13:42:31.914Z
 legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency
