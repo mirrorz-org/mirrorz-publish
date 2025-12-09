@@ -1,4 +1,4 @@
-frontend: daf1d1b build(deps): bump actions/checkout from 5 to 6 (#149)
+frontend: aae6516 build(deps): bump jws from 3.2.2 to 3.2.3 (#150)
 config: d52e6cb sjtu: Move siyuan and zhiyuan to d_parser
 parser: 2b8c4d2 emerg fix
 i18n: fc9633e Add dependencies for speedtest scripts
