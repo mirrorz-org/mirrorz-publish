@@ -1,4 +1,4 @@
-frontend: 814b17c build(deps): bump several deps
+frontend: 69c6302 fix: Use new sass syntax to make dart sass happy
 config: 6bb0895 feat: :sparkles: Add hust mirrors. (#13)
 parser: 8dd27aa feat: :sparkles: Add Hust Mirrors. (#11)
 i18n: fc9633e Add dependencies for speedtest scripts
