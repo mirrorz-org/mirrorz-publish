@@ -3,6 +3,6 @@ config: 6bb0895 feat: :sparkles: Add hust mirrors. (#13)
 parser: 8dd27aa feat: :sparkles: Add Hust Mirrors. (#11)
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 0a5b36f feat: :sparkles: 增加华中科技大学开源镜像站。 (#8)
-json_legacy: 2026-02-23T14:13:37.179Z
+json_legacy: 2026-02-24T14:16:36.089Z
 legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency
