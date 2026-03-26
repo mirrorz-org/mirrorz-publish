@@ -1,4 +1,4 @@
-frontend: 4f736f6 build(deps): bump actions/download-artifact from 7 to 8 (#156)
+frontend: 2783b50 build(deps): bump yaml from 1.10.2 to 1.10.3 (#161)
 config: 6bb0895 feat: :sparkles: Add hust mirrors. (#13)
 parser: 8dd27aa feat: :sparkles: Add Hust Mirrors. (#11)
 i18n: fc9633e Add dependencies for speedtest scripts
