@@ -1,6 +1,6 @@
 frontend: 2783b50 build(deps): bump yaml from 1.10.2 to 1.10.3 (#161)
 config: 6bb0895 feat: :sparkles: Add hust mirrors. (#13)
-parser: 1810b82 node: Fix load()
+parser: f388b3a node: Hack for accessing local file with fetch() on node env
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 9762181 fix: hust logo url mistake. (#9)
 json_legacy: 2026-04-11T14:01:11.602Z
