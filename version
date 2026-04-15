@@ -3,6 +3,6 @@ config: 6bb0895 feat: :sparkles: Add hust mirrors. (#13)
 parser: 3961f40 node: Fix local file hack
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 9762181 fix: hust logo url mistake. (#9)
-json_legacy: 2026-04-14T14:55:48.929Z
+json_legacy: 2026-04-15T14:51:04.013Z
 legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency
