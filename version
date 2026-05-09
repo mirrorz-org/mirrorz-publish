@@ -1,4 +1,4 @@
-frontend: 2783b50 build(deps): bump yaml from 1.10.2 to 1.10.3 (#161)
+frontend: 80ea465 build(deps): bump fast-uri from 3.1.0 to 3.1.2 (#162)
 config: 7282091 Add: ha mirrors (#14)
 parser: d2fd8e2 Add: ha mirrors (#13)
 i18n: fc9633e Add dependencies for speedtest scripts
