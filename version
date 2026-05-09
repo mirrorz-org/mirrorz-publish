@@ -1,4 +1,4 @@
-frontend: 80ea465 build(deps): bump fast-uri from 3.1.0 to 3.1.2 (#162)
+frontend: 0ee1071 build(deps): bump @babel/plugin-transform-modules-systemjs (#163)
 config: 7282091 Add: ha mirrors (#14)
 parser: d2fd8e2 Add: ha mirrors (#13)
 i18n: fc9633e Add dependencies for speedtest scripts
