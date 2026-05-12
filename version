@@ -1,6 +1,6 @@
 frontend: 0ee1071 build(deps): bump @babel/plugin-transform-modules-systemjs (#163)
 config: 7282091 Add: ha mirrors (#14)
-parser: d2fd8e2 Add: ha mirrors (#13)
+parser: 6e7bda1 Add ha to parsers
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: 9762181 fix: hust logo url mistake. (#9)
 json_legacy: 2026-05-12T15:45:30.674Z
