@@ -2,7 +2,7 @@ frontend: 0ee1071 build(deps): bump @babel/plugin-transform-modules-systemjs (#1
 config: 7282091 Add: ha mirrors (#14)
 parser: 6e7bda1 Add ha to parsers
 i18n: fc9633e Add dependencies for speedtest scripts
-json_site: 9762181 fix: hust logo url mistake. (#9)
+json_site: 214d35e Add ha.json configuration for HERNET mirror (#11)
 json_legacy: 2026-05-12T15:45:30.674Z
 legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency
