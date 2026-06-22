@@ -1,4 +1,4 @@
-frontend: 0ee1071 build(deps): bump @babel/plugin-transform-modules-systemjs (#163)
+frontend: 06be115 build(deps): bump actions/checkout from 6 to 7 (#164)
 config: 7282091 Add: ha mirrors (#14)
 parser: 6e7bda1 Add ha to parsers
 i18n: fc9633e Add dependencies for speedtest scripts
