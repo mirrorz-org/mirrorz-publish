@@ -3,6 +3,6 @@ config: 7282091 Add: ha mirrors (#14)
 parser: 6e7bda1 Add ha to parsers
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: dfe9120 add campus-only info for CQU (#12)
-json_legacy: 2026-07-06T16:28:07.822Z
+json_legacy: 2026-07-07T15:48:15.936Z
 legacy: bc3f24a Get rid of registry.npm.taobao.org
 ohmymirrorz: 2f1e7dd Remove requests dependency
