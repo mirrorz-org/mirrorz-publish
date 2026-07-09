@@ -1,5 +1,5 @@
 frontend: 6641e5b build(deps): bump js-yaml from 3.14.2 to 3.15.0 (#166)
-config: 7282091 Add: ha mirrors (#14)
+config: 28b6433 Move cqupt to d_parser
 parser: 6e7bda1 Add ha to parsers
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: dfe9120 add campus-only info for CQU (#12)
