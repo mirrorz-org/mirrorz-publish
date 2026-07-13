@@ -1,5 +1,3 @@
-frontend: 001e8cf cleanup: Remove i18n_ver and legacy_ver
-config: 16df3db Move ustc to d_parser
-parser: dbbb9a0 parsers.js: Fix nyist parse (#15)
-json_site: 875d96b add NYIST (#13)
+frontend: d7a2f9f cleanup: Fit for new mirrorz-config
+config: 95a0f39 Fix parser utils.js
 json_legacy: 2026-07-13T15:48:16.889Z
