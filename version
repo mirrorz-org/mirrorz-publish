@@ -1,6 +1,6 @@
 frontend: 6641e5b build(deps): bump js-yaml from 3.14.2 to 3.15.0 (#166)
 config: 16df3db Move ustc to d_parser
-parser: 97d9934 nyist: Fix parse path (#14)
+parser: dbbb9a0 parsers.js: Fix nyist parse (#15)
 i18n: fc9633e Add dependencies for speedtest scripts
 json_site: dfe9120 add campus-only info for CQU (#12)
 json_legacy: 2026-07-12T14:38:39.325Z
