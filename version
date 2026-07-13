@@ -1,8 +1,8 @@
-frontend: f192b50 fix: Add back missing json file in i18n
+frontend: 4b09473 build(deps): bump pug from 3.0.2 to 3.0.3 in /legacy (#167)
 config: 16df3db Move ustc to d_parser
 parser: dbbb9a0 parsers.js: Fix nyist parse (#15)
-i18n: f192b50 fix: Add back missing json file in i18n
+i18n: 4b09473 build(deps): bump pug from 3.0.2 to 3.0.3 in /legacy (#167)
 json_site: 875d96b add NYIST (#13)
 json_legacy: 2026-07-13T15:48:16.889Z
-legacy: f192b50 fix: Add back missing json file in i18n
+legacy: 4b09473 build(deps): bump pug from 3.0.2 to 3.0.3 in /legacy (#167)
 ohmymirrorz:
