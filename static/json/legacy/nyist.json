@@ -2717,12 +2717,12 @@
           "url": "/github-release/denoland/deno/LatestRelease/denort-aarch64-unknown-linux-gnu.zip.sha256sum"
         },
         {
-          "name": "denort LatestRelease (x86_64-pc-windows-msvc, zip)",
-          "url": "/github-release/denoland/deno/LatestRelease/denort-x86_64-pc-windows-msvc.zip"
-        },
-        {
           "name": "denort LatestRelease (x86_64-apple-darwin, zip)",
           "url": "/github-release/denoland/deno/LatestRelease/denort-x86_64-apple-darwin.zip"
+        },
+        {
+          "name": "denort LatestRelease (x86_64-pc-windows-msvc, zip)",
+          "url": "/github-release/denoland/deno/LatestRelease/denort-x86_64-pc-windows-msvc.zip"
         },
         {
           "name": "denort LatestRelease (x86_64-apple-darwin.zip, sha256sum)",
@@ -2733,12 +2733,12 @@
           "url": "/github-release/denoland/deno/LatestRelease/denort-x86_64-pc-windows-msvc.zip.sha256sum"
         },
         {
-          "name": "denort LatestRelease (aarch64-pc-windows-msvc, zip)",
-          "url": "/github-release/denoland/deno/LatestRelease/denort-aarch64-pc-windows-msvc.zip"
-        },
-        {
           "name": "denort LatestRelease (aarch64-apple-darwin, zip)",
           "url": "/github-release/denoland/deno/LatestRelease/denort-aarch64-apple-darwin.zip"
+        },
+        {
+          "name": "denort LatestRelease (aarch64-pc-windows-msvc, zip)",
+          "url": "/github-release/denoland/deno/LatestRelease/denort-aarch64-pc-windows-msvc.zip"
         },
         {
           "name": "denort LatestRelease (aarch64-pc-windows-msvc.zip, sha256sum)",
@@ -2749,92 +2749,92 @@
           "url": "/github-release/denoland/deno/LatestRelease/denort-aarch64-apple-darwin.zip.sha256sum"
         },
         {
-          "name": "denort v2.9.4 (x86_64-unknown-linux-gnu, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-x86_64-unknown-linux-gnu.zip"
+          "name": "denort v2.9.5 (x86_64-unknown-linux-gnu, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-x86_64-unknown-linux-gnu.zip"
         },
         {
-          "name": "denort v2.9.4 (x86_64-unknown-linux-gnu.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-x86_64-unknown-linux-gnu.zip.sha256sum"
+          "name": "denort v2.9.5 (x86_64-unknown-linux-gnu.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-x86_64-unknown-linux-gnu.zip.sha256sum"
         },
         {
-          "name": "denort v2.9.4 (aarch64-unknown-linux-gnu, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-aarch64-unknown-linux-gnu.zip"
+          "name": "denort v2.9.5 (aarch64-unknown-linux-gnu, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-aarch64-unknown-linux-gnu.zip"
         },
         {
-          "name": "denort v2.9.4 (aarch64-unknown-linux-gnu.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-aarch64-unknown-linux-gnu.zip.sha256sum"
+          "name": "denort v2.9.5 (aarch64-unknown-linux-gnu.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-aarch64-unknown-linux-gnu.zip.sha256sum"
         },
         {
-          "name": "denort v2.9.4 (x86_64-pc-windows-msvc, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-x86_64-pc-windows-msvc.zip"
+          "name": "denort v2.9.5 (x86_64-apple-darwin, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-x86_64-apple-darwin.zip"
         },
         {
-          "name": "denort v2.9.4 (x86_64-apple-darwin, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-x86_64-apple-darwin.zip"
+          "name": "denort v2.9.5 (x86_64-pc-windows-msvc, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-x86_64-pc-windows-msvc.zip"
         },
         {
-          "name": "denort v2.9.4 (x86_64-apple-darwin.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-x86_64-apple-darwin.zip.sha256sum"
+          "name": "denort v2.9.5 (x86_64-apple-darwin.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-x86_64-apple-darwin.zip.sha256sum"
         },
         {
-          "name": "denort v2.9.4 (x86_64-pc-windows-msvc.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-x86_64-pc-windows-msvc.zip.sha256sum"
+          "name": "denort v2.9.5 (x86_64-pc-windows-msvc.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-x86_64-pc-windows-msvc.zip.sha256sum"
         },
         {
-          "name": "denort v2.9.4 (aarch64-pc-windows-msvc, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-aarch64-pc-windows-msvc.zip"
+          "name": "denort v2.9.5 (aarch64-apple-darwin, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-aarch64-apple-darwin.zip"
         },
         {
-          "name": "denort v2.9.4 (aarch64-apple-darwin, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-aarch64-apple-darwin.zip"
+          "name": "denort v2.9.5 (aarch64-pc-windows-msvc, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-aarch64-pc-windows-msvc.zip"
         },
         {
-          "name": "denort v2.9.4 (aarch64-pc-windows-msvc.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-aarch64-pc-windows-msvc.zip.sha256sum"
+          "name": "denort v2.9.5 (aarch64-pc-windows-msvc.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-aarch64-pc-windows-msvc.zip.sha256sum"
         },
         {
-          "name": "denort v2.9.4 (aarch64-apple-darwin.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/denort-aarch64-apple-darwin.zip.sha256sum"
+          "name": "denort v2.9.5 (aarch64-apple-darwin.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/denort-aarch64-apple-darwin.zip.sha256sum"
         },
         {
           "name": "deno LatestRelease (x86_64-unknown-linux-gnu, zip)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-unknown-linux-gnu.zip"
         },
         {
-          "name": "deno LatestRelease (x86_64-unknown-linux-gnu.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-unknown-linux-gnu.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno LatestRelease (x86_64-unknown-linux-gnu.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-unknown-linux-gnu.zip.sha256sum"
+        },
+        {
+          "name": "deno LatestRelease (x86_64-unknown-linux-gnu.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-unknown-linux-gnu.from-2.9.4.bsdiff.sha256sum"
         },
         {
           "name": "deno LatestRelease (x86_64-unknown-linux-gnu, sha256sum)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-unknown-linux-gnu.sha256sum"
         },
         {
-          "name": "deno LatestRelease (x86_64-unknown-linux-gnu.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-unknown-linux-gnu.zip.sha256sum"
-        },
-        {
-          "name": "deno LatestRelease (x86_64-unknown-linux-gnu.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-unknown-linux-gnu.from-2.9.3.bsdiff"
+          "name": "deno LatestRelease (x86_64-unknown-linux-gnu.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-unknown-linux-gnu.from-2.9.4.bsdiff"
         },
         {
           "name": "deno LatestRelease (aarch64-unknown-linux-gnu, zip)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-unknown-linux-gnu.zip"
         },
         {
-          "name": "deno LatestRelease (aarch64-unknown-linux-gnu, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-unknown-linux-gnu.sha256sum"
-        },
-        {
           "name": "deno LatestRelease (aarch64-unknown-linux-gnu.zip, sha256sum)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-unknown-linux-gnu.zip.sha256sum"
         },
         {
-          "name": "deno LatestRelease (aarch64-unknown-linux-gnu.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-unknown-linux-gnu.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno LatestRelease (aarch64-unknown-linux-gnu.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-unknown-linux-gnu.from-2.9.4.bsdiff.sha256sum"
         },
         {
-          "name": "deno LatestRelease (aarch64-unknown-linux-gnu.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-unknown-linux-gnu.from-2.9.3.bsdiff"
+          "name": "deno LatestRelease (aarch64-unknown-linux-gnu, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-unknown-linux-gnu.sha256sum"
+        },
+        {
+          "name": "deno LatestRelease (aarch64-unknown-linux-gnu.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-unknown-linux-gnu.from-2.9.4.bsdiff"
         },
         {
           "name": "deno LatestRelease (x86_64-pc-windows-msvc, zip)",
@@ -2845,196 +2845,196 @@
           "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.zip"
         },
         {
-          "name": "deno LatestRelease (x86_64-apple-darwin, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.sha256sum"
+          "name": "deno LatestRelease (x86_64-pc-windows-msvc.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-pc-windows-msvc.zip.sha256sum"
         },
         {
-          "name": "deno LatestRelease (x86_64-apple-darwin.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.zip.sha256sum"
-        },
-        {
-          "name": "deno LatestRelease (x86_64-apple-darwin.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno LatestRelease (x86_64-apple-darwin.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.from-2.9.4.bsdiff.sha256sum"
         },
         {
           "name": "deno LatestRelease (x86_64-pc-windows-msvc, sha256sum)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-pc-windows-msvc.sha256sum"
         },
         {
-          "name": "deno LatestRelease (x86_64-pc-windows-msvc.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-pc-windows-msvc.zip.sha256sum"
+          "name": "deno LatestRelease (x86_64-apple-darwin.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.zip.sha256sum"
         },
         {
-          "name": "deno LatestRelease (x86_64-pc-windows-msvc.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-pc-windows-msvc.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno LatestRelease (x86_64-pc-windows-msvc.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-pc-windows-msvc.from-2.9.4.bsdiff.sha256sum"
         },
         {
-          "name": "deno LatestRelease (x86_64-apple-darwin.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.from-2.9.3.bsdiff"
+          "name": "deno LatestRelease (x86_64-apple-darwin, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.sha256sum"
         },
         {
-          "name": "deno LatestRelease (x86_64-pc-windows-msvc.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-pc-windows-msvc.from-2.9.3.bsdiff"
+          "name": "deno LatestRelease (x86_64-apple-darwin.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-apple-darwin.from-2.9.4.bsdiff"
         },
         {
-          "name": "deno LatestRelease (aarch64-pc-windows-msvc, zip)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-pc-windows-msvc.zip"
+          "name": "deno LatestRelease (x86_64-pc-windows-msvc.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-x86_64-pc-windows-msvc.from-2.9.4.bsdiff"
         },
         {
           "name": "deno LatestRelease (aarch64-apple-darwin, zip)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-apple-darwin.zip"
         },
         {
+          "name": "deno LatestRelease (aarch64-pc-windows-msvc, zip)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-pc-windows-msvc.zip"
+        },
+        {
+          "name": "deno LatestRelease (aarch64-pc-windows-msvc.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-pc-windows-msvc.from-2.9.4.bsdiff.sha256sum"
+        },
+        {
+          "name": "deno LatestRelease (aarch64-apple-darwin.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-apple-darwin.from-2.9.4.bsdiff.sha256sum"
+        },
+        {
           "name": "deno LatestRelease (aarch64-pc-windows-msvc, sha256sum)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-pc-windows-msvc.sha256sum"
-        },
-        {
-          "name": "deno LatestRelease (aarch64-apple-darwin.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-apple-darwin.from-2.9.3.bsdiff.sha256sum"
-        },
-        {
-          "name": "deno LatestRelease (aarch64-pc-windows-msvc.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-pc-windows-msvc.from-2.9.3.bsdiff.sha256sum"
-        },
-        {
-          "name": "deno LatestRelease (aarch64-apple-darwin.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-apple-darwin.zip.sha256sum"
         },
         {
           "name": "deno LatestRelease (aarch64-pc-windows-msvc.zip, sha256sum)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-pc-windows-msvc.zip.sha256sum"
         },
         {
+          "name": "deno LatestRelease (aarch64-apple-darwin.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-apple-darwin.zip.sha256sum"
+        },
+        {
           "name": "deno LatestRelease (aarch64-apple-darwin, sha256sum)",
           "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-apple-darwin.sha256sum"
         },
         {
-          "name": "deno LatestRelease (aarch64-apple-darwin.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-apple-darwin.from-2.9.3.bsdiff"
+          "name": "deno LatestRelease (aarch64-pc-windows-msvc.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-pc-windows-msvc.from-2.9.4.bsdiff"
         },
         {
-          "name": "deno LatestRelease (aarch64-pc-windows-msvc.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-pc-windows-msvc.from-2.9.3.bsdiff"
+          "name": "deno LatestRelease (aarch64-apple-darwin.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/LatestRelease/deno-aarch64-apple-darwin.from-2.9.4.bsdiff"
         },
         {
-          "name": "deno v2.9.4 (x86_64-unknown-linux-gnu, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-unknown-linux-gnu.zip"
+          "name": "deno v2.9.5 (x86_64-unknown-linux-gnu, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-unknown-linux-gnu.zip"
         },
         {
-          "name": "deno v2.9.4 (x86_64-unknown-linux-gnu.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-unknown-linux-gnu.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno v2.9.5 (x86_64-unknown-linux-gnu.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-unknown-linux-gnu.zip.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-unknown-linux-gnu, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-unknown-linux-gnu.sha256sum"
+          "name": "deno v2.9.5 (x86_64-unknown-linux-gnu.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-unknown-linux-gnu.from-2.9.4.bsdiff.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-unknown-linux-gnu.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-unknown-linux-gnu.zip.sha256sum"
+          "name": "deno v2.9.5 (x86_64-unknown-linux-gnu, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-unknown-linux-gnu.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-unknown-linux-gnu.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-unknown-linux-gnu.from-2.9.3.bsdiff"
+          "name": "deno v2.9.5 (x86_64-unknown-linux-gnu.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-unknown-linux-gnu.from-2.9.4.bsdiff"
         },
         {
-          "name": "deno v2.9.4 (aarch64-unknown-linux-gnu, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-unknown-linux-gnu.zip"
+          "name": "deno v2.9.5 (aarch64-unknown-linux-gnu, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-unknown-linux-gnu.zip"
         },
         {
-          "name": "deno v2.9.4 (aarch64-unknown-linux-gnu, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-unknown-linux-gnu.sha256sum"
+          "name": "deno v2.9.5 (aarch64-unknown-linux-gnu.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-unknown-linux-gnu.zip.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-unknown-linux-gnu.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-unknown-linux-gnu.zip.sha256sum"
+          "name": "deno v2.9.5 (aarch64-unknown-linux-gnu.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-unknown-linux-gnu.from-2.9.4.bsdiff.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-unknown-linux-gnu.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-unknown-linux-gnu.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno v2.9.5 (aarch64-unknown-linux-gnu, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-unknown-linux-gnu.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-unknown-linux-gnu.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-unknown-linux-gnu.from-2.9.3.bsdiff"
+          "name": "deno v2.9.5 (aarch64-unknown-linux-gnu.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-unknown-linux-gnu.from-2.9.4.bsdiff"
         },
         {
-          "name": "deno v2.9.4 (x86_64-pc-windows-msvc, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-pc-windows-msvc.zip"
+          "name": "deno v2.9.5 (x86_64-pc-windows-msvc, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-pc-windows-msvc.zip"
         },
         {
-          "name": "deno v2.9.4 (x86_64-apple-darwin, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-apple-darwin.zip"
+          "name": "deno v2.9.5 (x86_64-apple-darwin, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-apple-darwin.zip"
         },
         {
-          "name": "deno v2.9.4 (x86_64-apple-darwin, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-apple-darwin.sha256sum"
+          "name": "deno v2.9.5 (x86_64-pc-windows-msvc.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-pc-windows-msvc.zip.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-apple-darwin.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-apple-darwin.zip.sha256sum"
+          "name": "deno v2.9.5 (x86_64-apple-darwin.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-apple-darwin.from-2.9.4.bsdiff.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-apple-darwin.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-apple-darwin.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno v2.9.5 (x86_64-pc-windows-msvc, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-pc-windows-msvc.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-pc-windows-msvc, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-pc-windows-msvc.sha256sum"
+          "name": "deno v2.9.5 (x86_64-apple-darwin.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-apple-darwin.zip.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-pc-windows-msvc.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-pc-windows-msvc.zip.sha256sum"
+          "name": "deno v2.9.5 (x86_64-pc-windows-msvc.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-pc-windows-msvc.from-2.9.4.bsdiff.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-pc-windows-msvc.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-pc-windows-msvc.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno v2.9.5 (x86_64-apple-darwin, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-apple-darwin.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (x86_64-apple-darwin.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-apple-darwin.from-2.9.3.bsdiff"
+          "name": "deno v2.9.5 (x86_64-apple-darwin.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-apple-darwin.from-2.9.4.bsdiff"
         },
         {
-          "name": "deno v2.9.4 (x86_64-pc-windows-msvc.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-x86_64-pc-windows-msvc.from-2.9.3.bsdiff"
+          "name": "deno v2.9.5 (x86_64-pc-windows-msvc.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-x86_64-pc-windows-msvc.from-2.9.4.bsdiff"
         },
         {
-          "name": "deno v2.9.4 (aarch64-pc-windows-msvc, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-pc-windows-msvc.zip"
+          "name": "deno v2.9.5 (aarch64-apple-darwin, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-apple-darwin.zip"
         },
         {
-          "name": "deno v2.9.4 (aarch64-apple-darwin, zip)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-apple-darwin.zip"
+          "name": "deno v2.9.5 (aarch64-pc-windows-msvc, zip)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-pc-windows-msvc.zip"
         },
         {
-          "name": "deno v2.9.4 (aarch64-pc-windows-msvc, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-pc-windows-msvc.sha256sum"
+          "name": "deno v2.9.5 (aarch64-pc-windows-msvc.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-pc-windows-msvc.from-2.9.4.bsdiff.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-apple-darwin.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-apple-darwin.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno v2.9.5 (aarch64-apple-darwin.from-2.9.4.bsdiff, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-apple-darwin.from-2.9.4.bsdiff.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-pc-windows-msvc.from-2.9.3.bsdiff, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-pc-windows-msvc.from-2.9.3.bsdiff.sha256sum"
+          "name": "deno v2.9.5 (aarch64-pc-windows-msvc, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-pc-windows-msvc.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-apple-darwin.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-apple-darwin.zip.sha256sum"
+          "name": "deno v2.9.5 (aarch64-pc-windows-msvc.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-pc-windows-msvc.zip.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-pc-windows-msvc.zip, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-pc-windows-msvc.zip.sha256sum"
+          "name": "deno v2.9.5 (aarch64-apple-darwin.zip, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-apple-darwin.zip.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-apple-darwin, sha256sum)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-apple-darwin.sha256sum"
+          "name": "deno v2.9.5 (aarch64-apple-darwin, sha256sum)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-apple-darwin.sha256sum"
         },
         {
-          "name": "deno v2.9.4 (aarch64-apple-darwin.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-apple-darwin.from-2.9.3.bsdiff"
+          "name": "deno v2.9.5 (aarch64-pc-windows-msvc.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-pc-windows-msvc.from-2.9.4.bsdiff"
         },
         {
-          "name": "deno v2.9.4 (aarch64-pc-windows-msvc.from-2.9.3, bsdiff)",
-          "url": "/github-release/denoland/deno/v2.9.4/deno-aarch64-pc-windows-msvc.from-2.9.3.bsdiff"
+          "name": "deno v2.9.5 (aarch64-apple-darwin.from-2.9.4, bsdiff)",
+          "url": "/github-release/denoland/deno/v2.9.5/deno-aarch64-apple-darwin.from-2.9.4.bsdiff"
         }
       ]
     },
@@ -3971,16 +3971,16 @@
       "category": "app",
       "urls": [
         {
+          "name": "7.0 Preview (7.0.1800.0)",
+          "url": "/github-release/M2Team/NanaZip/NanaZip 7.0 Preview (7.0.1800.0)/NanaZipPreview_7.0.1800.0.msixbundle"
+        },
+        {
           "name": "7.0 Preview (7.0.1767.0)",
           "url": "/github-release/M2Team/NanaZip/NanaZip 7.0 Preview (7.0.1767.0)/NanaZipPreview_7.0.1767.0.msixbundle"
         },
         {
-          "name": "6.5 Update (6.5.1767.0)",
-          "url": "/github-release/M2Team/NanaZip/NanaZip 6.5 Update (6.5.1767.0)/NanaZip_6.5.1767.0.msixbundle"
-        },
-        {
-          "name": "6.5 (6.5.1750.0)",
-          "url": "/github-release/M2Team/NanaZip/NanaZip 6.5 (6.5.1750.0)/NanaZip_6.5.1750.0.msixbundle"
+          "name": "6.5 Update (6.5.1800.0)",
+          "url": "/github-release/M2Team/NanaZip/NanaZip 6.5 Update (6.5.1800.0)/NanaZip_6.5.1800.0.msixbundle"
         }
       ]
     },
@@ -4237,16 +4237,16 @@
       "category": "os",
       "urls": [
         {
+          "name": "Proxmox Virtual Environment 9.2-1-arm64 (x86_64, iso)",
+          "url": "/proxmox/iso/proxmox-ve_9.2-1-arm64.iso"
+        },
+        {
           "name": "Proxmox Virtual Environment 9.2-1 (x86_64, iso)",
           "url": "/proxmox/iso/proxmox-ve_9.2-1.iso"
         },
         {
           "name": "Proxmox Virtual Environment 9.1-1 (x86_64, iso)",
           "url": "/proxmox/iso/proxmox-ve_9.1-1.iso"
-        },
-        {
-          "name": "Proxmox Virtual Environment 8.4-1 (x86_64, iso)",
-          "url": "/proxmox/iso/proxmox-ve_8.4-1.iso"
         },
         {
           "name": "Proxmox Mail Gateway 9.1-1 (x86_64, iso)",
@@ -5295,56 +5295,56 @@
       "category": "app",
       "urls": [
         {
-          "name": "latest (x86_64-unknown-linux-gnu, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-x86_64-unknown-linux-gnu.tar.gz"
-        },
-        {
           "name": "latest (x86_64-unknown-linux-musl, tar.gz)",
           "url": "/github-release/astral-sh/uv/LatestRelease/uv-x86_64-unknown-linux-musl.tar.gz"
         },
         {
-          "name": "latest (armv7-unknown-linux-gnueabihf, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-armv7-unknown-linux-gnueabihf.tar.gz"
-        },
-        {
-          "name": "latest (riscv64gc-unknown-linux-gnu, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-riscv64gc-unknown-linux-gnu.tar.gz"
-        },
-        {
-          "name": "latest (aarch64-unknown-linux-musl, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-aarch64-unknown-linux-musl.tar.gz"
-        },
-        {
-          "name": "latest (powerpc64le-unknown-linux-gnu, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-powerpc64le-unknown-linux-gnu.tar.gz"
-        },
-        {
-          "name": "latest (i686-unknown-linux-gnu, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-i686-unknown-linux-gnu.tar.gz"
-        },
-        {
-          "name": "latest (s390x-unknown-linux-gnu, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-s390x-unknown-linux-gnu.tar.gz"
-        },
-        {
-          "name": "latest (riscv64gc-unknown-linux-musl, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-riscv64gc-unknown-linux-musl.tar.gz"
+          "name": "latest (x86_64-unknown-linux-gnu, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-x86_64-unknown-linux-gnu.tar.gz"
         },
         {
           "name": "latest (aarch64-unknown-linux-gnu, tar.gz)",
           "url": "/github-release/astral-sh/uv/LatestRelease/uv-aarch64-unknown-linux-gnu.tar.gz"
         },
         {
-          "name": "latest (arm-unknown-linux-musleabihf, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-arm-unknown-linux-musleabihf.tar.gz"
+          "name": "latest (s390x-unknown-linux-gnu, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-s390x-unknown-linux-gnu.tar.gz"
+        },
+        {
+          "name": "latest (i686-unknown-linux-musl, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-i686-unknown-linux-musl.tar.gz"
         },
         {
           "name": "latest (armv7-unknown-linux-musleabihf, tar.gz)",
           "url": "/github-release/astral-sh/uv/LatestRelease/uv-armv7-unknown-linux-musleabihf.tar.gz"
         },
         {
-          "name": "latest (i686-unknown-linux-musl, tar.gz)",
-          "url": "/github-release/astral-sh/uv/LatestRelease/uv-i686-unknown-linux-musl.tar.gz"
+          "name": "latest (aarch64-unknown-linux-musl, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-aarch64-unknown-linux-musl.tar.gz"
+        },
+        {
+          "name": "latest (arm-unknown-linux-musleabihf, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-arm-unknown-linux-musleabihf.tar.gz"
+        },
+        {
+          "name": "latest (riscv64gc-unknown-linux-gnu, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-riscv64gc-unknown-linux-gnu.tar.gz"
+        },
+        {
+          "name": "latest (powerpc64le-unknown-linux-gnu, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-powerpc64le-unknown-linux-gnu.tar.gz"
+        },
+        {
+          "name": "latest (riscv64gc-unknown-linux-musl, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-riscv64gc-unknown-linux-musl.tar.gz"
+        },
+        {
+          "name": "latest (i686-unknown-linux-gnu, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-i686-unknown-linux-gnu.tar.gz"
+        },
+        {
+          "name": "latest (armv7-unknown-linux-gnueabihf, tar.gz)",
+          "url": "/github-release/astral-sh/uv/LatestRelease/uv-armv7-unknown-linux-gnueabihf.tar.gz"
         },
         {
           "name": "latest (x86_64-pc-windows-msvc, zip)",
@@ -5606,7 +5606,7 @@
       "cname": "adobe-fonts",
       "options_name": "adobe-fonts",
       "url": "/adobe-fonts",
-      "status": "S1785847789X1785876589",
+      "status": "S1786107149X1786135949",
       "upstream": "https://github.com/adobe-fonts",
       "size": "36G",
       "desc": "Adobe 公司的开源字体"
@@ -5615,7 +5615,7 @@
       "cname": "Adoptium",
       "options_name": "Adoptium",
       "url": "/Adoptium",
-      "status": "S1785827649X1785914049",
+      "status": "S1786087347X1786173747",
       "upstream": "https://packages.adoptium.net/artifactory",
       "size": "185G"
     },
@@ -5623,17 +5623,17 @@
       "cname": "almalinux",
       "options_name": "almalinux",
       "url": "/almalinux",
-      "status": "S1785853653X1785860853",
+      "status": "S1786107547X1786114747",
       "upstream": "rsync://rsync.repo.almalinux.org/almalinux/",
-      "size": "1.92T"
+      "size": "1.95T"
     },
     {
       "cname": "alpine",
       "options_name": "alpine",
       "url": "/alpine",
-      "status": "S1785849682X1785864082",
+      "status": "S1786099723X1786114123",
       "upstream": "rsync://rsync.alpinelinux.org/alpine/",
-      "size": "5.88T",
+      "size": "5.89T",
       "desc": "Alpine Linux 的安装镜像和官方软件包仓库",
       "help": "/help/alpine/"
     },
@@ -5641,18 +5641,18 @@
       "cname": "anolis",
       "options_name": "anolis",
       "url": "/anolis",
-      "status": "S1785848005X1785876805",
+      "status": "S1786109358X1786138158",
       "upstream": "rsync://rsync_user@rsync.openanolis.cn/anolis/",
-      "size": "4.33T",
+      "size": "4.34T",
       "desc": "Anolis OS 龙蜥操作系统的安装镜像和官方软件包仓库"
     },
     {
       "cname": "anthon",
       "options_name": "anthon",
       "url": "/anthon",
-      "status": "S1785856954X1785885754",
+      "status": "S1786112192X1786140992",
       "upstream": "rsync://repo.aosc.io/anthon-nodbg/",
-      "size": "707.37G",
+      "size": "724.59G",
       "desc": "Anthon Linux（安同 Linux）的安装镜像和官方软件包仓库",
       "help": "/help/anthon/"
     },
@@ -5660,7 +5660,7 @@
       "cname": "AOSP",
       "options_name": "AOSP",
       "url": "/git/AOSP",
-      "status": "Y1785844894O1785801689",
+      "status": "S1786090042X1786133242",
       "upstream": "https://android.googlesource.com/mirror/manifest",
       "size": "1.8T",
       "desc": "Android 操作系统源代码",
@@ -5670,7 +5670,7 @@
       "cname": "aosp-monthly",
       "options_name": "aosp-monthly",
       "url": "/aosp-monthly",
-      "status": "S1785849199X1785877999",
+      "status": "S1786108444X1786137244",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/aosp-monthly/",
       "size": "421.02G",
       "desc": "AOSP （Android 系统源码）镜像每月打包",
@@ -5680,16 +5680,16 @@
       "cname": "apache",
       "options_name": "apache",
       "url": "/apache",
-      "status": "S1785835631X1785864431",
+      "status": "S1786095904X1786124704",
       "upstream": "rsync://rsync.apache.org/apache-dist/",
-      "size": "405.04G",
+      "size": "407.94G",
       "desc": "Apache 基金会赞助的各个项目"
     },
     {
       "cname": "aports",
       "options_name": "aports",
       "url": "/aports",
-      "status": "S1785839667X1785868467",
+      "status": "S1786100893X1786129693",
       "upstream": "https://gitlab.alpinelinux.org/alpine/aports.git",
       "size": "678M"
     },
@@ -5697,7 +5697,7 @@
       "cname": "arch4edu",
       "options_name": "arch4edu",
       "url": "/arch4edu",
-      "status": "S1785847405X1785876205",
+      "status": "S1786106650X1786135450",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/arch4edu/",
       "size": "39.40G",
       "desc": "用于 Arch Linux 和 Arch Linux ARM 的非官方软件仓库，主要包含科研、教学所需的各种常用软件",
@@ -5707,9 +5707,9 @@
       "cname": "archlinux",
       "options_name": "archlinux",
       "url": "/archlinux",
-      "status": "S1785853317X1785882117",
+      "status": "Y1786112211O1786111056",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinux/",
-      "size": "135.29G",
+      "size": "136.79G",
       "desc": "Arch Linux 的安装镜像和官方软件包仓库",
       "help": "/help/archlinux/"
     },
@@ -5717,9 +5717,9 @@
       "cname": "archlinuxarm",
       "options_name": "archlinuxarm",
       "url": "/archlinuxarm",
-      "status": "S1785847279X1785876079",
+      "status": "S1786106613X1786135413",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinuxarm/",
-      "size": "123.47G",
+      "size": "122.36G",
       "desc": "用于 ARM 平台的 Arch Linux 镜像和软件包仓库",
       "help": "/help/archlinuxarm/"
     },
@@ -5727,9 +5727,9 @@
       "cname": "archlinuxcn",
       "options_name": "archlinuxcn",
       "url": "/archlinuxcn",
-      "status": "S1785853054X1785881854",
+      "status": "S1786111320X1786140120",
       "upstream": "rsync://nyist@sync.repo.archlinuxcn.org/repo/",
-      "size": "153.70G",
+      "size": "154.89G",
       "desc": "由 Arch Linux 中文社区驱动的非官方用户仓库，包含中文用户常用软件、工具、字体/美化包等",
       "help": "/help/archlinuxcn/"
     },
@@ -5737,17 +5737,17 @@
       "cname": "archriscv",
       "options_name": "archriscv",
       "url": "/archriscv",
-      "status": "S1785849753X1785878553",
+      "status": "S1786109245X1786138045",
       "upstream": "rsync://archriscv.felixc.at/archriscv/",
-      "size": "96.36G"
+      "size": "96.45G"
     },
     {
       "cname": "armbian",
       "options_name": "armbian",
       "url": "/armbian",
-      "status": "Y1785707969O1785679168",
+      "status": "S1786104361X1786133161",
       "upstream": "rsync://rsync.armbian.com/apt/",
-      "size": "72.39G",
+      "size": "73.45G",
       "desc": "Armbian（面向 ARM 单板机的发行版）的软件源",
       "help": "/help/armbian/"
     },
@@ -5755,7 +5755,7 @@
       "cname": "bazel-apt",
       "options_name": "bazel-apt",
       "url": "/bazel-apt",
-      "status": "S1785847294X1785876094",
+      "status": "S1786106544X1786135344",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/bazel-apt/",
       "size": "9.36G"
     },
@@ -5763,7 +5763,7 @@
       "cname": "bjlx",
       "options_name": "bjlx",
       "url": "/bjlx",
-      "status": "S1785847265X1785876065",
+      "status": "S1786106515X1786135315",
       "upstream": "rsync://rsync.anheng.com.cn/bjlx/",
       "size": "5.05G",
       "desc": "北京龙芯 & Debian 俱乐部 的公开软件源"
@@ -5772,9 +5772,9 @@
       "cname": "blackarch",
       "options_name": "blackarch",
       "url": "/blackarch",
-      "status": "S1785849850X1785864250",
+      "status": "S1786111853X1786126253",
       "upstream": "rsync://www.blackarch.org/blackarch/",
-      "size": "100.42G",
+      "size": "100.43G",
       "desc": "用于安全评估的基于 Arch Linux 的轻量级发行版",
       "help": "/help/blackarch/"
     },
@@ -5782,15 +5782,15 @@
       "cname": "bmclapi",
       "options_name": "bmclapi",
       "url": "/bmclapi",
-      "status": "S1785850234X1785864634",
+      "status": "S1786111747X1786126147",
       "upstream": "rsync://bmclapi@s3p.933.moe/bmclapi-pwd/maven/",
-      "size": "115.07G"
+      "size": "115.47G"
     },
     {
       "cname": "centos-altarch",
       "options_name": "centos-altarch",
       "url": "/centos-altarch",
-      "status": "S1785846862X1785875662",
+      "status": "S1786106111X1786134911",
       "upstream": "rsync://msync.centos.org/altarch/",
       "size": "4.06K",
       "desc": "CentOS 额外平台的安装镜像和官方软件包仓库"
@@ -5799,15 +5799,15 @@
       "cname": "centos-stream",
       "options_name": "centos-stream",
       "url": "/centos-stream",
-      "status": "S1785855308X1785866108",
+      "status": "S1786110585X1786121385",
       "upstream": "rsync://rsync.stream.centos.org/CentOS-Stream-All/",
-      "size": "3.29T"
+      "size": "3.33T"
     },
     {
       "cname": "centos-vault",
       "options_name": "centos-vault",
       "url": "/centos-vault",
-      "status": "S1785787400X1785873800",
+      "status": "S1786049659X1786136059",
       "upstream": "rsync://rsync-linuxsoft.cern.ch/centos-vault/",
       "size": "7.15T",
       "desc": "为旧版本 CentOS 提供服务的软件包仓库",
@@ -5817,22 +5817,22 @@
       "cname": "ceph",
       "options_name": "ceph",
       "url": "/ceph",
-      "status": "S1785856808X1785885608",
+      "status": "S1786090071X1786118871",
       "upstream": "rsync://download.ceph.com/ceph/",
-      "size": "279.23G",
+      "size": "282.49G",
       "desc": "高性能对象存储和文件系统",
       "help": "/help/ceph/"
     },
     {
       "cname": "cmder",
       "url": "/github-release/cmderdev/cmder",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "CocoaPods",
       "options_name": "CocoaPods",
       "url": "/git/CocoaPods",
-      "status": "S1785850305X1785879105",
+      "status": "S1786084918X1786113718",
       "upstream": "https://github.com/CocoaPods",
       "size": "1.6G",
       "desc": "Objective-C 和 Swift 的依赖管理器",
@@ -5842,9 +5842,9 @@
       "cname": "CPAN",
       "options_name": "CPAN",
       "url": "/CPAN",
-      "status": "S1785851114X1785879914",
+      "status": "S1786110597X1786139397",
       "upstream": "rsync://cpan-rsync.perl.org/CPAN/",
-      "size": "39.63G",
+      "size": "39.66G",
       "desc": "Perl 语言软件库",
       "help": "/help/CPAN/"
     },
@@ -5852,9 +5852,9 @@
       "cname": "CRAN",
       "options_name": "CRAN",
       "url": "/CRAN",
-      "status": "S1785836468X1785865268",
+      "status": "S1786098920X1786127720",
       "upstream": "rsync://cran.r-project.org/CRAN/",
-      "size": "701.74G",
+      "size": "702.97G",
       "desc": "R 语言的可执行文件、源代码和说明文件，也收录了各种用户撰写的软件包",
       "help": "/help/CRAN/"
     },
@@ -5862,9 +5862,9 @@
       "cname": "crates.io-index",
       "options_name": "crates.io-index",
       "url": "/crates.io-index",
-      "status": "S1785853517X1785882317N",
+      "status": "S1786084398X1786113198N",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/crates.io-index/",
-      "size": "25.70G",
+      "size": "25.78G",
       "desc": "面向 Rust 语言的软件包稀疏索引 crates.io",
       "help": "/help/crates.io-index/"
     },
@@ -5872,7 +5872,7 @@
       "cname": "crates.io-index.git",
       "options_name": "crates.io-index.git",
       "url": "/git/crates.io-index.git",
-      "status": "S1785851922X1785880722",
+      "status": "Y1786112159O1786083356",
       "upstream": "https://github.com/rust-lang/crates.io-index.git",
       "size": "2.9G",
       "desc": "面向 Rust 语言的软件包索引 crates.io",
@@ -5882,9 +5882,9 @@
       "cname": "CTAN",
       "options_name": "CTAN",
       "url": "/CTAN",
-      "status": "S1785850702X1785879502",
+      "status": "S1786110236X1786139036",
       "upstream": "rsync://rsync.dante.ctan.org/CTAN/",
-      "size": "68.78G",
+      "size": "68.79G",
       "desc": "TeX 的各种发行版、软件包和文档",
       "help": "/help/CTAN/"
     },
@@ -5892,7 +5892,7 @@
       "cname": "ctex",
       "options_name": "ctex",
       "url": "/ctex",
-      "status": "S1785840179X1785868979",
+      "status": "S1786099424X1786128224",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ctex/",
       "size": "16.60G",
       "desc": "CTEX 安装镜像存档"
@@ -5901,7 +5901,7 @@
       "cname": "cygwin",
       "options_name": "cygwin",
       "url": "/cygwin",
-      "status": "F1785850277O1785821473X1785879077",
+      "status": "F1786110130O1786052513X1786138930",
       "upstream": "rsync://rsync.osuosl.org/cygwin/",
       "size": "129.50G",
       "desc": "Cygwin 官方软件包仓库",
@@ -5910,22 +5910,22 @@
     {
       "cname": "cygwin",
       "url": "/cygwin",
-      "status": "S1785850514X1785879314"
+      "status": "S1786110016X1786138816"
     },
     {
       "cname": "deb-multimedia",
       "options_name": "debian-multimedia",
       "url": "/debian-multimedia",
-      "status": "S1785853907X1785882707",
+      "status": "S1786084483X1786113283",
       "upstream": "rsync://www.deb-multimedia.org/deb/",
-      "size": "20.70G",
+      "size": "20.55G",
       "desc": "Debian Linux 第三方多媒体软件源"
     },
     {
       "cname": "debian",
       "options_name": "debian",
       "url": "/debian",
-      "status": "Y1785856730O1785845930",
+      "status": "S1786107169X1786117969",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/debian/",
       "size": "2.4T",
       "desc": "Debian Linux 的官方软件包仓库",
@@ -5935,7 +5935,7 @@
       "cname": "debian-cd",
       "options_name": "debian-cd",
       "url": "/debian-cd",
-      "status": "S1785841682X1785870482",
+      "status": "S1786101012X1786129812",
       "upstream": "rsync://cdimage.debian.org/debian-cd/",
       "size": "253.81G",
       "desc": "Debian Linux 的安装镜像",
@@ -5945,7 +5945,7 @@
       "cname": "debian-nonfree",
       "options_name": "debian-nonfree",
       "url": "/debian-nonfree",
-      "status": "S1785854476X1785883276",
+      "status": "S1786084996X1786113796",
       "upstream": "rsync://cdimage.debian.org/cdimage-unofficial/non-free/",
       "size": "75.80G",
       "desc": "Debian Linux 的非自由软件包仓库"
@@ -5954,9 +5954,9 @@
       "cname": "debian-security",
       "options_name": "debian-security",
       "url": "/debian-security",
-      "status": "Y1785855995O1785848793",
+      "status": "S1786108558X1786115758",
       "upstream": "rsync://rsync.security.debian.org/debian-security/",
-      "size": "313.54G",
+      "size": "351.97G",
       "desc": "Debian Linux 的安全更新",
       "help": "/help/debian-security/"
     },
@@ -5964,7 +5964,7 @@
       "cname": "deepin",
       "options_name": "deepin",
       "url": "/deepin",
-      "status": "S1785855150X1785869550",
+      "status": "S1786101269X1786115669",
       "upstream": "rsync://rsync.deepin.com/deepin/",
       "size": "1.64T",
       "desc": "Deepin Linux 的官方软件包仓库"
@@ -5973,7 +5973,7 @@
       "cname": "deepin-cd",
       "options_name": "deepin-cd",
       "url": "/deepin-cd",
-      "status": "S1785853714X1785882514",
+      "status": "S1786084157X1786112957",
       "upstream": "rsync://rsync.deepin.com/releases/",
       "size": "103.88G",
       "desc": "Deepin Linux 的安装镜像"
@@ -5982,7 +5982,7 @@
       "cname": "docker-ce",
       "options_name": "docker-ce",
       "url": "/docker-ce",
-      "status": "F1785843064O1779860033X1785886264",
+      "status": "F1786104363O1779860033X1786147563",
       "upstream": "https://d2h67oheeuigaw.cloudfront.net/",
       "size": "1.63T",
       "desc": "Docker Community Edition 的安装包",
@@ -5992,9 +5992,9 @@
       "cname": "elasticstack",
       "options_name": "elasticstack",
       "url": "/elasticstack",
-      "status": "S1785780830X1785867230",
+      "status": "S1786041364X1786127764",
       "upstream": "https://artifacts.elastic.co/",
-      "size": "504G",
+      "size": "506G",
       "desc": "ELK 系列数据分析工具，5.x 之后改名为 Elastic Stack",
       "help": "/help/elasticstack/"
     },
@@ -6002,9 +6002,9 @@
       "cname": "elpa",
       "options_name": "elpa",
       "url": "/elpa",
-      "status": "S1785851455X1785865855",
+      "status": "S1786110831X1786125231",
       "upstream": "rsync://elpa.gnu.org/elpa/",
-      "size": "1.14G",
+      "size": "1.15G",
       "desc": "Emacs 内建包管理器 package.el 的软件源",
       "help": "/help/elpa/"
     },
@@ -6012,7 +6012,7 @@
       "cname": "elrepo",
       "options_name": "elrepo",
       "url": "/elrepo",
-      "status": "S1785830534X1785859334",
+      "status": "S1786090019X1786118819",
       "upstream": "rsync://ftp.yz.yamagata-u.ac.jp/pub/linux/RPMS/elrepo/",
       "size": "100.78G",
       "desc": "RHEL 及其变体的 RPM 软件包仓库",
@@ -6022,7 +6022,7 @@
       "cname": "elvish",
       "options_name": "elvish",
       "url": "/elvish",
-      "status": "S1785840756X1785869556",
+      "status": "S1786100001X1786128801",
       "upstream": "rsync://rsync.elv.sh/elvish/",
       "size": "2.50G",
       "desc": "TUNA 前会长 xiaq 开发的革命性 Shell"
@@ -6031,9 +6031,9 @@
       "cname": "epel",
       "options_name": "epel",
       "url": "/epel",
-      "status": "S1785848221X1785859021",
+      "status": "S1786107677X1786118477",
       "upstream": "rsync://download-ib01.fedoraproject.org/fedora-epel/",
-      "size": "886.21G",
+      "size": "850.51G",
       "desc": "企业版 Linux 附加软件包",
       "help": "/help/epel/"
     },
@@ -6041,7 +6041,7 @@
       "cname": "fdroid",
       "options_name": "fdroid",
       "url": "/fdroid",
-      "status": "S1785852853X1785881653",
+      "status": "S1786085840X1786114640",
       "upstream": "rsync://ftp.lysator.liu.se/pub/fdroid/",
       "size": "6.56T",
       "desc": "F-Droid 是 Android 上的自由与开源软件应用商店",
@@ -6051,7 +6051,7 @@
       "cname": "fedora",
       "options_name": "fedora",
       "url": "/fedora",
-      "status": "S1785857332X1785868132",
+      "status": "S1786111707X1786122507",
       "upstream": "rsync://download-ib01.fedoraproject.org/fedora-enchilada/linux/",
       "size": "2.38T",
       "desc": "Fedora Linux 的安装镜像和官方软件包仓库",
@@ -6061,7 +6061,7 @@
       "cname": "fedora-altarch",
       "options_name": "fedora-altarch",
       "url": "/fedora-altarch",
-      "status": "S1785853028X1785863828",
+      "status": "S1786103882X1786114682",
       "upstream": "rsync://download-ib01.fedoraproject.org/fedora-secondary/",
       "size": "1.23T",
       "desc": "Fedora Linux 额外平台的安装镜像和官方软件包仓库"
@@ -6070,7 +6070,7 @@
       "cname": "flutter-sdk.git",
       "options_name": "flutter-sdk.git",
       "url": "/git/flutter-sdk.git",
-      "status": "S1785850584X1785879384",
+      "status": "S1786110789X1786139589",
       "upstream": "https://github.com/flutter/flutter.git",
       "size": "2.7G",
       "desc": "Flutter 框架源码镜像",
@@ -6079,13 +6079,13 @@
     {
       "cname": "FreeCAD",
       "url": "/github-release/FreeCAD/FreeCAD",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "fzug",
       "options_name": "fzug",
       "url": "/fzug",
-      "status": "S1785840095X1785868895",
+      "status": "S1786099339X1786128139",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/fzug/",
       "size": "119.52K",
       "desc": "Fedora 中文用户组的软件包仓库"
@@ -6093,13 +6093,13 @@
     {
       "cname": "garuda-linux",
       "url": "/osdn/storage/g/g/ga/garuda-linux",
-      "status": "S1785840916X1785869716"
+      "status": "S1786100160X1786128960"
     },
     {
       "cname": "gcc.git",
       "options_name": "gcc.git",
       "url": "/git/gcc.git",
-      "status": "S1785844574X1785873374",
+      "status": "S1786105802X1786134602",
       "upstream": "git://gcc.gnu.org/git/gcc.git",
       "size": "2.1G",
       "desc": "GCC 的源码仓库",
@@ -6109,7 +6109,7 @@
       "cname": "gentoo-portage.git",
       "options_name": "gentoo-portage.git",
       "url": "/git/gentoo-portage.git",
-      "status": "S1785833212X1785862012",
+      "status": "S1786095770X1786124570",
       "upstream": "https://github.com/gentoo-mirror/gentoo.git",
       "size": "9.7G",
       "desc": "Gentoo Linux 的 Portage 包管理器镜像源（Git 访问）",
@@ -6119,30 +6119,30 @@
       "cname": "gentoo-zh",
       "options_name": "gentoo-zh",
       "url": "/gentoo-zh",
-      "status": "S1785855313X1785884113",
+      "status": "S1786085970X1786114770",
       "upstream": "rsync://distfiles.gentoozh.org/gentoo-zh/",
-      "size": "22.90G"
+      "size": "25.61G"
     },
     {
       "cname": "gentoo-zh.git",
       "options_name": "gentoo-zh.git",
       "url": "/git/gentoo-zh.git",
-      "status": "S1785832455X1785861255",
+      "status": "S1786091771X1786120571",
       "upstream": "https://github.com/gentoo-zh/overlay.git",
       "size": "86M"
     },
     {
       "cname": "git-for-windows",
       "url": "/github-release/git-for-windows/git",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "git-repo",
       "options_name": "git-repo",
       "url": "/git/git-repo",
-      "status": "S1785854997X1785883797",
+      "status": "S1786085494X1786114294",
       "upstream": "https://gerrit.googlesource.com/git-repo",
-      "size": "43M",
+      "size": "41M",
       "desc": "Google 开发的项目依赖下载工具 repo 的镜像",
       "help": "/help/git-repo/"
     },
@@ -6150,7 +6150,7 @@
       "cname": "github-raw",
       "options_name": "github-raw",
       "url": "/github-raw",
-      "status": "S1785819185X1785862385",
+      "status": "S1786078468X1786121668",
       "upstream": "https://api.github.com/repos/",
       "size": "1.59M",
       "desc": "一些 Github 项目的部分文件镜像（被其他镜像所使用）",
@@ -6160,9 +6160,9 @@
       "cname": "github-release",
       "options_name": "github-release",
       "url": "/github-release",
-      "status": "S1785847105X1785890305",
+      "status": "S1786107559X1786150759",
       "upstream": "https://api.github.com/repos/",
-      "size": "188.20G",
+      "size": "187.08G",
       "desc": "一些项目的 Github Release 镜像",
       "help": "/help/github-release/"
     },
@@ -6170,24 +6170,24 @@
       "cname": "gnu",
       "options_name": "gnu",
       "url": "/gnu",
-      "status": "S1785850343X1785857543",
+      "status": "S1786109946X1786117146",
       "upstream": "rsync://ftp.gnu.org/gnu/",
-      "size": "238.03G",
+      "size": "238.35G",
       "desc": "GNU 项目的软件包（源代码、文档和部分平台的二进制文件）",
       "help": "/help/gnu/"
     },
     {
       "cname": "googlefonts",
       "url": "/github-release/googlefonts",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "grafana",
       "options_name": "grafana",
       "url": "/grafana",
-      "status": "S1785816382X1785902782",
+      "status": "S1786076700X1786163100",
       "upstream": "https://apt.grafana.com",
-      "size": "910G",
+      "size": "914G",
       "desc": "开源的数据可视化工具",
       "help": "/help/grafana/"
     },
@@ -6195,7 +6195,7 @@
       "cname": "GXDE",
       "options_name": "GXDE",
       "url": "/GXDE",
-      "status": "S1785856530X1785870930",
+      "status": "S1786102591X1786116991",
       "upstream": "rsync://gxde-rsync@rsync.gxde.top/repo/",
       "size": "111.83G"
     },
@@ -6203,9 +6203,9 @@
       "cname": "hackage",
       "options_name": "hackage",
       "url": "/hackage",
-      "status": "S1785848171X1785876971",
+      "status": "S1786107476X1786136276",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/hackage/",
-      "size": "20.00G",
+      "size": "19.87G",
       "desc": "Haskell 社区的中心软件包仓库",
       "help": "/help/hackage/"
     },
@@ -6213,7 +6213,7 @@
       "cname": "homebrew",
       "options_name": "homebrew",
       "url": "/git/homebrew",
-      "status": "S1785847215X1785876015",
+      "status": "S1786111106X1786139906",
       "upstream": "https://github.com/Homebrew",
       "size": "3.1G",
       "desc": "Homebrew/Linuxbrew 的 taps（软件包描述文件 Git 仓库）",
@@ -6223,24 +6223,24 @@
       "cname": "homebrew-bottles",
       "options_name": "homebrew-bottles",
       "url": "/homebrew-bottles",
-      "status": "S1785855152X1785883952",
+      "status": "S1786086243X1786115043",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles/",
-      "size": "593.24G",
+      "size": "601.87G",
       "desc": "预编译的 Homebrew 软件包",
       "help": "/help/homebrew-bottles/"
     },
     {
       "cname": "iina",
       "url": "/github-release/iina/iina",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "influxdata",
       "options_name": "influxdata",
       "url": "/influxdata",
-      "status": "S1785834601X1785863401",
+      "status": "S1786095213X1786124013",
       "upstream": "https://repos.influxdata.com",
-      "size": "66G",
+      "size": "34G",
       "desc": "时间序列数据平台",
       "help": "/help/influxdata/"
     },
@@ -6248,7 +6248,7 @@
       "cname": "ipxe",
       "options_name": "ipxe",
       "url": "/ipxe",
-      "status": "F1785855260O1783238972X1785884060",
+      "status": "F1786085705O1783238972X1786114505",
       "upstream": "https://github.com/ipxe/ipxe.git",
       "size": "109M"
     },
@@ -6256,7 +6256,7 @@
       "cname": "jellyfin",
       "options_name": "jellyfin",
       "url": "/jellyfin",
-      "status": "S1785837679X1785866479",
+      "status": "S1786096983X1786125783",
       "upstream": "rsync://sgp1.mirror.jellyfin.org/mirror/",
       "size": "96.02G"
     },
@@ -6264,18 +6264,18 @@
       "cname": "jenkins",
       "options_name": "jenkins",
       "url": "/jenkins",
-      "status": "S1785851338X1785865738",
+      "status": "S1786110924X1786125324",
       "upstream": "rsync://rsync.osuosl.org/jenkins/",
-      "size": "189.35G",
+      "size": "189.77G",
       "desc": "用 Java 编写的持续集成框架"
     },
     {
       "cname": "kali",
       "options_name": "kali",
       "url": "/kali",
-      "status": "S1785846559X1785875359",
+      "status": "S1786108660X1786137460",
       "upstream": "rsync://archive.kali.org/kali/",
-      "size": "689G",
+      "size": "705G",
       "desc": "Kali Linux 的官方软件包仓库",
       "help": "/help/kali/"
     },
@@ -6283,7 +6283,7 @@
       "cname": "kali-images",
       "options_name": "kali-images",
       "url": "/kali-images",
-      "status": "S1785838109X1785866909",
+      "status": "S1786097399X1786126199",
       "upstream": "rsync://ftp.nluug.nl/kali-images/",
       "size": "120.17G",
       "desc": "Kali Linux 的安装镜像"
@@ -6292,16 +6292,16 @@
       "cname": "KaOS",
       "options_name": "KaOS",
       "url": "/KaOS",
-      "status": "S1785852375X1785881175",
+      "status": "S1786093461X1786122261",
       "upstream": "rsync://kaosx.tk/kaos/",
-      "size": "23.08G",
+      "size": "22.74G",
       "desc": "一个基于 KDE 的独立发行版"
     },
     {
       "cname": "kubernetes",
       "options_name": "kubernetes",
       "url": "/kubernetes",
-      "status": "F1785855441O1785456786X1785884241",
+      "status": "F1786086002O1785456786X1786114802",
       "upstream": "rsync://stage.opensuse.org/buildservice-repos-main/isv:/kubernetes:/",
       "size": "68.53G",
       "desc": "Kubernetes 是用于集群自动部署和管理的开源系统",
@@ -6310,28 +6310,28 @@
     {
       "cname": "linuxlite-cd",
       "url": "/osdn/storage/g/l/li/linuxlite",
-      "status": "S1785840916X1785869716"
+      "status": "S1786100160X1786128960"
     },
     {
       "cname": "llvm-apt",
       "options_name": "llvm-apt",
       "url": "/llvm-apt",
-      "status": "S1785793760X1785880160",
+      "status": "S1786062746X1786149146",
       "upstream": "https://apt.llvm.org",
-      "size": "64G",
+      "size": "46G",
       "desc": "LLVM 编译器套件的 APT 安装源",
       "help": "/help/llvm-apt/"
     },
     {
       "cname": "llvm-binary",
       "url": "/github-release/llvm/llvm-project",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "loongson",
       "options_name": "loongson",
       "url": "/loongson",
-      "status": "S1785848783X1785877583",
+      "status": "S1786108025X1786136825",
       "upstream": "rsync://rsync.anheng.com.cn/loongson/",
       "size": "25.09G",
       "desc": "用于龙芯电脑的软件包"
@@ -6340,9 +6340,9 @@
       "cname": "lxc-images",
       "options_name": "lxc-images",
       "url": "/lxc-images",
-      "status": "S1785848718X1785863118",
+      "status": "S1786103863X1786118263",
       "upstream": "rsync://rsync.images.linuxcontainers.org/lxc-images/",
-      "size": "612.72G",
+      "size": "626.65G",
       "desc": "Linux 容器的镜像",
       "help": "/help/lxc-images/"
     },
@@ -6350,7 +6350,7 @@
       "cname": "lyx",
       "options_name": "lyx",
       "url": "/lyx",
-      "status": "S1785839905X1785868705",
+      "status": "S1786099149X1786127949",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/lyx/",
       "size": "31.64G",
       "desc": "所见即所指的 LaTeX 编辑器"
@@ -6359,9 +6359,9 @@
       "cname": "manjaro",
       "options_name": "manjaro",
       "url": "/manjaro",
-      "status": "S1785856623X1785885423",
+      "status": "S1786089101X1786117901",
       "upstream": "rsync://mirror.yandex.ru/mirrors/manjaro/",
-      "size": "249.44G",
+      "size": "221.92G",
       "desc": "Manjaro Linux 的官方软件源",
       "help": "/help/manjaro/"
     },
@@ -6369,7 +6369,7 @@
       "cname": "mariadb",
       "options_name": "mariadb",
       "url": "/mariadb",
-      "status": "S1785855328X1785884128",
+      "status": "F1786085814O1786057006X1786114614",
       "upstream": "rsync://rsync.osuosl.org/mariadb/",
       "size": "872.85G",
       "desc": "衍生于 MySQL 的开源关系数据库",
@@ -6378,18 +6378,18 @@
     {
       "cname": "miniforge",
       "url": "/github-release/conda-forge/miniforge",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "minikube",
       "url": "/github-release/kubernetes/minikube",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "mongodb",
       "options_name": "mongodb",
       "url": "/mongodb",
-      "status": "S1785841003X1785869803",
+      "status": "S1786102184X1786130984",
       "upstream": "https://repo.mongodb.org",
       "size": "104G",
       "desc": "开源的跨平台 NoSQL 文档型数据库",
@@ -6399,20 +6399,20 @@
       "cname": "mozilla",
       "options_name": "mozilla",
       "url": "/mozilla",
-      "status": "S1785853286X1785882086",
+      "status": "S1786087732X1786116532",
       "upstream": "https://packages.mozilla.org",
       "size": "19G"
     },
     {
       "cname": "mxlinux-isos",
       "url": "/osdn/storage/g/m/mx/mx-linux/ISOs",
-      "status": "S1785840916X1785869716"
+      "status": "S1786100160X1786128960"
     },
     {
       "cname": "mysql",
       "options_name": "mysql",
       "url": "/mysql",
-      "status": "S1785855188X1785883988",
+      "status": "S1786086433X1786115233",
       "upstream": "https://repo.mysql.com",
       "size": "6.5G",
       "desc": "MySQL 数据库的安装包及各种工具下载",
@@ -6422,7 +6422,7 @@
       "cname": "neurodebian",
       "options_name": "neurodebian",
       "url": "/neurodebian",
-      "status": "S1785856962X1785885762",
+      "status": "S1786088421X1786117221",
       "upstream": "rsync://neuro.debian.net/neurodebian/",
       "size": "82.87G",
       "desc": "用于神经科学研究的 Debian 软件包源"
@@ -6431,7 +6431,7 @@
       "cname": "nginx",
       "options_name": "nginx",
       "url": "/nginx",
-      "status": "S1785842324X1785871124",
+      "status": "S1786101604X1786130404",
       "upstream": "rsync://mirror.nju.edu.cn/nginx/",
       "size": "218.11G"
     },
@@ -6439,7 +6439,7 @@
       "cname": "nix",
       "options_name": "nix",
       "url": "/nix",
-      "status": "S1785849702X1785871302",
+      "status": "S1786110004X1786131604",
       "upstream": "s3://nix-releases/nix/",
       "size": "72.4G",
       "desc": "Nix 软件包管理器",
@@ -6449,7 +6449,7 @@
       "cname": "nixos-images",
       "options_name": "nixos-images",
       "url": "/nixos-images",
-      "status": "S1785849344X1785878144",
+      "status": "S1786108876X1786137676",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/nixos-images/",
       "size": "159.73G",
       "desc": "NixOS 的安装镜像和虚拟机镜像",
@@ -6459,7 +6459,7 @@
       "cname": "nodejs-release",
       "options_name": "nodejs-release",
       "url": "/nodejs-release",
-      "status": "S1785851016X1785879816",
+      "status": "S1786110318X1786139118",
       "upstream": "rsync://unencrypted.nodejs.org/nodejs/release/",
       "size": "512.16G",
       "desc": "预编译的 Node.js 二进制程序",
@@ -6468,13 +6468,13 @@
     {
       "cname": "obs-studio",
       "url": "/github-release/obsproject/obs-studio",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "openeuler",
       "options_name": "openeuler",
       "url": "/openeuler",
-      "status": "S1785838504X1785867304",
+      "status": "S1786100579X1786129379",
       "upstream": "rsync://repo.openeuler.openatom.cn/openeuler/",
       "size": "7.18T",
       "desc": "华为公司开源的服务器操作系统"
@@ -6483,7 +6483,7 @@
       "cname": "OpenMediaVault",
       "options_name": "OpenMediaVault",
       "url": "/OpenMediaVault",
-      "status": "S1785847376X1785876176",
+      "status": "S1786106621X1786135421",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/OpenMediaVault/",
       "size": "277.27M",
       "desc": "基于 Debian Linux 的网络附加存储(NAS)解决方案",
@@ -6493,7 +6493,7 @@
       "cname": "openresty",
       "options_name": "openresty",
       "url": "/openresty",
-      "status": "S1785851688X1785880488",
+      "status": "S1786110931X1786139731",
       "upstream": "rsync://mirrors.ustc.edu.cn/openresty/",
       "size": "132.64G",
       "desc": "基于 Nginx 与 Lua 的高性能 Web 平台"
@@ -6502,9 +6502,9 @@
       "cname": "opensuse",
       "options_name": "opensuse",
       "url": "/opensuse",
-      "status": "S1785850586X1785879386",
+      "status": "S1786088374X1786117174",
       "upstream": "rsync://mirrors.ustc.edu.cn/opensuse/",
-      "size": "1.18T",
+      "size": "1.36T",
       "desc": "openSUSE 的安装镜像和官方软件包仓库",
       "help": "/help/opensuse/"
     },
@@ -6512,7 +6512,7 @@
       "cname": "openwrt",
       "options_name": "openwrt",
       "url": "/openwrt",
-      "status": "S1785849780X1785878580",
+      "status": "S1786084583X1786113383",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/openwrt/",
       "size": "1.98T",
       "desc": "OpenWrt/LEDE 软件包镜像源",
@@ -6521,13 +6521,13 @@
     {
       "cname": "orchestrator",
       "url": "/github-release/openark/orchestrator",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "osdn",
       "options_name": "osdn",
       "url": "/osdn",
-      "status": "S1785840916X1785869716",
+      "status": "S1786100160X1786128960",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/osdn/",
       "size": "388.29G",
       "desc": "OSDN 网站提供的开源软件下载"
@@ -6545,9 +6545,9 @@
       "cname": "packman",
       "options_name": "packman",
       "url": "/packman",
-      "status": "S1785856414X1785885214",
+      "status": "S1786087566X1786116366",
       "upstream": "rsync://mirror.karneval.cz/packman/",
-      "size": "172.02G",
+      "size": "171.77G",
       "desc": "为 Debian、Fedora、openSUSE、Ubuntu 提供额外和过期软件包的仓库",
       "help": "/help/packman/"
     },
@@ -6555,15 +6555,15 @@
       "cname": "parabola",
       "options_name": "parabola",
       "url": "/parabola",
-      "status": "S1785857166X1785885966",
+      "status": "S1786088208X1786117008",
       "upstream": "rsync://mirror.nju.edu.cn/parabola/",
-      "size": "324.87G"
+      "size": "320.14G"
     },
     {
       "cname": "pciids",
       "options_name": "pciids",
       "url": "/pciids",
-      "status": "F1785855250O1782978824X1785884050",
+      "status": "F1786085696O1782978824X1786114496",
       "upstream": "https://github.com/netbootxyz/pciids.git",
       "size": "610K"
     },
@@ -6571,15 +6571,15 @@
       "cname": "pcl",
       "options_name": "pcl",
       "url": "/pcl",
-      "status": "S1785828648X1785857448",
+      "status": "S1786087897X1786116697",
       "upstream": "https://github.com/Meloong-Git/PCL.git",
-      "size": "132M"
+      "size": "133M"
     },
     {
       "cname": "pipxe",
       "options_name": "pipxe",
       "url": "/pipxe",
-      "status": "F1785855255O1782978838X1785884055",
+      "status": "F1786085700O1782978838X1786114500",
       "upstream": "https://github.com/ipxe/pipxe.git",
       "size": "238K"
     },
@@ -6587,21 +6587,21 @@
       "cname": "postgresql",
       "options_name": "postgresql",
       "url": "/postgresql",
-      "status": "S1785856343X1785885143",
+      "status": "S1786097666X1786126466",
       "upstream": "https://download.postgresql.org/pub/",
-      "size": "723.22",
+      "size": "727.88",
       "desc": "著名的开源关系型数据库 PostgreSQL 的镜像"
     },
     {
       "cname": "prometheus",
       "url": "/github-release/prometheus/prometheus",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "proxmox",
       "options_name": "proxmox",
       "url": "/proxmox",
-      "status": "S1785794213X1785880613",
+      "status": "S1786059810X1786146210",
       "upstream": "http://download.proxmox.com",
       "size": "276G",
       "desc": "服务器虚拟化环境 Linux 发行版 Proxmox VE",
@@ -6611,7 +6611,7 @@
       "cname": "putty",
       "options_name": "putty",
       "url": "/putty",
-      "status": "S1785846858X1785875658",
+      "status": "S1786106109X1786134909",
       "upstream": "rsync://rsync.chiark.greenend.org.uk/ftp/users/sgtatham/putty-website-mirror/",
       "size": "80.32M"
     },
@@ -6619,9 +6619,9 @@
       "cname": "qt",
       "options_name": "qt",
       "url": "/qt",
-      "status": "S1785854445X1785883245",
+      "status": "S1786108397X1786137197",
       "upstream": "rsync://ftp.acc.umu.se/mirror/qt.io/qtproject/",
-      "size": "2.95T",
+      "size": "3.00T",
       "desc": "跨平台软件开发库 Qt 的源码、开发工具、文档等",
       "help": "/help/qt/"
     },
@@ -6629,17 +6629,17 @@
       "cname": "radxa-deb",
       "options_name": "radxa-deb",
       "url": "/radxa-deb",
-      "status": "S1785844381X1785873181",
+      "status": "S1786103646X1786132446",
       "upstream": "rsync://rsync.radxa.com/radxa/radxa-deb/",
-      "size": "39.50G"
+      "size": "39.58G"
     },
     {
       "cname": "raspberrypi",
       "options_name": "raspberrypi",
       "url": "/raspberrypi",
-      "status": "S1785832064X1785860864",
+      "status": "S1786099027X1786127827",
       "upstream": "rsync://apt-repo.raspberrypi.org/archive/debian/",
-      "size": "627.32G",
+      "size": "637.52G",
       "desc": "一些专为树莓派提供的 Debian 软件包",
       "help": "/help/raspberrypi/"
     },
@@ -6647,9 +6647,9 @@
       "cname": "raspbian",
       "options_name": "raspbian",
       "url": "/raspbian",
-      "status": "S1785838290X1785867090",
+      "status": "S1786099854X1786128654",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/raspbian/",
-      "size": "696.02G",
+      "size": "703.07G",
       "desc": "为树莓派编译的 Debian 系统软件源",
       "help": "/help/raspbian/"
     },
@@ -6657,15 +6657,15 @@
       "cname": "rocky",
       "options_name": "rocky",
       "url": "/rocky",
-      "status": "S1785846494X1785875294",
+      "status": "S1786090862X1786119662",
       "upstream": "rsync://msync.rockylinux.org/rocky/mirror/pub/rocky/",
-      "size": "5.52T"
+      "size": "5.68T"
     },
     {
       "cname": "ros",
       "options_name": "ros",
       "url": "/ros",
-      "status": "S1785849251X1785878051",
+      "status": "S1786108593X1786137393",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ros/",
       "size": "128.50G",
       "desc": "ROS 提供一系列程序库和工具以帮助软件开发者创建机器人应用软件",
@@ -6675,7 +6675,7 @@
       "cname": "ros2",
       "options_name": "ros2",
       "url": "/ros2",
-      "status": "S1785851091X1785879891",
+      "status": "S1786110427X1786139227",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/ros2/",
       "size": "124.63G",
       "desc": "ROS (Robot Operating System) 2.0 版本",
@@ -6685,9 +6685,9 @@
       "cname": "rosdistro",
       "options_name": "rosdistro",
       "url": "/rosdistro",
-      "status": "S1785840635X1785869435N",
+      "status": "S1786099881X1786128681N",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/rosdistro/",
-      "size": "254.45M",
+      "size": "254.74M",
       "desc": "rosdep 所使用的依赖关系数据库",
       "help": "/help/rosdistro/"
     },
@@ -6695,9 +6695,9 @@
       "cname": "rpmfusion",
       "options_name": "rpmfusion",
       "url": "/rpmfusion",
-      "status": "S1785839337X1785868137",
+      "status": "S1786097725X1786126525",
       "upstream": "rsync://mirror.de.leaseweb.net/rpmfusion/",
-      "size": "135.68G",
+      "size": "140.13G",
       "desc": "RPM Fusion 提供了一些 Fedora Project 和 Red Hat 不包含的软件",
       "help": "/help/rpmfusion/"
     },
@@ -6705,7 +6705,7 @@
       "cname": "rubygems",
       "options_name": "rubygems",
       "url": "/rubygems",
-      "status": "S1785854936X1785858536",
+      "status": "S1786110275X1786113875",
       "upstream": "https://rubygems.org",
       "size": "1.10T",
       "desc": "Ruby 的一个包管理器",
@@ -6714,13 +6714,13 @@
     {
       "cname": "rust-analyzer",
       "url": "/github-release/rust-analyzer/rust-analyzer",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "rustup",
       "options_name": "rustup",
       "url": "/rustup",
-      "status": "F1785807319O1782394382X1785893719",
+      "status": "F1786069155O1782394382X1786155555",
       "upstream": "https://rustup.rs/",
       "size": "1.76T",
       "desc": "Rust 的官方安装工具",
@@ -6730,25 +6730,25 @@
       "cname": "slackware",
       "options_name": "slackware",
       "url": "/slackware",
-      "status": "S1785853388X1785882188",
+      "status": "S1786084632X1786113432",
       "upstream": "rsync://ftp.slackware.com/slackware/",
-      "size": "198.81G",
+      "size": "198.84G",
       "desc": "Linux 发行版 Slackware 的源代码和官方软件包仓库"
     },
     {
       "cname": "slackwarearm",
       "options_name": "slackwarearm",
       "url": "/slackwarearm",
-      "status": "S1785844708X1785873508",
+      "status": "S1786104280X1786133080",
       "upstream": "rsync://ftp.arm.slackware.com/slackwarearm/",
-      "size": "52.05G",
+      "size": "52.14G",
       "desc": "用于 ARM 设备的 Slackware 发行版源代码和官方软件包仓库"
     },
     {
       "cname": "solus",
       "options_name": "solus",
       "url": "/solus",
-      "status": "S1785853515X1785882315",
+      "status": "S1786084573X1786113373",
       "upstream": "rsync://packages.getsol.us/soluspackages/",
       "size": "1.54T",
       "desc": "Solus 的软件仓库，致力于制作对新手友好的发行版",
@@ -6758,16 +6758,16 @@
       "cname": "sourceware",
       "options_name": "sourceware",
       "url": "/sourceware",
-      "status": "S1785850514X1785879314N",
+      "status": "S1786110016X1786138816N",
       "upstream": "rsync://sourceware.org/ftp/",
-      "size": "460.48G",
+      "size": "461.36G",
       "desc": "sourceware 网站的项目"
     },
     {
       "cname": "stackage",
       "options_name": "stackage",
       "url": "/stackage",
-      "status": "S1785847354X1785876154",
+      "status": "S1786106607X1786135407",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/stackage/",
       "size": "174.52G",
       "desc": "Haskell 项目管理器 stack 所需的元数据与 ghc 安装包的镜像",
@@ -6776,13 +6776,13 @@
     {
       "cname": "stellarium",
       "url": "/github-release/Stellarium/stellarium",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "sury",
       "options_name": "sury",
       "url": "/sury",
-      "status": "S1785855898X1785884698",
+      "status": "S1786086384X1786115184",
       "upstream": "rsync://rsync.sury.org/repositories/",
       "size": "34.19G"
     },
@@ -6790,30 +6790,30 @@
       "cname": "tailscale",
       "options_name": "tailscale",
       "url": "/tailscale",
-      "status": "S1785847990X1785876790",
+      "status": "S1786107316X1786136116",
       "upstream": "rsync://mirrors.lzu.edu.cn/tailscale/",
-      "size": "49.53G"
+      "size": "50.66G"
     },
     {
       "cname": "termux",
       "options_name": "termux",
       "url": "/termux",
-      "status": "S1785841313X1785870113",
+      "status": "S1786107912X1786136712",
       "upstream": "https://packages-cf.termux.dev",
-      "size": "39G",
+      "size": "14G",
       "desc": "运行在 Android 上的终端模拟器 Termux 的官方软件包仓库",
       "help": "/help/termux/"
     },
     {
       "cname": "texstudio",
       "url": "/github-release/texstudio-org/texstudio",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "u.sb",
       "options_name": "u.sb",
       "url": "/u.sb",
-      "status": "S1785833472X1785862272",
+      "status": "S1786092717X1786121517",
       "upstream": "rsync://mirrors.xtom.com/repo/sb/nginx/",
       "size": "270.24M",
       "desc": "为 Debian / Ubuntu 编译的最新版 nginx"
@@ -6822,9 +6822,9 @@
       "cname": "ubuntu",
       "options_name": "ubuntu",
       "url": "/ubuntu",
-      "status": "S1785835161X1785863961",
+      "status": "S1786093946X1786122746",
       "upstream": "rsync://rsync.archive.ubuntu.com/ubuntu/",
-      "size": "5.08T",
+      "size": "5.11T",
       "desc": "流行的 Linux 发行版 Ubuntu 的安装镜像和官方软件包仓库",
       "help": "/help/ubuntu/"
     },
@@ -6832,7 +6832,7 @@
       "cname": "ubuntu-cdimage",
       "options_name": "ubuntu-cdimage",
       "url": "/ubuntu-cdimage",
-      "status": "S1785834918X1785863718",
+      "status": "S1786094068X1786122868",
       "upstream": "rsync://cdimage.ubuntu.com/cdimage/",
       "size": "2.03T",
       "desc": "Ubuntu 及 Ubuntu 衍生版各版本安装镜像"
@@ -6841,7 +6841,7 @@
       "cname": "ubuntu-cloud-images",
       "options_name": "ubuntu-cloud-images",
       "url": "/ubuntu-cloud-images",
-      "status": "S1785834780X1785863580",
+      "status": "S1786101278X1786130078",
       "upstream": "rsync://cloud-images.ubuntu.com/cloud-images/",
       "size": "2.48T",
       "desc": "适用于公有云的 Ubuntu 安装镜像",
@@ -6851,9 +6851,9 @@
       "cname": "ubuntu-ports",
       "options_name": "ubuntu-ports",
       "url": "/ubuntu-ports",
-      "status": "S1785853751X1785882551",
+      "status": "S1786095033X1786123833",
       "upstream": "rsync://rsync.ports.ubuntu.com/ubuntu-ports/",
-      "size": "5.81T",
+      "size": "5.83T",
       "desc": "armhf, arm64 以及 powerpc 等平台的 Ubuntu 软件仓库",
       "help": "/help/ubuntu-ports/"
     },
@@ -6861,7 +6861,7 @@
       "cname": "ubuntu-releases",
       "options_name": "ubuntu-releases",
       "url": "/ubuntu-releases",
-      "status": "S1785846768X1785875568",
+      "status": "S1786106086X1786134886",
       "upstream": "rsync://rsync.releases.ubuntu.com/releases/",
       "size": "59.36G",
       "desc": "包含近几年发行的 Ubuntu 的镜像"
@@ -6870,7 +6870,7 @@
       "cname": "virtualbox",
       "options_name": "virtualbox",
       "url": "/virtualbox",
-      "status": "S1785821584X1785864784",
+      "status": "S1786081151X1786124351",
       "upstream": "http://download.virtualbox.org/virtualbox",
       "size": "12G",
       "desc": "Oracle 的开源的 x86 架构虚拟机",
@@ -6879,13 +6879,13 @@
     {
       "cname": "VSCodium",
       "url": "/github-release/VSCodium/vscodium",
-      "status": "S1785847105X1785890305"
+      "status": "S1786107559X1786150759"
     },
     {
       "cname": "wine-builds",
       "options_name": "wine-builds",
       "url": "/wine-builds",
-      "status": "S1785847600X1785876400",
+      "status": "S1786106845X1786135645",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/wine-builds/",
       "size": "362.32G"
     },
@@ -6893,7 +6893,7 @@
       "cname": "winehq",
       "options_name": "winehq",
       "url": "/winehq",
-      "status": "S1785840465X1785869265",
+      "status": "S1786099710X1786128510",
       "upstream": "rsync://mirrors.tuna.tsinghua.edu.cn/winehq/",
       "size": "57.58G",
       "desc": "Wine （允许类 Unix 操作系统运行 Windows 程序）"
@@ -6902,15 +6902,15 @@
       "cname": "winget-source",
       "options_name": "winget-source",
       "url": "/winget-source",
-      "status": "S1785833483X1785862283",
+      "status": "S1786094997X1786123797",
       "upstream": "rsync://rsync.mirrors.ustc.edu.cn/winget-source/",
-      "size": "4.95G"
+      "size": "4.96G"
     },
     {
       "cname": "wireshark",
       "options_name": "wireshark",
       "url": "/wireshark",
-      "status": "S1785847476X1785876276",
+      "status": "S1786106736X1786135536",
       "upstream": "rsync://rsync.wireshark.org/wsdl/",
       "size": "211.43G",
       "desc": "一个免费开源的网络数据包分析软件"
@@ -6919,7 +6919,7 @@
       "cname": "zabbix",
       "options_name": "zabbix",
       "url": "/zabbix",
-      "status": "S1785847747X1785876547",
+      "status": "S1786107251X1786136051",
       "upstream": "rsync://repo.zabbix.com/mirror/",
       "size": "611.70G",
       "desc": "著名的网络监视、管理系统"
