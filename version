@@ -1,3 +1,3 @@
 frontend: 292ea97 build(deps): bump github/codeql-action from 4.37.7 to 4.37.8 (#181)
-config: 1315917 Add SYSU Mirror (#18)
+config: ae2db58 Simplify d-extension design
 json_legacy: 2026-08-25T13:56:43.235Z
