@@ -1,3 +1,3 @@
 frontend: 06f7475 build(deps): bump github/codeql-action from 4.37.8 to 4.37.9 (#186)
-config: 1ee59c5 fix: include cernet in legacy pack
+config: 4bf96c0 cqu: add new cidr range (#26)
 json_legacy: 2026-08-31T19:30:15.498Z
