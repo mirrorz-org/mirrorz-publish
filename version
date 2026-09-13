@@ -1,3 +1,3 @@
 frontend: 7c508e3 build(deps): bump js-yaml from 3.15.1 to 3.15.2 (#189)
-config: 7118a8f hust: add 302 configuration file for hust mirrors (#28)
+config: eb1cd71 zju: move mirrorz.json to the site root (#29)
 json_legacy: 2026-09-12T16:10:59.710Z
