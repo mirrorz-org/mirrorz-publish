@@ -1,3 +1,3 @@
-frontend: 5adf99c feat: get language preference on first run (#204)
+frontend: b625ac6 build(deps): bump github/codeql-action from 4.39.0 to 4.39.1 (#205)
 config: 6cea820 xtom: ustclug-v1 -> xtom parser
 json_legacy: 2026-10-25T17:03:23.302Z
